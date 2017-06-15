@@ -4,7 +4,7 @@ import queue as q
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
-# Obtain the value of q
+# Obtain the value of query
 q = int(sys.stdin.readline().strip())
 
 # Obtain the value of head
