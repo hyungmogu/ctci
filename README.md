@@ -1,6 +1,6 @@
-# Summary of what Moe has Learned Today
+# Summary of What Moe has Learned Today
 
-This repository shows the summary of what Moe is doing when he is not working on projects.
+This repository shows a summary of what Moe is doing when he is not working on projects.
 
 ## Work Summary
 ### June 14th, 2017
@@ -10,4 +10,3 @@ This repository shows the summary of what Moe is doing when he is not working on
 
 ### June 13th, 2017
 1. Worked first 3 free interactive c tutorial [here](https://www.learn-c.org/)
-
