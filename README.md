@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 24th, 2017 
+1. Worked on ['Recursion' from free interactive c tutorial](http://www.learn-c.org/en/Recursion)
+
+### June 23rd, 2017
+1. Worked on ['Dynamic Memory Allocation' from free interactive c tutorial](http://www.learn-c.org/en/Dynamic_allocation)
+
 ### June 22nd, 2017
 1. Worked on ['function arguments by reference' from free interactive c tutorial](http://www.learn-c.org/en/Function_arguments_by_reference)
 
