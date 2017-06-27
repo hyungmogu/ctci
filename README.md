@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 25th, 26th, 2017
+1. Worked on ['Array and Pointers' from free interactive c tutorial](http://www.learn-c.org/en/Arrays_and_Pointers)
+
 ### June 24th, 2017 
 1. Worked on ['Recursion' from free interactive c tutorial](http://www.learn-c.org/en/Recursion)
 
