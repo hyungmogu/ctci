@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 2nd, 2017
+1. Solved brute force case for palindrome in Python (Q2.6 6th Edition)
+
 ### June 25th, 26th, 2017
 1. Worked on ['Array and Pointers' from free interactive c tutorial](http://www.learn-c.org/en/Arrays_and_Pointers)
 
