@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 6th, 2017
+1. Solved stack in array form using python (part of review)
+
 ### August 2nd, 2017
 1. Solved brute force case for palindrome in Python (Q2.6 6th Edition)
 2. Solved brute force case for remove duplicates (Q2.1 6th Edition)
