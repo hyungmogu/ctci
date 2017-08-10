@@ -17,7 +17,6 @@ class StackInLinkedList(object):
 		temp.next= self.root
 		self.root = temp
 
-
 	def pop(self):
 
 		if self.root == None:
@@ -30,5 +29,4 @@ class StackInLinkedList(object):
 		return temp.value
 
 	def peek(self):
-
 		return self.root.value

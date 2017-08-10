@@ -6,6 +6,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 9th, 2017
 1. Solved queue in linked list form using python (part of review)
+2. Solved queue in array form using python (part of review)
+
 
 ### August 8th, 2017
 1. Solved stack in array form using python (part of review)
