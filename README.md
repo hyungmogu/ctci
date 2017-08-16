@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 16th, 2017
+1. Solved first part of question 1.1 in ctci 6th edition
+
 ### August 9th, 2017
 1. Solved queue in linked list form using python (part of review)
 2. Solved queue in array form using python (part of review)
