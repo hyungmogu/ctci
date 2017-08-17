@@ -9,6 +9,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 16th, 2017
 1. Solved first part of question 1.1 in ctci 6th edition
+2. Reviewed Arrays, Loops, Functions in C++ in [this tutorial](https://www.udemy.com/video-course-c-from-beginner-to-expert/learn/v4/overview)
+3. Fixed broken link for the demo of item-catalog project 
 
 ### August 9th, 2017
 1. Solved queue in linked list form using python (part of review)
