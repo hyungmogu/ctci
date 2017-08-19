@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 18th, 2017
+1. Solved "delete middle node" problem in ctci 6th edition
+
 ### August 17th, 2017
 1. Solved brute force version of question 1.2 in ctci 6th edition
 
