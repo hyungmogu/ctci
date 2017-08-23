@@ -6,6 +6,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 22nd, 2017
 1. Solved brute force case of "urlify" in ctci 6th edition
+2. Solved "sum list" in ctci 6th edition
 
 ### August 19th, 2017
 1. Solved "palindrome permutation" problem in ctci 6th edition
