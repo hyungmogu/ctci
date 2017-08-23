@@ -53,7 +53,7 @@ def sum_list(number1, number2):
 	current3 = output.head
 	carry_over = 0
 
-	while current1 != None:
+	while current1 != None and current2 != None:
 
 		summed_value = current1.value + current2.value + carry_over
 		if summed_value > 10:
@@ -74,6 +74,37 @@ def sum_list(number1, number2):
 
 		current1 = current1.next
 		current2 = current2.next
+
+
+	while current1 != None:
+
+		if carry_over != 0:
+			summed_value = current1.value + carry_over
+			carry_over = 0
+		else:
+			summed_value = current1.value
+
+		value_of_digit_for_the_output = Node(summed_value)
+
+		current1 = current1.next
+		current3.next = value_of_digit_for_the_output
+		current3 = current3.next
+
+
+	while current2 != None:
+
+		if carry_over != 0:
+			summed_value = current2.value + carry_over
+			carry_over = 0
+		else:
+			summed_value = current2.value
+
+		value_of_digit_for_the_output = Node(summed_value)
+		
+		current2 = current2.next
+		current3.next = value_of_digit_for_the_output
+		current3 = current3.next
+
 
 	return output
 

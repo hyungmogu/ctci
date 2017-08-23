@@ -81,6 +81,30 @@ class TestSumList(unittest.TestCase):
 
 		self.assertEqual(output.display(), "1 6 7")
 
+	def test_when_lists_have_diff_num_of_digits(self):
+
+
+		n1d1 = s.Node(9)
+		n1d2 = s.Node(5)
+		n1d3 = s.Node(3)
+		n1d4 = s.Node(2)
+		n1d5 = s.Node(1)
+
+		n2d1 = s.Node(7)
+		n2d2 = s.Node(5)
+
+		n1 = s.LinkedList(n1d1)
+		n1.insert(n1d2)
+		n1.insert(n1d3)
+		n1.insert(n1d4)
+		n1.insert(n1d5)
+
+		n2 = s.LinkedList(n2d1)
+		n2.insert(n2d2)
+
+		output = s.sum_list(n1,n2)
+
+		self.assertEqual(output.display(), "6 1 4 2 1")
 
 if __name__ == "__main__":
 	unittest.main()
