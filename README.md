@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 24th, 2017
+1. Solved "one away" in ctci 6th edition
+
 ### August 23rd, 2017
 1. Review merge sort
 
