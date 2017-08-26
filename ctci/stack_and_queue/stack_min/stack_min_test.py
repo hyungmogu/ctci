@@ -96,9 +96,44 @@ class TestStackPopMethod(unittest.TestCase):
 		self.assertEqual(stack.head.value, 1)
 		self.assertEqual(stack.head.min, 1)
 
-# class TestStackMinMethod(unittest.TestCase):
+class TestStackMinMethod(unittest.TestCase):
 
-# 	def test_
+	def test_when_linked_list_is_empty(self):
+
+		stack = s.Stack()
+
+		with self.assertRaises(ValueError):
+			stack.min()
+
+
+	def test_when_linked_list_is_not_empty(self):
+		e1 = s.Node(5)
+		e2 = s.Node(3)
+		e3 = s.Node(4)
+		e4 = s.Node(2)
+		e5 = s.Node(1)
+
+		stack = s.Stack()
+
+		stack.push(e1)
+
+		self.assertEqual(stack.min(), 5)
+
+		stack.push(e2)
+
+		self.assertEqual(stack.min(), 3)
+
+		stack.push(e3)
+
+		self.assertEqual(stack.min(), 3)
+
+		stack.push(e4)
+
+		self.assertEqual(stack.min(), 2)
+
+		stack.push(e5)
+
+		self.assertEqual(stack.min(), 1)
 
 
 if __name__ == "__main__":

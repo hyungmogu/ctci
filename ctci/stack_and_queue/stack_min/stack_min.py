@@ -37,7 +37,7 @@ class Stack(object):
 
 		# when linked list is empty
 		if self.head == None:
-			raise ValueError("Operation stopped.")
+			raise ValueError("Operation stopped. The linked list must be non-empty.")
 
 		# when linked list is not empty
 		temp = self.head
@@ -47,3 +47,10 @@ class Stack(object):
 
 		return output
 
+
+	def min(self):
+
+		if self.head == None:
+			raise ValueError("Operation stopped. The linked list must be non-empty.")
+
+		return self.head.min
