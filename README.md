@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 26th, 2017
+1. Solved brute force case of "stack min" problem in ctci 6th ed
+
 ### August 24th, 2017
 1. Solved "one away" in ctci 6th edition
 
