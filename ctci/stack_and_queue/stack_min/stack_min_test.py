@@ -54,11 +54,47 @@ class TestStackPushMethod(unittest.TestCase):
 
 
 
-# class TestStackPopMethod(unittest.TestCase):
+class TestStackPopMethod(unittest.TestCase):
 
-# 	def test_when
+	def test_when_there_are_no_nodes_in_linked_list(self):
+		stack = s.Stack()
 
 
+		with self.assertRaises(ValueError):
+			stack.pop()
+
+
+	def test_when_ll_is_not_empty(self):
+
+		e1 = s.Node(1)
+		e2 = s.Node(2)
+		e3 = s.Node(3)
+
+		stack = s.Stack()
+		stack.push(e1)
+
+		self.assertEqual(stack.head.value, 1)
+		self.assertEqual(stack.head.min, 1)
+
+		stack.push(e2)
+
+		self.assertEqual(stack.head.value, 2)
+		self.assertEqual(stack.head.min, 1)
+
+		stack.push(e3)
+
+		self.assertEqual(stack.head.value, 3)
+		self.assertEqual(stack.head.min, 1)
+
+		stack.pop()
+
+		self.assertEqual(stack.head.value, 2)
+		self.assertEqual(stack.head.min, 1)
+
+		stack.pop()
+
+		self.assertEqual(stack.head.value, 1)
+		self.assertEqual(stack.head.min, 1)
 
 # class TestStackMinMethod(unittest.TestCase):
 

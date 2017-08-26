@@ -4,11 +4,9 @@ class Node(object):
 		self.next = None
 		self.min = None
 
-
-
 class Stack(object):
 	def __init__(self, head = None):
-		self.head = head
+		self.head = None 
 
 	def push(self, node):
 
@@ -35,4 +33,17 @@ class Stack(object):
 		self.head = node
 
 
-	# def pop(self):
+	def pop(self):
+
+		# when linked list is empty
+		if self.head == None:
+			raise ValueError("Operation stopped.")
+
+		# when linked list is not empty
+		temp = self.head
+		output = temp.value
+		self.head = temp.next
+		temp.next = None
+
+		return output
+
