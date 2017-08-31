@@ -3,20 +3,23 @@
 using namespace std;
 
 
-string reversed_string(string string_var);
+void reversed_string(string *string_var);
 
 int main() {
-	string example = "hello world";
-	string expected_output = "dlrow olleh";
-	string output_string;
-	string exception;
+	string example1 = "hello world/0";
+	string expected_output = "dlrow olleh/0";
+	string example2 = "a";
 
-	output_string = reversed_string(example);
+	reversed_string(&example1);
+	reversed_string(&example2);
 
-	cout << "Output: " << output_string << endl;
+	if (example2 != "a") {
+		cout << "The output (" << example2 << ") is not the same as the expected_output (" << expected_output << ")" << endl; 
+		return 1;
+	}
 
-	if (output_string != expected_output) {
-		cout << "The output (" << output_string << ") is not the same as the expected_output (" << expected_output << ")" << endl; 
+	if (example1 != expected_output) {
+		cout << "The output (" << example1 << ") is not the same as the expected_output (" << expected_output << ")" << endl; 
 		return 1;
 	} 
 
@@ -25,20 +28,21 @@ int main() {
 	return 0;
 } 
 
-string reversed_string(string string_var) {
-	int string_length = string_var.length();
-	string reversed_string = "";
+void reversed_string(string *string_var) {
+	// -1 is done to exclude '/0' symbol
+	int string_length = (*string_var).length() - 2;
+	char temp;
 
 	if (string_length == 0) {
 		throw length_error("Error. Length of string must be greater than 0");
 	} else if (string_length == 1){
-		return string_var;
+		return;
 	} else {
-		for (int i = string_length - 1; i >= 0; i--) {
-			reversed_string += string_var[i];
+		for (int i = string_length - 1; i >= string_length/2; i--) {
+			temp = (*string_var)[i];
+			(*string_var)[i] = (*string_var)[string_length - (i+1)];
+			(*string_var)[string_length - (i+1)] = temp;
 		}
-
-		return reversed_string;
 	};
 
 }
