@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 17th, 2018
+1. Solved "Zero Matrix" problem in ctci 6th ed (Q1.8)
+
 ### August 30th, 2017
 1. Solved "reverse string" problem in ctci 6th ed (Q12.2)
 
