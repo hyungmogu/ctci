@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### July 18th, 2018
+1. worked on "String Compression" problem in ctci 6th ed (Q1.6)
+
 ### July 17th, 2018
 1. Solved "Zero Matrix" problem in ctci 6th ed (Q1.8)
 
