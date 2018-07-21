@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 20th, 2018
+1. worked on "Intersection" problem in ctci 6th ed (Q2.7)
+
 ### July 19th, 2018
 1. Solved "String Compression" problem in ctci 6th ed (Q1.6)
 
