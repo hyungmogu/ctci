@@ -4,6 +4,18 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 20th, 2018
+1. worked on "Intersection" problem in ctci 6th ed (Q2.7)
+
+### July 19th, 2018
+1. Solved "String Compression" problem in ctci 6th ed (Q1.6)
+
+### July 18th, 2018
+1. worked on "String Compression" problem in ctci 6th ed (Q1.6)
+
+### July 17th, 2018
+1. Solved "Zero Matrix" problem in ctci 6th ed (Q1.8)
+
 ### August 30th, 2017
 1. Solved "reverse string" problem in ctci 6th ed (Q12.2)
 
