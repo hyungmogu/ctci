@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 23rd, 2018
+1. Solved "intersection" problem in ctci 6th ed (Q2.7)
+
 ### July 22nd, 2018
 1. Solved "matrix rotation" problem in ctci 6th ed (Q1.7)
 
