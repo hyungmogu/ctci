@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 25th, 2018
+1. Solved a brute force case of "circular linked list" problem in ctci 6th ed (Q.2.8)
+
 ### July 23rd, 2018
 1. Solved "intersection" problem in ctci 6th ed (Q2.7)
 
