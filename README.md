@@ -1,4 +1,4 @@
-# Summary of what Moe h\as done today
+# Summary of what Moe has done today
 
 This repository shows a summary of what Moe is doing / learning when he is not working on projects.
 
