@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 26th, 2018
+1. Went through 'Write Expressive Tests' in CodeAcademy's Test Driven Development
+
 ### July 25th, 2018
 1. Solved a brute force case of "circular linked list" problem in ctci 6th ed (Q.2.8)
 2. Sovled "route between nodes" problem in ctci 6th ed (Q4.1)
