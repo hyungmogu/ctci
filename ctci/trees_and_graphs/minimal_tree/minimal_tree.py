@@ -31,24 +31,28 @@ class BinarySearchTree:
 			output = Node(array[0]) 
 			return output
 
+		if start > end:
+			return output
+
 		# see if it meets the base condition (for recursion)
 		if start == end:
 			output = Node(array[start]) 
 			return output	
 
 		# get the middle of the array
-		middle_idx = int(math.floor((((start * 1.0) - end)/2)))
+		middle_idx = int(math.floor((end + (start * 1.0))/2))
 
 		middle_node = Node(array[middle_idx])
 
+		print(str(middle_idx) + '\n')
+		print(str(start) + '\n')
+		print(str(end) + '\n')
+		print('----------')
+
 
 		# get the left chind and the right child of the array
-
-		if (middle_idx - 1 >= start):
-			leftChild = BinarySearchTree.create_bst(start, middle_idx - 1, array)
-
-		if (middle_idx + 1 <= end):
-			rightChild = BinarySearchTree.create_bst(middle_idx + 1, end, array)
+		leftChild = BinarySearchTree.create_bst(start, middle_idx - 1, array)
+		rightChild = BinarySearchTree.create_bst(middle_idx + 1, end, array)
 
 
 		middle_node.leftChild = leftChild
@@ -57,5 +61,4 @@ class BinarySearchTree:
 		output = middle_node
 
 		return output
-
 
