@@ -1,8 +1,12 @@
-# Summary of what Moe has done today
+# Personal Dev Log
 
-This repository shows a summary of what Moe is doing / learning when he is not working on projects.
+This repository shows a summary of what Moe is doing / learning when he is not working.
 
 ## Work Summary
+
+### July 28th, 2018
+1. Went through the rest of content for the week2 of CodeAcademy's Test Drivin Development
+2. Solved
 
 ### July 27th, 2018
 1. Solved 'minimal tree' problem in ctci 6th ed (Q4.2)

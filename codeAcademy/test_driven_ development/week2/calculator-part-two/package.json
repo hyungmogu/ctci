@@ -1,0 +1,17 @@
+{
+  "name": "learn-mocha-tdd-tdd-with-mocha-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
