@@ -4,9 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 29th, 2018
+1. Solved 'list of depth' problem in ctci 6th ed (Q4.3)
+
 ### July 28th, 2018
-1. Went through the rest of content for the week2 of CodeAcademy's Test Drivin Development
-2. Solved
+1. Went through the rest of content for the week2 of CodeAcademy's Test Driven Development
 
 ### July 27th, 2018
 1. Solved 'minimal tree' problem in ctci 6th ed (Q4.2)
