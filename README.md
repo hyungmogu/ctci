@@ -6,6 +6,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### July 29th, 2018
 1. Solved 'list of depth' problem in ctci 6th ed (Q4.3)
+2. Went through the content for the week3 of CodeAcademy's Test Driven Development
+3. Worked on week2 of Coursera's Deep Learning Course (to be deferred until finishing codeAcademy).
 
 ### July 28th, 2018
 1. Went through the rest of content for the week2 of CodeAcademy's Test Driven Development
@@ -71,7 +73,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 16th, 2017
 1. Solved first part of question 1.1 in ctci 6th edition
 2. Reviewed Arrays, Loops, Functions in C++ in [this tutorial](https://www.udemy.com/video-course-c-from-beginner-to-expert/learn/v4/overview)
-3. Fixed broken link for the demo of item-catalog project 
+3. Fixed broken link for the demo of item-catalog project
 
 ### August 9th, 2017
 1. Solved queue in linked list form using python (part of review)
@@ -91,7 +93,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### June 25th, 26th, 2017
 1. Worked on ['Array and Pointers' from free interactive c tutorial](http://www.learn-c.org/en/Arrays_and_Pointers)
 
-### June 24th, 2017 
+### June 24th, 2017
 1. Worked on ['Recursion' from free interactive c tutorial](http://www.learn-c.org/en/Recursion)
 
 ### June 23rd, 2017
@@ -107,7 +109,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### June 19th, 2017
 
 ### June 18th, 2017
-1. Worked on ['pointers' from free interactive c tutorial](http://www.learn-c.org/en/Pointers) 
+1. Worked on ['pointers' from free interactive c tutorial](http://www.learn-c.org/en/Pointers)
 
 ### June 17th, 2017
 
@@ -122,7 +124,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### June 14th, 2017
 1. Worked on ['multi-dimensional Array' from the free interactive c tutorial](https://www.learn-c.org/en/Multidimensional_Arrays)
 2. Worked on ['strings' from the free interactive c tutorial](https://www.learn-c.org/en/Strings)
-3. Solved algorithmic problem on queue [here](https://www.hackerrank.com/challenges/queue-using-two-stacks/submissions/code/46791339) 
+3. Solved algorithmic problem on queue [here](https://www.hackerrank.com/challenges/queue-using-two-stacks/submissions/code/46791339)
 4. Practiced unit testing using python's unittest library [see here](https://github.com/hyungmogu/What-s-Moe-learning/blob/master/algorithm/queue/test.py)
 5. Learned about forloops in c programming language [see here](http://www.learn-c.org/en/For_loops)
 
