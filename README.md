@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 30th, 2018
+1. Solved 'validate bst' problem in ctci 6th ed (Q.4.5) 
+
 ### July 29th, 2018
 1. Solved 'list of depth' problem in ctci 6th ed (Q4.3)
 2. Went through the content for the week3 of CodeAcademy's Test Driven Development
