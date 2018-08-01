@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 31st, 2018
+1. Worked on 'successor' problem in ctci 6th ed (Q.4.6)
+
 ### July 30th, 2018
 1. Solved 'validate bst' problem in ctci 6th ed (Q.4.5) 
 
