@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 3rd, 2018
+1. Went through Day 1 and Day 2, and began working on Project: Gather: Part II of Week 4 of CodeAcademy's Test Driven Development.
+
 ### July 31st, 2018
 1. Worked on 'successor' problem in ctci 6th ed (Q.4.6)
 
