@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 4th, 2018
+1. Finished Project: Gather: Part II of Week 4 of CodeAcademy's Test Driven Development
+2. Finished Project: Gather: Part III of Week 5 of CodeAcademy's Test Driven Development
+
 ### August 3rd, 2018
 1. Went through Day 1 and Day 2, and began working on Project: Gather: Part II of Week 4 of CodeAcademy's Test Driven Development.
 
