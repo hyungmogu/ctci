@@ -1,0 +1,8 @@
+<form method="post" action="/videos">
+    <input id="video-title" type="text" value="{{newVideo.title}}" name="title">
+    {{#with newVideo.errors.title as |error|}}
+        <span>{{error.message}}</span>
+    {{/with}}
+    <textarea id="video-description" name="description">{{newVideo.description}}</textarea>
+    <input type="submit" value="Save a Video"/>
+</form>
