@@ -1,0 +1,45 @@
+
+<div id="title-container">
+    <a href="/">
+    <img src="img/logo.svg" alt="logo" />
+    <div id="title">gather</div>
+    </a>
+</div>
+<div class="create-container">
+    <div class="create-card">
+    <div class="create-column">
+        <img id="created-image" src="" />
+    </div>
+    <div class="divider">
+    </div>
+    <div class="create-column">
+        <!-- Add your title code here: -->
+        <form class="input-form" action="/items/create" method="post" >
+        <!-- Add your form elements here -->
+        <input id="title-input" name="title" value="{{newItem.title}}" type="text">
+        {{#with newItem.errors.title as |errorTitle|}}
+            <span>{{errorTitle.message}}</span>
+        {{/with}}
+        <textarea id="description-input" name="description">{{newItem.description}}</textarea>
+        {{#with newItem.errors.description as |errorDesc|}}
+            <span>{{errorDesc.message}}</span>
+        {{/with}}
+        <input id="imageUrl-input" name="imageUrl" value="{{newItem.imageUrl}}" type="text">
+        {{#with newItem.errors.imageUrl as |errorImg|}}
+            <span>{{errorImg.message}}</span>
+        {{/with}}
+        <button id="submit-button" type="submit">
+            <p>Submit</p>
+        </button>
+        </form>
+    </div>
+    </div>
+</div>
+<script>
+    var img = document.getElementById('created-image');
+    function handleChange(e) {
+    var path = e.target.value.match(/^(https*:\/\/)/i) ? '' : 'http://';
+    img.src = path + e.target.value;
+    }
+    document.getElementById('imageUrl-input').oninput = handleChange;
+</script>
