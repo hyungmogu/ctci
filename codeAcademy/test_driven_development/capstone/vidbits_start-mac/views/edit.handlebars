@@ -1,4 +1,4 @@
-<form method="post" action="/videos">
+<form method="post" action="/videos/{{newVideo._id}}/updates">
     <input id="video-title" type="text" value="{{newVideo.title}}" name="title">
     {{#with newVideo.errors.title as |error|}}
         <span>{{error.message}}</span>

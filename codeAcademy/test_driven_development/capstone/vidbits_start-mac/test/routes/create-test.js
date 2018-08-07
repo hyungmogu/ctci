@@ -17,68 +17,88 @@ const findElement = (htmlAsString, selector) => {
     }
 };
 
-describe('Sever path /videos', () => {
+describe('Sever path /videos/create', () => {
     const itemToInsert = buildItemObject();
     beforeEach(connectDatabaseAndDropData);
     afterEach(disconnectDatabase);
 
     describe('POST', () => {
-        it ('returns the status code of 201', async () => {
+        it ('returns the status code of 302', async () => {
             const response = await request(app).post('/videos').type('form').send(itemToInsert);
 
-            assert.equal(response.status, 201);
+            assert.equal(response.status, 302);
         });
 
         it ('stores item to database', async () => {
-            console.log(itemToInsert);
             const response = await request(app).post('/videos').type('form').send(itemToInsert);
             const video = await Video.findOne({});
 
             assert.equal(video.title, itemToInsert.title);
+            assert.equal(video.videoUrl, itemToInsert.videoUrl);
             assert.equal(video.description, itemToInsert.description);
         });
 
         it ('returns error with no title', async () => {
             let altItemToInsert = {
-              description: itemToInsert.description
+              description: itemToInsert.description,
+              videoUrl: itemToInsert.videoUrl
             };
 
             const response = await request(app).post('/videos').type('form').send(altItemToInsert);
 
             assert.equal(response.status, 400);
-            assert.include(parseTextFromHTML(response.text,'form'), 'required');
+            assert.include(parseTextFromHTML(response.text,'form'), 'Path `title` is required.');
         });
 
-        it ('preserves other fiels with no title', async () => {
+        it ('returns error with no videoUrl', async () => {
             let altItemToInsert = {
+                title: itemToInsert.title,
                 description: itemToInsert.description
             };
 
             const response = await request(app).post('/videos').type('form').send(altItemToInsert);
+
+            assert.equal(response.status, 400);
+            assert.include(parseTextFromHTML(response.text,'form'), 'Path `videoUrl` is required.');
+        });
+
+        it ('redirects to /videos/:id on submit', async () => {
+            const itemToInsert = buildItemObject();
+            const response = await request(app).post('/videos').type('form').send(itemToInsert);
+            const video = await Video.findOne({});
+
+            assert.equal(response.status, 302);
+            assert.equal(response.header.location, '/videos/' + video._id);
+        });
+
+        it ('preserves other fields with no title', async () => {
+            let altItemToInsert = {
+                description: itemToInsert.description,
+                videoUrl: itemToInsert.videoUrl
+            };
+
+            const response = await request(app).post('/videos').type('form').send(altItemToInsert);
+            const vieoUrlInput = findElement(response.text, '#video-url');
             const titleInput = findElement(response.text, '#video-title');
 
+            assert.equal(vieoUrlInput.value, altItemToInsert.videoUrl);
             assert.equal(titleInput.value, '');
             assert.include(parseTextFromHTML(response.text,'textarea'), altItemToInsert.description);
         });
 
-        // it ('redirects to landing page on submit', async () => {
-        //     const itemToInsert = buildItemObject();
-        //     const response = await request(app).post('/videos').type('form').send(itemToInsert);
+        it ('preserves other fields with no videoUrl', async () => {
+            let altItemToInsert = {
+                title: itemToInsert.title,
+                description: itemToInsert.description
+            };
 
-        //     assert.equal(response.status, 302);
-        //     assert.equal(response.header.location, '/');
-        // });
+            const response = await request(app).post('/videos').type('form').send(altItemToInsert);
+            const vieoUrlInput = findElement(response.text, '#video-url');
+            const titleInput = findElement(response.text, '#video-title');
 
-        // it ('shows created video on landing page', async () => {
-        //     // setup
-        //     const itemToInsert = buildItemObject();
-
-        //     // exercise
-        //     const response = await request(app).post('/videos').type('form').send(itemToInsert);
-
-        //     // verify
-        //     assert.include(parseTextFromHTML(), itemToInsert.title);
-        //     assert.include(parseTextFromHTML(), itemToInsert.description);
-        // });
+            assert.equal(vieoUrlInput.value, '');
+            assert.equal(titleInput.value, altItemToInsert.title);
+            assert.include(parseTextFromHTML(response.text,'textarea'), altItemToInsert.description);
+        });
     });
 });

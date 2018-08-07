@@ -8,14 +8,22 @@ const Video = require('../../models/video');
 const {parseTextFromHTML, seedItemToDatabase, buildItemObject} = require('../test-utils');
 const {connectDatabaseAndDropData, disconnectDatabase} = require('../database-utils');
 
+const findElement = (htmlAsString, selector) => {
+    const element = jsdom(htmlAsString).querySelector(selector);
+    if (element !== null) {
+      return element;
+    } else {
+      throw new Error('Element not found in HTML string');
+    }
+};
 
-describe('Sever path /', () => {
+describe('Sever path /videos', () => {
 
     beforeEach(connectDatabaseAndDropData);
     afterEach(disconnectDatabase);
 
     describe('default', () => {
-        it ('returns the status code of 200', async () => {
+        it ('returns the status code of 302', async () => {
             // exercise
             const response = await request(app).get('/');
             assert.equal(response.status, 302);
@@ -30,13 +38,14 @@ describe('Sever path /', () => {
         });
     });
 
-    describe('with existing videos', ()=> {
+    describe('with an existing video', ()=> {
         it ('renders the page with the item', async() => {
-            const item = await seedItemToDatabase();
-
+            const video = await seedItemToDatabase();
             const response = await request(app).get('/videos');
 
-            assert.include(parseTextFromHTML(response.text, '.video-title'), item.title);
+            const iframe = findElement(response.text, '.video-player');
+            assert.equal(iframe.src, video.videoUrl);
+            assert.include(parseTextFromHTML(response.text, '.video-title'), video.title);
         });
     });
 });

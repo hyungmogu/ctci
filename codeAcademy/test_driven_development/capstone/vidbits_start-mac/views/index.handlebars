@@ -4,7 +4,9 @@
         <div class="video-title">
             {{video.title}}
         </div>
+        <iframe class="video-player" src="{{video.videoUrl}}" frameborder="0" allowfullscreen></iframe>
+        <a href="/videos/{{video._id}}">See More</a>
     </div>
 {{/each}}
 </div>
-<a href="create.html">Create a Video</a>
+<a href="/videos/create">Create a Video</a>
