@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 9th, 2018
+1. Finished week 2 of Coursera's Neural Networks and Deep Learning
+
 ### August 8th, 2018
 1. Submitted Python basics with Numpy - Coursera Deep Learning Course (week2)
 
