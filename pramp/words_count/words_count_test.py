@@ -24,6 +24,16 @@ class TestCountKeyWords(unittest.TestCase):
     def setUp(self):
         self.example = "Practice makes perfect. you'll only get Perfect by practice. just practice!"
 
+    def test_size_of_expected_and_result_must_equal(self):
+        # setup
+        expected = 8
+
+        # exercise
+        result = len(wc.count_keywords(self.example))
+
+        # verify
+        self.assertEqual(result, expected)
+
     def test_output(self):
         # setup
         expected = {
@@ -39,12 +49,8 @@ class TestCountKeyWords(unittest.TestCase):
 
         # exercise
         result = wc.count_keywords(self.example)
-        size_expected = len(expected)
-        size_result = len(result)
 
         # verify
-
-        self.assertEqual(size_expected, size_result)
         for item in result:
             self.assertIsNotNone(expected.get(item[0]))
             self.assertEqual(item[1], expected.get(item[0]))
@@ -56,30 +62,51 @@ class TestStripPunctuation(unittest.TestCase):
         self.example2 = "he'd"
         self.example3 = ".hello"
 
-    def test_symbols_are_removed(self):
+    def test_symbols_in_beginning_is_removed(self):
+        expected = "hello"
+
+        result = wc.strip_punctuation(self.example3)
+
+        self.assertEqual(result, expected)
+
+    def test_symbols_in_mid_is_removed(self):
+        expected = "hed"
+
+        result = wc.strip_punctuation(self.example2)
+
+        self.assertEqual(result, expected)
+
+    def test_symbols_at_end_is_removed(self):
         # Setup
-        expected1 = "hello"
-        expected2 = "hed"
-        expected3 = "hello"
+        expected = "hello"
 
         # Exercise
-        result1 = wc.strip_punctuation(self.example1)
-        result2 = wc.strip_punctuation(self.example2)
-        result3 = wc.strip_punctuation(self.example3)
+        result = wc.strip_punctuation(self.example1)
 
         # Verify
-        self.assertEqual(result1, expected1)
-        self.assertEqual(result2, expected2)
-        self.assertEqual(result3, expected3)
+        self.assertEqual(result, expected)
 
 class TestWordCountEngine(unittest.TestCase):
 
     def setUp(self):
         self.example = "Practice makes perfect. you'll only get Perfect by practice. just practice!"
 
-    def test_output(self):
+    def test_size_of_expected_and_result_must_equal(self):
+        expected  = 8
 
-        return output
+        result = len(wc.words_count_engine(self.example))
+
+        self.assertEqual(expected, result)
+
+    def test_count_is_in_decreasing_order(self):
+        expected  = ["3","2","1","1","1","1","1","1"]
+
+        # exercise
+        result = wc.words_count_engine(self.example)
+
+        for index in range(len(result)):
+            self.assertEqual(result[index][1], expected[index])
+
 
 if __name__ == "__main__":
     unittest.main()
