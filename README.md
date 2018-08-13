@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 12th, 2018
+1. Worked on week 3 of coursera's Neural Networks and Deep Learning course.
+
 ### August 11th, 2018
 1. Worked on Words Count Problem By Pramp
 
