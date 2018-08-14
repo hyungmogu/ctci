@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 13th, 2018
+1. Finished week 3 of coursera's Neural Networks
+
+![Week3 Submission Result](coursera/deep_learning1/week3/week3_result.png?raw=true)
+
 ### August 12th, 2018
 1. Worked on week 3 of coursera's Neural Networks and Deep Learning course.
 
@@ -34,7 +39,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on 'successor' problem in ctci 6th ed (Q.4.6)
 
 ### July 30th, 2018
-1. Solved 'validate bst' problem in ctci 6th ed (Q.4.5) 
+1. Solved 'validate bst' problem in ctci 6th ed (Q.4.5)
 
 ### July 29th, 2018
 1. Solved 'list of depth' problem in ctci 6th ed (Q4.3)
