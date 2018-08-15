@@ -5,12 +5,17 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### August 13th, 2018
-1. Finished week 3 of coursera's Neural Networks
+1. Finished week 4 Assignment 1 of Coursera's Neural Networks
+
+![Week4 Assignment 1 Submission Result](coursera/deep_learning1/week4/week4_assignment1_result1.png?raw=true)
+
+### August 13th, 2018
+1. Finished week 3 of Coursera's Neural Networks
 
 ![Week3 Submission Result](coursera/deep_learning1/week3/week3_result.png?raw=true)
 
 ### August 12th, 2018
-1. Worked on week 3 of coursera's Neural Networks and Deep Learning course.
+1. Worked on week 3 of Coursera's Neural Networks and Deep Learning course.
 
 ### August 11th, 2018
 1. Worked on Words Count Problem By Pramp
