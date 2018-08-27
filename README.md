@@ -4,7 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### August 13th, 2018
+### August 26th, 2018
+1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM) 
+
+### August 14th, 2018
 1. Finished week 4 Assignment 1 of Coursera's Neural Networks
 
 ### August 13th, 2018
