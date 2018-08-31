@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 30th, 2018
+1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp mock-interview
+
 ### August 26th, 2018
 1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM) 
 
