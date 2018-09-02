@@ -6,10 +6,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### September 1st, 2018
 1. Worked on ['fizzbuzz'](https://youtu.be/nk-Qjxj1ejA) problem for Pramp mock-interview
+2. Worked on ['palindrome'](https://youtu.be/-4WhULRiNcA) problem for Pramp's mock-interview
 
 ### August 30th, 2018
-1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp mock-interview
-2. Worked on fizzbuzz problem for Pramp mock-interview 
+1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp's mock-interview
+2. Worked on fizzbuzz problem for Pramp's mock-interview 
 
 ### August 26th, 2018
 1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM) 
