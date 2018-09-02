@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 2nd, 2018
+1. Worked on ['array chunking'](https://youtu.be/y2xQsTLusUg) problem for Pramp mock-interview
+
 ### September 1st, 2018
 1. Worked on ['fizzbuzz'](https://youtu.be/nk-Qjxj1ejA) problem for Pramp mock-interview
 2. Worked on ['palindrome'](https://youtu.be/-4WhULRiNcA) problem for Pramp's mock-interview
