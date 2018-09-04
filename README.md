@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 4th, 2018
+1. Worked on ['drone flight planner'](https://youtu.be/296Qk7fWbP0) problem for Pramp mock-interview
+
 ### September 2nd, 2018
 1. Worked on ['array chunking'](https://youtu.be/y2xQsTLusUg) problem for Pramp mock-interview
 
