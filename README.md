@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 7th, 2018
+1. Worked on ['root of a number'](https://youtu.be/EcQrJqIg7Ls) problem for Pramp mock-interview
+
+### September 5th, 2018
+1. Did first Pramp Mock interview (Root of a number). Yay!
+
 ### September 4th, 2018
 1. Worked on ['drone flight planner'](https://youtu.be/296Qk7fWbP0) problem for Pramp mock-interview
 
