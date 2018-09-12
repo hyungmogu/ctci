@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 11th, 2018
+1. Did second Pramp Mock Interview (pancake sort)
+
 ### September 7th, 2018
 1. Worked on ['root of a number'](https://youtu.be/EcQrJqIg7Ls) problem for Pramp mock-interview
 
