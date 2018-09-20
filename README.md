@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 19th, 2018
+1. Worked on 'decrpyt message' problem for Pramp mock-interview
+
+### Semptember 12th, 2018
+1. Did third pramp mock interview (Decrypt Message)
+
 ### September 11th, 2018
 1. Did second Pramp Mock Interview (pancake sort)
 
