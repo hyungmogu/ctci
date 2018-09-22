@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 21st, 2018
+1. Worked on the coding part of 'anagram' problem
+
 ### September 19th, 2018
 1. Worked on 'decrpyt message' problem for Pramp mock-interview
 
