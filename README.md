@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 26th, 2018
+1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'capitalize letter' problem
+
 ### September 23rd, 2018
 1. Worked on the coding part of 'capitalize letter' problem
 2. Worked on Quiz 1 of week 1 of coursera's Improving Deep Neural Networks course
