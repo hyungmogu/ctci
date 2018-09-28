@@ -23,8 +23,8 @@ class TestGetSteps(unittest.TestCase):
         self.example3 = 1
 
     def test_return_get_steps(self):
-        expected1 = ['#', '##', '###', '####']
-        expected2 = ['#', '##', '###', '####', '#####']
+        expected1 = ['#   ', '##  ', '### ', '####']
+        expected2 = ['#    ', '##   ', '###  ', '#### ', '#####']
         expected3 = ['#']
 
         result1 = p.get_steps(self.example1)

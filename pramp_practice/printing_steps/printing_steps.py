@@ -4,9 +4,9 @@
 # The function should console log a step shape with N levels using the '#' character.
 # Make sure the step has spaces on the right hand side.
 
-# print_steps(1) --> '#'
-# print_steps(3) --> '#'
-#                    '##'
+# print_steps(1) --> '#  '
+# print_steps(3) --> '#  '
+#                    '## '
 #                    '###'
 # ['#', '##', '###']
 
@@ -35,6 +35,9 @@ def get_steps(steps):
         step = ''
         for idx_shap in range(idx+1):
             step += '#'
+
+        for idx_shape in range(idx, steps):
+            step += ' '
 
         output.append(step)
 
