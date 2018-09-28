@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 27th, 2018
+1. Worked on ['printing steps'](https://youtu.be/6vWfsv8pcPY) problem
+
 ### September 26th, 2018
 1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'capitalize letter' problem
 
