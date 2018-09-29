@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 29th, 2018
+1. Worked on ['pyramid'](https://youtu.be/nx5BdPNkH8U) problem
+
 ### September 27th, 2018
 1. Worked on ['printing steps'](https://youtu.be/6vWfsv8pcPY) problem
 
@@ -48,10 +51,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 30th, 2018
 1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp's mock-interview
-2. Worked on fizzbuzz problem for Pramp's mock-interview 
+2. Worked on fizzbuzz problem for Pramp's mock-interview
 
 ### August 26th, 2018
-1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM) 
+1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM)
 
 ### August 14th, 2018
 1. Finished week 4 Assignment 1 of Coursera's Neural Networks
