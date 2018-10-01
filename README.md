@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 30th, 2018
+1. Worked on ['Get your Vowels']( https://youtu.be/uXkBMXY-kco) problem
+
 ### September 29th, 2018
 1. Worked on ['pyramid'](https://youtu.be/nx5BdPNkH8U) problem
 
@@ -16,7 +19,6 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### September 23rd, 2018
 1. Worked on the coding part of 'capitalize letter' problem
 2. Worked on Quiz 1 of week 1 of coursera's Improving Deep Neural Networks course
-
 
 ### September 22nd, 2018
 1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'anagram' problem
