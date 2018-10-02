@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 1st, 2018
+1. Worked on coding part of 'matrix spiral' problem
+
 ### September 30th, 2018
 1. Worked on ['Get your Vowels']( https://youtu.be/uXkBMXY-kco) problem
 
