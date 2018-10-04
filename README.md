@@ -6,6 +6,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### October 3rd, 2018
 1. Worked on video part of ['matrix spiral'](https://youtu.be/wxaR3ssPjbk) problem
+2. Worked on ['fibonacci number'](https://youtu.be/BMev35aETC8) problem
 
 ### October 1st, 2018
 1. Worked on coding part of 'matrix spiral' problem
