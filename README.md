@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 4th, 2018
+1. Worked on ['Enqueue dequeue'](https://youtu.be/vpjoTPW9PoM) learning exercise
+
 ### October 3rd, 2018
 1. Worked on video part of ['matrix spiral'](https://youtu.be/wxaR3ssPjbk) problem
 2. Worked on ['fibonacci number'](https://youtu.be/BMev35aETC8) problem
