@@ -6,10 +6,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### October 7th, 2018
 1. Worked on ['stack'](https://youtu.be/EVyNkQsH27U) learning exercise
+2. Worked on video part of ['two sum'](https://youtu.be/RTq1dX5UHDY)
 
 ### October 6th, 2018
 1. Worked on ['Weave'](https://youtu.be/RKWtJljCcxg) problem
-2. Worked on coding part of 'two_sum (brute force)' problem
+2. Worked on coding part of 'two sum (brute force)' problem
 
 ### October 4th, 2018
 1. Worked on ['Enqueue dequeue'](https://youtu.be/vpjoTPW9PoM) learning exercise
