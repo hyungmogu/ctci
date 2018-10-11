@@ -4,8 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 10th, 2018
+1. Worked on [video](https://youtu.be/lYZU-ZcJ9jY) part of 'two become one' problem
+
 ### October 9th, 2018
-1. Worked on coding part of 'two_become_one' problem
+1. Worked on coding part of 'two become one' problem
 
 ### October 7th, 2018
 1. Worked on ['stack'](https://youtu.be/EVyNkQsH27U) learning exercise
