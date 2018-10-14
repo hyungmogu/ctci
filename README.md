@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 13th, 2018
+1. Worked on coding part of 'Linked List' problem
+
 ### October 10th, 2018
 1. Worked on [video](https://youtu.be/lYZU-ZcJ9jY) part of 'two become one' problem
 
