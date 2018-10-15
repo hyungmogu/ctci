@@ -5,56 +5,56 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### October 14th, 2018
-1. Worked on part - [1](https://youtu.be/U6B3m40yYBI) && [2](https://youtu.be/Jo0Ih2grhPk) (4 / 11) methods of 'Linked List' Problem
+1. Worked on part - [1](https://youtu.be/U6B3m40yYBI) && [2](https://youtu.be/Jo0Ih2grhPk) (4 / 11) methods of 'Linked List' Problem (Part 21/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 13th, 2018
-1. Worked on coding part of 'Linked List' problem
+1. Worked on coding part of 'Linked List' problem (Part 21/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 10th, 2018
-1. Worked on [video](https://youtu.be/lYZU-ZcJ9jY) part of 'two become one' problem
+1. Worked on [video](https://youtu.be/lYZU-ZcJ9jY) part of 'two become one' problem (Part 20/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 9th, 2018
-1. Worked on coding part of 'two become one' problem
+1. Worked on coding part of 'two become one' problem (Part 20/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 7th, 2018
-1. Worked on ['stack'](https://youtu.be/EVyNkQsH27U) learning exercise
-2. Worked on video part of ['two sum'](https://youtu.be/RTq1dX5UHDY)
+1. Worked on ['stack'](https://youtu.be/EVyNkQsH27U) learning exercise (Part 19/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on video part of ['two sum'](https://youtu.be/RTq1dX5UHDY) (Part 20/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 6th, 2018
-1. Worked on ['Weave'](https://youtu.be/RKWtJljCcxg) problem
-2. Worked on coding part of 'two sum (brute force)' problem
+1. Worked on ['Weave'](https://youtu.be/RKWtJljCcxg) problem (Part 18/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on coding part of 'two sum (brute force)' problem (Part 20/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 4th, 2018
-1. Worked on ['Enqueue dequeue'](https://youtu.be/vpjoTPW9PoM) learning exercise
+1. Worked on ['Enqueue dequeue'](https://youtu.be/vpjoTPW9PoM) learning exercise (Part 17/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 3rd, 2018
-1. Worked on video part of ['matrix spiral'](https://youtu.be/wxaR3ssPjbk) problem
-2. Worked on ['fibonacci number'](https://youtu.be/BMev35aETC8) problem
+1. Worked on video part of ['matrix spiral'](https://youtu.be/wxaR3ssPjbk) problem (Part 14/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on ['fibonacci number'](https://youtu.be/BMev35aETC8) problem (Part 16/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### October 1st, 2018
-1. Worked on coding part of 'matrix spiral' problem
+1. Worked on coding part of 'matrix spiral' problem (Part 14/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 30th, 2018
-1. Worked on ['Get your Vowels']( https://youtu.be/uXkBMXY-kco) problem
+1. Worked on ['Get your Vowels']( https://youtu.be/uXkBMXY-kco) problem (Part 13/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 29th, 2018
-1. Worked on ['pyramid'](https://youtu.be/nx5BdPNkH8U) problem
+1. Worked on ['pyramid'](https://youtu.be/nx5BdPNkH8U) problem (Part 12/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 27th, 2018
-1. Worked on ['printing steps'](https://youtu.be/6vWfsv8pcPY) problem
+1. Worked on ['printing steps'](https://youtu.be/6vWfsv8pcPY) problem (Part 11/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 26th, 2018
-1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'capitalize letter' problem
+1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'capitalize letter' problem (Part 10/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 23rd, 2018
-1. Worked on the coding part of 'capitalize letter' problem
+1. Worked on the coding part of 'capitalize letter' problem (Part 10/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 2. Worked on Quiz 1 of week 1 of coursera's Improving Deep Neural Networks course
 
 ### September 22nd, 2018
-1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'anagram' problem
+1. Worked on [video](https://youtu.be/JrjL-RpZwbE) part of 'anagram' problem (Part 9/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 21st, 2018
-1. Worked on the coding part of 'anagram' problem
+1. Worked on the coding part of 'anagram' problem (Part 9/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 19th, 2018
 1. Worked on 'decrpyt message' problem for Pramp mock-interview
@@ -75,15 +75,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on ['drone flight planner'](https://youtu.be/296Qk7fWbP0) problem for Pramp mock-interview
 
 ### September 2nd, 2018
-1. Worked on ['array chunking'](https://youtu.be/y2xQsTLusUg) problem for Pramp mock-interview
+1. Worked on ['array chunking'](https://youtu.be/y2xQsTLusUg) problem for Pramp mock-interview (Part 8/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 1st, 2018
-1. Worked on ['fizzbuzz'](https://youtu.be/nk-Qjxj1ejA) problem for Pramp mock-interview
-2. Worked on ['palindrome'](https://youtu.be/-4WhULRiNcA) problem for Pramp's mock-interview
+1. Worked on ['fizzbuzz'](https://youtu.be/nk-Qjxj1ejA) problem for Pramp mock-interview (Part 7/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on ['palindrome'](https://youtu.be/-4WhULRiNcA) problem for Pramp's mock-interview (Part 4/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### August 30th, 2018
-1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp's mock-interview
-2. Worked on fizzbuzz problem for Pramp's mock-interview
+1. Worked on ['max-char problem'](https://www.youtube.com/watch?v=hLkvlJjR1j4&feature=youtu.be) for Pramp's mock-interview (Part 6/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on fizzbuzz problem (Part 7/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### August 26th, 2018
 1. Finished Coursera's course ['Neural Networks and Deep Learning'](https://www.coursera.org/account/accomplishments/certificate/4NR8FHHXHSSM)
