@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 15th, 2018
+1. Worked on videos for part - [3](https://youtu.be/GGrPwZFwP8g) && [4](https://youtu.be/bsAmzKkrmog) and finished 'Linked List' Problem (Part 21/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 14th, 2018
 1. Worked on videos for part - [1](https://youtu.be/U6B3m40yYBI) && [2](https://youtu.be/Jo0Ih2grhPk) (4 / 11 methods) of 'Linked List' Problem (Part 21/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
