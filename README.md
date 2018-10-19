@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 18th, 2018
+1. Worked on ['from_last'](https://youtu.be/b3dUViq-NUE) problem (Part 24/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 17th, 2018
 1. Worked on ['Circular Link List'](https://youtu.be/xGxwuW5Psxg) problem (Part 23/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
