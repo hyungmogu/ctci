@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 20th, 2018
+1. Worked on coding part of 'Breadth First Traversal' and 'Depth First Traversal' exercises (Part 25/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 18th, 2018
 1. Worked on ['From Last'](https://youtu.be/b3dUViq-NUE) problem (Part 24/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
