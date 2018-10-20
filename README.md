@@ -4,8 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 21st, 2018
+1. Worked on ['Tree width with level width'](https://youtu.be/NxZcgYohCM4) problem (Part 26/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+2. Worked on the coding part of 'Binary Search Tree' Problem (Part 27/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 20th, 2018
-1. Worked on coding part of 'Breadth First Traversal' and 'Depth First Traversal' exercises (Part 25/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+1. Worked on the coding part of 'Building a Tree' problem (Part 25/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course) [will come back later]
+2. Worked on the first video for ['Building a Tree'](https://youtu.be/Vviz6PhRumE) problem
 
 ### October 18th, 2018
 1. Worked on ['From Last'](https://youtu.be/b3dUViq-NUE) problem (Part 24/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
