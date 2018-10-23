@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 22d, 2018
+1. Worked on coding part of 'validate Binary Search Tree' problem (Part 28/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 21st, 2018
 1. Worked on ['Tree width with level width'](https://youtu.be/NxZcgYohCM4) problem (Part 26/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 2. Worked on the coding part of 'Binary Search Tree' Problem (Part 27/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
