@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 26th, 2018
+1. Worked on video part of ['Selection sort'](https://youtu.be/C7HQDZtYI6E) exercise (Part 29/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
+
 ### October 25th, 2018
 1. Worked on video part of ['Bubble sort'](https://youtu.be/rLnFUy_5pyE) exercise (Part 29/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
