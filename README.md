@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 27th, 2018
+1. Worked on coding part of 'Merge Sort' exercise (Part 30/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course) [Video part is coming soon! Yaaay!]
+
 ### October 26th, 2018
 1. Worked on video part of ['Selection sort'](https://youtu.be/C7HQDZtYI6E) exercise (Part 29/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
