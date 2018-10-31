@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 30th, 2018
+1. Worked on coding part of 'Time Planner' (pramp)
+
 ### October 28th, 2018
 1. Worked on video part of ['Merge Sort'](https://youtu.be/IUtF319BHw4) exercise (Part 30/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
