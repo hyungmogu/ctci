@@ -4,9 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Goal
 - Reach the following average rating in algorithm by December 31st, 2018
-    - Problem Solving: > 3.5/4
-    - Coding: > 3.5/4
-    - Communication: > 3.5/4
+    - Problem Solving: 3.0/4
+    - Coding: 3.5/4
+    - Communication: 3.5/4
 
 ## Work Summary
 
