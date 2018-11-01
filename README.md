@@ -2,7 +2,17 @@
 
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
+## Goal
+- Reach the following average rating in algorithm by December 31st, 2018
+    - Problem Solving: > 3.5/4
+    - Coding: > 3.5/4
+    - Communication: > 3.5/4
+
 ## Work Summary
+
+### October 31st, 2018
+1. Worked on 'root of a number' problem for pramp
+2. Did fourth pramp mock interview (BST Successor Search) (Current: Problem Solving - 1.5/4, Coding - 2.5/4, Communication 3.5/4)
 
 ### October 30th, 2018
 1. Worked on coding part of 'Time Planner' (pramp)
