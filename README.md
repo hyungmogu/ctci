@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 1st, 2018
+1. Reviewed ['BST Successor Search'](https://youtu.be/8QkMXiplu7M) problem
+
 ### October 31st, 2018
 1. Worked on 'root of a number' problem for pramp
 2. Did fourth pramp mock interview (BST Successor Search) (Current: Problem Solving - 1.5/4, Coding - 2.5/4, Communication 3.5/4)
