@@ -10,8 +10,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 3rd, 2018
+1. Worked on ['Time Planner'](https://youtu.be/SVB-atmCmEE) problem for pramp
+
 ### November 2nd, 2018
-1. Worked on ['Array of Array Products'](https://youtu.be/xf8hsmWtStU) problem
+1. Worked on ['Array of Array Products'](https://youtu.be/xf8hsmWtStU) problem for pramp
 
 ### November 1st, 2018
 1. Reviewed ['BST Successor Search'](https://youtu.be/8QkMXiplu7M) problem
