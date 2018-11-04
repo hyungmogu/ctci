@@ -12,6 +12,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 3rd, 2018
 1. Worked on ['Time Planner'](https://youtu.be/SVB-atmCmEE) problem for pramp
+2. Did ['fifth'](https://youtu.be/J5I0U69YeWs) pramp mock interview (Pairs With Specifc Difference) (Current: Problem Solving - 2/4, Coding - 2.33/4, Communication 3.33/4)
+3. Reviewed ['Pairs with Specific Difference'](https://youtu.be/Tt6HcZt2rMo) problem
 
 ### November 2nd, 2018
 1. Worked on ['Array of Array Products'](https://youtu.be/xf8hsmWtStU) problem for pramp
