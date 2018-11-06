@@ -10,9 +10,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 5th, 2018
+1. Reviewed ['Array Quadruplet'](https://youtu.be/5wNcoX8t08Y) problem for pramp
+
 ### November 4th, 2018
 1. Worked on ['root of number'](https://youtu.be/-jlFDs_lo6o) problem for pramp
-2. Did ['sixth'](https://youtu.be/jlgyYZjrpzQ) pramp mock interview (Pairs With Specifc Difference) (Current: Problem Solving - 2.25/4, Coding - 2.75/4, Communication 3.5/4)
+2. Did ['sixth'](https://youtu.be/jlgyYZjrpzQ) pramp mock interview (Array Quadruplet) (Current: Problem Solving - 2.25/4, Coding - 2.75/4, Communication 3.5/4)
 
 ### November 3rd, 2018
 1. Worked on ['Time Planner'](https://youtu.be/SVB-atmCmEE) problem for pramp
