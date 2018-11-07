@@ -23,11 +23,6 @@
 // 0 <= arr.length <= 100
 // [output] array.character
 
-
-const arr1 = ['a', 'b'];
-const arr2 = ['c', 'd'];
-const joinedarray = arr1.concat(arr2);
-
 function reverseWords(arr) {
 
   let output = [];
