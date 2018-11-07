@@ -10,9 +10,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 7th, 2018
+1. Reviewed ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem for pramp
+
 ### November 6th, 2018
 1. Did ['seventh'](https://youtu.be/0__SjUVrM_8) pramp mock interview (Sentence Reverse) (Current: Problem Solving - 2.4/4, Coding - 2.8/4, Communication 3.6/4)
-
 
 ### November 5th, 2018
 1. Reviewed ['Array Quadruplet'](https://youtu.be/5wNcoX8t08Y) problem for pramp
@@ -133,7 +135,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on the coding part of 'anagram' problem (Part 9/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
 
 ### September 19th, 2018
-1. Worked on 'decrpyt message' problem for Pramp mock-interview
+1. Worked on 'Decrypt Message' problem for Pramp mock-interview
 
 ### Semptember 12th, 2018
 1. Did third pramp mock interview (Decrypt Message)
