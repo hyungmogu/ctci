@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 9th, 2018
+1. Worked on coding part of 'Sentence Reverse' for pramp
+
 ### November 7th, 2018
 1. Reviewed ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem for pramp
 
