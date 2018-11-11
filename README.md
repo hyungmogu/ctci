@@ -10,6 +10,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 11th, 2018
+
+### November 10th, 2018
+1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for pramp
+2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) for pramp
+3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) pramp interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
+
 ### November 9th, 2018
 1. Worked on coding part of 'Sentence Reverse' for pramp
 
