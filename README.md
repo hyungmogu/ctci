@@ -10,6 +10,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 11th, 2018
+1. Reviewed ['Array Index and Element Equality'](https://youtu.be/Ky2gO-ozkxU) for pramp
+2. Did ['ninth'](https://youtu.be/TXOzM0L-aUc) pramp interview (Current: Problem Solving - 2.42/4, Coding - 2.85/4, Communication 3.57/4)
+3. Reviewed coding part of 'Bracket Match' problem for pramp
+
 ### November 10th, 2018
 1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for pramp
 2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) for pramp
