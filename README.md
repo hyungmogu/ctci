@@ -10,15 +10,21 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 12th, 2018
+1. Reviewed ['Bracket Match'](https://youtu.be/HdX1wBzxxO8) problem for pramp
+2. Worked on the coding part of 'Flatten Dictionary' problem for pramp
+2. Did ['tenth'](https://youtu.be/iYzsG0TEP1E) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.875/4, Communication 3.62/4)
+3. Did ['eleventh'](https://youtu.be/mEwHQoAwdLU) pramp mock interview (Not Rated)
+
 ### November 11th, 2018
 1. Reviewed ['Array Index and Element Equality'](https://youtu.be/Ky2gO-ozkxU) for pramp
-2. Did ['ninth'](https://youtu.be/TXOzM0L-aUc) pramp interview (Current: Problem Solving - 2.42/4, Coding - 2.85/4, Communication 3.57/4)
-3. Reviewed coding part of 'Bracket Match' problem for pramp
+2. Did ['ninth'](https://youtu.be/TXOzM0L-aUc) pramp mock interview (Current: Problem Solving - 2.42/4, Coding - 2.85/4, Communication 3.57/4)
+3. Worked on coding part of 'Bracket Match' problem for pramp
 
 ### November 10th, 2018
 1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for pramp
 2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) for pramp
-3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) pramp interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
+3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
 
 ### November 9th, 2018
 1. Worked on coding part of 'Sentence Reverse' for pramp
