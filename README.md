@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 14th, 2018
+1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/NZCKkP1Avkk) problem for pramp
+
 ### November 12th, 2018
 1. Reviewed ['Bracket Match'](https://youtu.be/HdX1wBzxxO8) problem for pramp
 2. Worked on the coding part of 'Flatten Dictionary' problem for pramp
