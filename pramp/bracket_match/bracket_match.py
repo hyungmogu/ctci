@@ -25,38 +25,29 @@
 # [output] integer
 def bracket_match(text):
 
+  # evaluate number of brackets required to complete the incomplete set of brackets
+
   temp_arr = [x for x in text]
-  num_left_bracket = 0
-  num_right_bracket = 0
-  num_missing_bracket = 0
+  num_left_brackets = 0
+  num_right_brackets = 0
+  output = 0
 
-  # evaluating the number of brackets required to complete the incomplete brackets
+  for index, bracket in enumerate(temp_arr):
+    if the_end_of_set_reached(temp_arr,index):
+      num_right_brackets += 1
+      output += abs(num_left_brackets - num_right_brackets)
 
-  if len(temp_arr) == 1:
-    return 1
-
-  for index,bracket in enumerate(temp_arr):
-    if terminating_conidtion_has_reached(index, temp_arr):
-      if bracket == "(": #(())
-        num_left_bracket += 1
-      if bracket == ")":
-        num_right_bracket += 1
-
-      if num_left_bracket != num_right_bracket:
-        num_missing_bracket += abs(num_left_bracket - num_right_bracket)
-
-      num_left_bracket = 0
-      num_right_bracket = 0
-
+      num_left_brackets = 0
+      num_right_brackets = 0
     else:
-      if bracket == "(": #(())
-        num_left_bracket += 1
-      if bracket == ")":
-        num_right_bracket += 1
+      if bracket == "(":
+        num_left_brackets += 1
+      elif bracket == ")":
+        num_right_brackets += 1
 
-  return num_missing_bracket
+  return output
 
-def terminating_conidtion_has_reached(index, temp_arr):
+def the_end_of_set_reached(temp_arr,index):
   if (index == len(temp_arr) - 1) or (index < (len(temp_arr) - 1) and temp_arr[index] == ")" and temp_arr[index+1] == "("):
     return True
   return False

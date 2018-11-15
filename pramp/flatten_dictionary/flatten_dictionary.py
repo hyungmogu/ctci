@@ -40,40 +40,41 @@
 
 
 def flatten_dictionary(dictionary):
-  flattened_dict_list = []
 
+  temp_list = []
+  # flatten nested dictionary
   for key in dictionary.keys():
-    temp_arr = get_flatten_dictionary(dictionary[key], key)
-    flattened_dict_list += temp_arr
+    temp_sublist = get_flatten_dictionary(dictionary[key], key)
+    temp_list += temp_sublist
 
-  output = dict(flattened_dict_list)
+  output = dict(temp_list)
 
   return output
 
 def get_flatten_dictionary(dict_value, current_key):
-  output = []
+  temp_bigger_sublist = []
 
-  if type(dict_value) != dict:
+  if (type(dict_value) != dict):
     return [[current_key, dict_value]]
 
-  for child_key in dict_value.keys():
-    flattened_key_value_pairs = get_flatten_dictionary(dict_value[child_key], child_key)
-    output += flattened_key_value_pairs
+  child_keys = dict_value.keys()
+  for child_key in child_keys:
+    temp_sublist = get_flatten_dictionary(dict_value[child_key], child_key)
+    temp_bigger_sublist += temp_sublist
 
-  for key_value_pair in output:
+  for key_value_pair in temp_bigger_sublist:
     child_key = key_value_pair[0]
-
-    if current_key == '' and child_key == '':
-      continue
-    elif current_key != '' and child_key == '':
-      key_value_pair[0] = current_key
-    elif current_key == '' and child_key != '':
+    if child_key == '' and current_key == '':
+      key_value_pair[0] = ''
+    elif child_key != '' and current_key == '':
       key_value_pair[0] = child_key
+    elif child_key == '' and current_key != '':
+      key_value_pair[0] = current_key
     else:
-      key_value_pair[0] = '{0}.{1}'.format(current_key,child_key)
+      key_value_pair[0] = "{0}.{1}".format(current_key,child_key)
 
-  # 3. return the output
-  return output
+  return temp_bigger_sublist
+
 
 
 
