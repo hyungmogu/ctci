@@ -15,6 +15,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 2. Worked on ['video'](https://youtu.be/7WD8ssippPQ) part of 'Flatten Dictionary' problem for pramp
 3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) pramp mock interview (Not Rated - tech glitch)
 4. Reviewed ['Getting a Different Number'](https://youtu.be/s1CMkp-nKaQ) problem for pramp
+5. Did ['thirteenth'](https://youtu.be/eqKhJq1Utn8) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.8/4, Communication 3.5/4)
 
 ### November 14th, 2018
 1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/NZCKkP1Avkk) problem for pramp
@@ -23,7 +24,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Reviewed ['Bracket Match'](https://youtu.be/HdX1wBzxxO8) problem for pramp
 2. Worked on the coding part of 'Flatten Dictionary' problem for pramp
 3. Did ['tenth'](https://youtu.be/iYzsG0TEP1E) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.875/4, Communication 3.62/4)
-4. Did ['eleventh'](https://youtu.be/mEwHQoAwdLU) pramp mock interview (Not Rated)
+4. Did ['eleventh'](https://youtu.be/mEwHQoAwdLU) pramp mock interview (Current: Problem Solving - 2.444/4, Coding - 2.778/4, Communication 3.44/4)
+
 
 ### November 11th, 2018
 1. Reviewed ['Array Index and Element Equality'](https://youtu.be/Ky2gO-ozkxU) for pramp
