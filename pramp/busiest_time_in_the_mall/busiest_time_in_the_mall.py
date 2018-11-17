@@ -31,28 +31,31 @@
 # [output] integer
 
 def find_busiest_period(data):
+  current_best_epoch = 0
+  current_best_visitors = 0
 
-  current_epoch = data[0][0]
-  epoch_num_people_inside_mall = 0
-
-  prev_best_epoch = 0
-  prev_best_num_people = 0
-  for item in data:
-    if item[0] != current_epoch:
-      if epoch_num_people_inside_mall > prev_best_num_people:
-        prev_best_num_people = epoch_num_people_inside_mall
-        prev_best_epoch = current_epoch
-
-      current_epoch = item[0]
-      epoch_num_people_inside_mall = 0
+  temp_epoch = 0
+  temp_visitors = 0
+  for index, item in enumerate(data):
+    if not temp_epoch == item[0]:
+      if temp_visitors > current_best_visitors:
+        current_best_visitors = temp_visitors
+        current_best_epoch = temp_epoch
+      temp_epoch = item[0]
 
     if item[2] == 1:
-      epoch_num_people_inside_mall += item[1]
+      temp_visitors += item[1]
     else:
-      epoch_num_people_inside_mall -= item[1]
+      temp_visitors -= item[1]
 
-  if epoch_num_people_inside_mall > prev_best_num_people:
-    prev_best_num_people = epoch_num_people_inside_mall
-    prev_best_epoch = current_epoch
+  if temp_visitors > current_best_visitors:
+    current_best_visitors = temp_visitors
+    current_best_epoch = temp_epoch
 
-  return prev_best_epoch
+  return current_best_epoch
+
+if __name__ == '__main__':
+  data = [ [1487799425, 14, 1],
+          [1487800378, 10, 1]]
+
+  print(find_busiest_period(data))
