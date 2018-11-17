@@ -12,7 +12,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 17th, 2018
 1. Reviewed coding part of 'Busiest Time in the Mall'
-2. Did ['fourteenth'] pramp mock interview (https://youtu.be/dubPJR9nNj0) (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
+2. Did ['fourteenth'](https://youtu.be/dubPJR9nNj0) pramp mock interview (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
 3. Reviewed ['Shifted Array Search'](https://youtu.be/DgAXge5h-8o) problem for pramp
 
 ### November 16th, 2018
@@ -21,7 +21,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### November 15th, 2018
 1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for pramp second time
 2. Worked on ['video'](https://youtu.be/7WD8ssippPQ) part of 'Flatten Dictionary' problem for pramp
-3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) pramp mock interview (Not Rated - tech glitch)
+3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) pramp mock interview (Not Rated)
 4. Reviewed ['Getting a Different Number'](https://youtu.be/s1CMkp-nKaQ) problem for pramp
 5. Did ['thirteenth'](https://youtu.be/eqKhJq1Utn8) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.8/4, Communication 3.5/4)
 
