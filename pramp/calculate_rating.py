@@ -29,7 +29,7 @@ def calculate_rating(data):
     coding_avg = coding / size
     communication_avg = communication / size
 
-    print("Moe's Current score in Pramp is:")
+    print("Moe's current score in Pramp is:")
     print("Problem Solving: {0}, Coding: {1}, Communication: {2}".format(problem_solving_avg,coding_avg,communication_avg))
 
 
