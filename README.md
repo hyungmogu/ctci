@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 18th, 2018
+1. Reviewed the coding part of 'Number of Paths' problem for pramp
+
 ### November 17th, 2018
 1. Reviewed ['Busiest Time in the Mall'](https://youtu.be/GS6XCt-Dsjg) for pramp
 2. Did ['fourteenth'](https://youtu.be/dubPJR9nNj0) pramp mock interview (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
