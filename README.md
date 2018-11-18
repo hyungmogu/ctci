@@ -11,9 +11,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### November 17th, 2018
-1. Reviewed coding part of 'Busiest Time in the Mall'
+1. Reviewed ['Busiest Time in the Mall'](https://youtu.be/GS6XCt-Dsjg) for pramp
 2. Did ['fourteenth'](https://youtu.be/dubPJR9nNj0) pramp mock interview (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
 3. Reviewed ['Shifted Array Search'](https://youtu.be/DgAXge5h-8o) problem for pramp
+4. Did ['fifteenth'](https://youtu.be/UPra7JsHTSA) pramp mock interview (Current: Problem Solving - 2.583/4, Coding - 3.0/4, Communication 3.5/4)
 
 ### November 16th, 2018
 1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for pramp second time
