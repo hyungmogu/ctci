@@ -22,37 +22,20 @@
 # k >= 0
 # [output] array.array.integer
 
-def find_pairs_with_given_difference_brute_force(arr, k):
+def find_pairs_with_given_difference(arr, k):
+
   output = []
-
-  if len(arr) == 0 or len(arr) == 1:
-    return []
-
-  for i in range(len(arr)):
-    for j in range(len(arr)):
-      if i == j:
-        continue
-
-      if (arr[j] - arr[i]) == k:
-        output.append([arr[j],arr[i]])
+  temp_set = set(arr)
+  for y in arr:
+    x = k + y
+    if x in temp_set:
+      output.append([x,y])
 
   return output
 
-def find_pairs_with_given_difference_improved(arr, k):
-  output = []
-  _set = set()
+if __name__ == '__main__':
+  arr = [1, 7, 5, 3, 32, 17, 12]
+  k = 17
 
-  if len(arr) == 0 or len(arr) == 1:
-    return []
-
-  for i in range(len(arr)):
-    _set.add(arr[i])
-
-  for i in range(len(arr)):
-    arr_j = arr[i] + k
-
-    if arr_j in _set:
-      output.append([arr_j, arr[i]])
-
-  return output
-
+  result = find_pairs_with_given_difference(arr, k)
+  print(result)

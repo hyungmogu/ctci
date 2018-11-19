@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 19th, 2018
+1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem second time
+
 ### November 18th, 2018
 1. Reviewed ['Number of Paths'](https://youtu.be/YIffDm2cx6o) problem for pramp
 2. Did ['sixteenth'](https://youtu.be/bwuAFTBK16M) pramp mock interview (Current: Problem Solving - 2.692/4, Coding - 3.077/4, Communication 3.538/4)
