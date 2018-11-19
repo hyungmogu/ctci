@@ -12,9 +12,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 18th, 2018
 1. Reviewed ['Number of Paths'](https://youtu.be/YIffDm2cx6o) problem for pramp
-2. Did ['fifteenth'](https://youtu.be/bwuAFTBK16M) pramp mock interview (Current: Problem Solving - 2.692/4, Coding - 3.077/4, Communication 3.538/4)
+2. Did ['sixteenth'](https://youtu.be/bwuAFTBK16M) pramp mock interview (Current: Problem Solving - 2.692/4, Coding - 3.077/4, Communication 3.538/4)
 3. Reviewed ['Award Budget Cuts'](https://youtu.be/dK8ItaaND0M) problem for pramp
-4. Did ['sixteenth'](https://youtu.be/izdy19a4YvQ) pramp mock interview (Current: Problem Solving - 2.714/4, Coding - 3.071/4, Communication 3.571/4)
+4. Did ['seventeenth'](https://youtu.be/izdy19a4YvQ) pramp mock interview (Current: Problem Solving - 2.714/4, Coding - 3.071/4, Communication 3.571/4)
 
 ### November 17th, 2018
 1. Reviewed ['Busiest Time in the Mall'](https://youtu.be/GS6XCt-Dsjg) for pramp
@@ -26,7 +26,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for pramp second time
 
 ### November 15th, 2018
-1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for pramp second time
+1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for pramp second ∏ime
 2. Worked on ['video'](https://youtu.be/7WD8ssippPQ) part of 'Flatten Dictionary' problem for pramp
 3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) pramp mock interview (Not Rated)
 4. Reviewed ['Getting a Different Number'](https://youtu.be/s1CMkp-nKaQ) problem for pramp
