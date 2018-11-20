@@ -27,14 +27,17 @@
 import sys
 
 def get_different_number(arr):
-  MAX_INT = sys.maxint
-  index = 0
-  temp_set_arr = set(arr)
+  temp_set = set(arr)
 
-  while index <= MAX_INT:
-    if not index in temp_set_arr:
-      return index
-    index += 1
+  i = 0
+  biggest_element_in_arr = max(arr)
+
+  while i <= biggest_element_in_arr:
+    if i not in temp_set:
+      return i
+    i += 1
+  if biggest_element_in_arr < sys.maxint:
+    return biggest_element_in_arr + 1
 
   return None
 

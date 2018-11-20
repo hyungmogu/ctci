@@ -10,9 +10,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 20th, 2018
+1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for pramp second time
+
 ### November 19th, 2018
-1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem second time
-2. Reviewed ['Sentence Reverse'](https://youtu.be/cW_oj9SUegg) problem second time
+1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem for pramp second time
+2. Reviewed ['Sentence Reverse'](https://youtu.be/cW_oj9SUegg) problem for pramp second time
 
 ### November 18th, 2018
 1. Reviewed ['Number of Paths'](https://youtu.be/YIffDm2cx6o) problem for pramp
