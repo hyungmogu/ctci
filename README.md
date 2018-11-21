@@ -10,6 +10,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 21st, 2018
+1. Reviewed coding part of 'Basic Regex Parser' problem for pramp
+2. Reviewed ['Find Duplicates'](https://youtu.be/bBn2LjCqPYw) problem for pramp
+
 ### November 20th, 2018
 1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for pramp second time
 2. Did ['eighteenth'](https://youtu.be/L2MkmAAEZ5s) pramp mock interview (Current: Problem Solving - 2.8/4, Coding - 3.133/4, Communication 3.6/4)
