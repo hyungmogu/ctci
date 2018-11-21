@@ -12,6 +12,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 20th, 2018
 1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for pramp second time
+2. Did ['eighteenth'](https://youtu.be/izdy19a4YvQ) pramp mock interview (Current: Problem Solving - 2.8/4, Coding - 3.133/4, Communication 3.6/4)
 
 ### November 19th, 2018
 1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem for pramp second time
