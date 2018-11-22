@@ -13,6 +13,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### November 21st, 2018
 1. Reviewed coding part of 'Basic Regex Parser' problem for pramp
 2. Reviewed ['Find Duplicates'](https://youtu.be/bBn2LjCqPYw) problem for pramp
+3. Did ['nineteenth'](https://youtu.be/087iti-G2R8) pramp mock interview (Not Rated)
+4. Reviewed coding part of 'Matrix Spiral' problem for pramp
 
 ### November 20th, 2018
 1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for pramp second time
