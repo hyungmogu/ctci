@@ -29,7 +29,6 @@
 
 
 
-
 #########################################################
 # CODE INSTRUCTIONS:                                    #
 # 1) The method findInOrderSuccessor you're asked      #
@@ -59,32 +58,38 @@ class BinarySearchTree:
   def __init__(self):
     self.root = None
 
-
-  # =============== SOLUTION =====================
   def find_in_order_successor(self, inputNode):
-    result = []
+    # 1. if there is node to the right of inputNode
+    # 1.1 travel to the leftmost node of inputNode.right
+    # 1.2 return the node
+    if self.there_is_node_to_the_right(inputNode):
+      output = self.get_left_most_node(inputNode.right)
+      return output
 
-    self.in_order_successor(self.root, result)
+    # 2. if there is NO node to the right of inputNode
+    # 2.1 find parent s.th parent.key > inputNode.key
+    # 2.2 if parent not found then return None
+    else:
+      parent = inputNode.parent
+      while parent != None:
+        if parent.key > inputNode.key:
+          return parent
+        parent = parent.parent
 
-    if len(result) == 0:
       return None
 
-    for idx, item in enumerate(result):
-      if item.key == inputNode.key and idx != len(result) - 1:
-        return result[idx+1]
+  def there_is_node_to_the_right(self,node):
+    if node.right == None:
+      return False
+    return True
 
-    return None
+  def get_left_most_node(self,node):
+    temp_node = node
 
-  def in_order_successor(self, node, result):
+    while temp_node.left != None:
+      temp_node = temp_node.left
 
-    if node == None:
-      return
-
-    self.in_order_successor(node.left, result)
-    result.append(node)
-    self.in_order_successor(node.right, result)
-
-  #===================================================
+    return temp_node
 
   # Given a binary search tree and a number, inserts a
   # new node with the given number in the correct place
@@ -107,18 +112,18 @@ class BinarySearchTree:
 
       if(key < currentNode.key):
         if(currentNode.left is None):
-          currentNode.left = newNode;
-          newNode.parent = currentNode;
+          currentNode.left = newNode
+          newNode.parent = currentNode
           break
         else:
-          currentNode = currentNode.left;
+          currentNode = currentNode.left
       else:
         if(currentNode.right is None):
-          currentNode.right = newNode;
-          newNode.parent = currentNode;
+          currentNode.right = newNode
+          newNode.parent = currentNode
           break
         else:
-          currentNode = currentNode.right;
+          currentNode = currentNode.right
 
   # Return a reference to a node in the BST by its key.
   # Use this method when you need a node to test your
@@ -144,15 +149,15 @@ class BinarySearchTree:
 # Create a Binary Search Tree
 bst  = BinarySearchTree()
 bst.insert(20)
-bst.insert(9);
-bst.insert(25);
-bst.insert(5);
-bst.insert(12);
-bst.insert(11);
-bst.insert(14);
+bst.insert(9)
+bst.insert(25)
+bst.insert(5)
+bst.insert(12)
+bst.insert(11)
+bst.insert(14)
 
 # Get a reference to the node whose key is 9
-test = bst.getNodeByKey(9)
+test = bst.getNodeByKey(25)
 
 # Find the in order successor of test
 succ = bst.find_in_order_successor(test)
