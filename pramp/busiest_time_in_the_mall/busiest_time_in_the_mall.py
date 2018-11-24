@@ -30,29 +30,55 @@
 # 1 <= data.length <= 100
 # [output] integer
 
+# solution from review #2
 def find_busiest_period(data):
+  current_best_num_people = 0
   current_best_epoch = 0
-  current_best_visitors = 0
 
-  temp_epoch = 0
-  temp_visitors = 0
-  for index, item in enumerate(data):
-    if not temp_epoch == item[0]:
-      if temp_visitors > current_best_visitors:
-        current_best_visitors = temp_visitors
-        current_best_epoch = temp_epoch
-      temp_epoch = item[0]
-
-    if item[2] == 1:
-      temp_visitors += item[1]
+  current_num_people = 0
+  for idx, element in enumerate(data):
+    if element[2] == 0:
+      current_num_people -= element[1]
     else:
-      temp_visitors -= item[1]
+      current_num_people += element[1]
 
-  if temp_visitors > current_best_visitors:
-    current_best_visitors = temp_visitors
-    current_best_epoch = temp_epoch
-
+    if is_at_the_end_of_epoch(data,idx):
+      if current_best_num_people < current_num_people:
+        current_best_num_people = current_num_people
+        current_best_epoch = element[0]
   return current_best_epoch
+
+def is_at_the_end_of_epoch(data,idx):
+  try:
+    if data[idx+1][0] == data[idx][0]:
+      return False
+    return True
+  except:
+    return True
+# =====================================
+# def find_busiest_period_review(data):
+#   current_best_epoch = 0
+#   current_best_visitors = 0
+
+#   temp_epoch = 0
+#   temp_visitors = 0
+#   for index, item in enumerate(data):
+#     if not temp_epoch == item[0]:
+#       if temp_visitors > current_best_visitors:
+#         current_best_visitors = temp_visitors
+#         current_best_epoch = temp_epoch
+#       temp_epoch = item[0]
+
+#     if item[2] == 1:
+#       temp_visitors += item[1]
+#     else:
+#       temp_visitors -= item[1]
+
+#   if temp_visitors > current_best_visitors:
+#     current_best_visitors = temp_visitors
+#     current_best_epoch = temp_epoch
+
+#   return current_best_epoch
 
 if __name__ == '__main__':
   data = [ [1487799425, 14, 1],
