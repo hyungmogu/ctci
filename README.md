@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Reviewed ['Busiest Time In the Mall'](https://youtu.be/4gmaHqGhKKs) problem for pramp second time
 2. Did ['twenteeth'](https://youtu.be/StEwoW3cM8Y) pramp mock interview (Current: Problem Solving - 2.889, Coding - 3.222, Communication - 3.611)
 3. Reviewed ['Largest Smaller BST Key'](https://youtu.be/b5tEY9cUJic) problem for pramp
+4. Reviewed ['Pancake Sort'](https://youtu.be/cPrF00htL0o) problem for pramp
+5. Did ['twenty first'](https://youtu.be/bl9-fE9m5v0)  pramp mock interview (Current: Problem Solving - 2.94736842105, Coding - 3.26315789474, Communication - 3.63157894737)
+6. Reviewed ['H-Tree Construction'](https://youtu.be/I_5qyLN0e-k) for pramp
 
 ### November 23rd, 2018
 1. Reviewed ['BST Successor Search'](https://youtu.be/EXpL01P2rms) problem for pramp second time
