@@ -20,7 +20,78 @@
 # 1 <= str.length <= 500
 # [output] string
 
+
 def get_shortest_unique_substring(arr, string):
+  output = ""
+
+  temp_arr_str = [x for x in string]
+  temp_set = set(arr)
+  if len(temp_arr_str) == 1:
+    size_arr = len(arr)
+
+    if len(temp_arr_str) == size_arr and string in arr:
+      return string
+    else:
+      return output
+
+  chrs_count = get_chrs_count(temp_arr_str,temp_set)
+  if not substring_does_exist(arr,chrs_count):
+    return ""
+
+  index_start = get_substring_index_start(temp_arr_str, chrs_count)
+
+  index_end = get_substring_index_end(temp_arr_str, chrs_count)
+
+  output = "".join(temp_arr_str[index_start:index_end+1])
+
+  return output
+
+def substring_does_exist(temp_arr,chrs_count):
+  for character in temp_arr:
+    if not character in chrs_count or chrs_count[character] < 1:
+      return False
+
+  return True
+
+
+def get_chrs_count(temp_arr,temp_set):
+  output = {}
+  for character in temp_arr:
+    if character in temp_set and character in output:
+      output[character] += 1
+    elif (character in temp_set) and (not character in output):
+      output[character] = 1
+  return output
+
+def get_substring_index_start(temp_arr, chrs_count):
+  idx = 0
+  element =  temp_arr[idx]
+  while idx < len(temp_arr):
+    if element in chrs_count and chrs_count[element] - 1 >= 1:
+      chrs_count[element] -= 1
+    elif element in chrs_count and chrs_count[element] - 1 < 1:
+      break
+    idx += 1
+    element =  temp_arr[idx]
+
+  return idx
+
+def get_substring_index_end(temp_arr, chrs_count):
+  idx = len(temp_arr) - 1
+  element =  temp_arr[idx]
+  while idx > 0:
+    if element in chrs_count and chrs_count[element] - 1 >= 1:
+      chrs_count[element] -= 1
+    elif element in chrs_count and chrs_count[element] - 1 < 1:
+      break
+    idx -= 1
+    element =  temp_arr[idx]
+
+  return idx
+
+#===============================================================
+
+def get_shortest_unique_substring_old(arr, string):
   temp_dict = {}
 
   temp_set = set(arr)
@@ -57,7 +128,7 @@ def get_shortest_unique_substring(arr, string):
 
   return output
 
-def terminating_condition_has_reached(temp_arr, temp_set, temp_dict, index, index_another):
+def terminating_condition_has_reached_old(temp_arr, temp_set, temp_dict, index, index_another):
   if (temp_arr[index] in temp_set and temp_dict[temp_arr[index]] == 1) or index == index_another:
     return True
   return False
