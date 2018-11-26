@@ -24,6 +24,7 @@
 #
 # [output] double
 
+#================ From Mock Interview =====================
 
 def find_grants_cap(grantsArray, newBudget):
 
@@ -53,7 +54,7 @@ def there_is_a_budget_below_cutline(grantsArray, cutline, temp_set):
       return True
   return False
 
-  # =============== Better Solution ==============
+  # =============== From Review =========================
 
 def find_grants_cap_improved(grantsArray, newBudget):
 
@@ -77,4 +78,28 @@ def find_grants_cap_improved(grantsArray, newBudget):
 
   return cutline
 
+#=============== From Review 2 ==================
 
+def find_grants_cap(grantsArray, newBudget):
+  if len(grantsArray) == 0 or len(grantsArray) == 1:
+    return newBudget
+
+  grantsArray = sorted(grantsArray)
+
+  cutline = newBudget / float(len(grantsArray))
+
+  cnt_grant_below_cap = 0
+  for grant in grantsArray:
+    if grant < cutline:
+      newBudget -= grant
+      cnt_grant_below_cap += 1
+      cutline = newBudget / float(len(grantsArray) - cnt_grant_below_cap)
+    else:
+      break
+
+  return cutline
+
+if __name__ == '__main__':
+  grantsArray = [2]
+  newBudget = 190
+  print(find_grants_cap(grantsArray, newBudget))

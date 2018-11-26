@@ -11,7 +11,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### November 25th, 2018
-1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) for Pramp
+1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) for pramp
+2. Reviewed ['Award Budget Cuts'](https://youtu.be/cDenb0BXkqs) for pramp
+3. Did ['twenty second'](https://youtu.be/BOTDcWcjh7s) pramp mock interview (Current: Problem Solving - 3.0, Coding - 3.3, Communication - 3.65)
+4. Reviewed ['Sales Path'](https://youtu.be/qVoQwhbrCfU) problem for pramp
 
 ### November 24th, 2018
 1. Reviewed ['Busiest Time In the Mall'](https://youtu.be/4gmaHqGhKKs) problem for pramp second time
