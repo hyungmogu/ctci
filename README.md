@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 26th, 2018
+1. Reviewed ['Word Count Engine'](https://youtu.be/Bdvk3TiEir8) problem for pramp second time
+
 ### November 25th, 2018
 1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) problem for pramp second time
 2. Reviewed ['Award Budget Cuts'](https://youtu.be/cDenb0BXkqs) problem for pramp second time
@@ -84,7 +87,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 10th, 2018
 1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for pramp
-2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) for pramp
+2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) problem for pramp
 3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
 
 ### November 9th, 2018
