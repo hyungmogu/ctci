@@ -10,6 +10,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 27th, 2018
+1. Reviewed ['Array Quadruplet'](https://youtu.be/Wcv1cf6NTxM) problem for pramp second time
+
 ### November 26th, 2018
 1. Reviewed ['Word Count Engine'](https://youtu.be/Bdvk3TiEir8) problem for pramp second time
 2. Reviewed ['Number of Paths'](https://youtu.be/0_SBeg8u2Jk) problem for pramp second time
