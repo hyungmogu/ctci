@@ -12,6 +12,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### November 26th, 2018
 1. Reviewed ['Word Count Engine'](https://youtu.be/Bdvk3TiEir8) problem for pramp second time
+2. Reviewed ['Number of Paths'](https://youtu.be/EiYd6CPCf3M) problem for pramp second time
 
 ### November 25th, 2018
 1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) problem for pramp second time

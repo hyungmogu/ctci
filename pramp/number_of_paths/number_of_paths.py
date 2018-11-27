@@ -29,7 +29,7 @@
 # 1 <= n <= 100
 # [output] integer
 
-def num_of_paths_to_dest(n):
+def num_of_paths_to_dest_old (n):
   if n == 1:
     return 1
 
@@ -39,7 +39,7 @@ def num_of_paths_to_dest(n):
 
   return output
 
-def get_num_of_paths_to_dest(i,j,memo):
+def get_num_of_paths_to_dest_old(i,j,memo):
   if out_of_bounds(i,j):
     memo[j][i] = 0
     return 0
@@ -54,10 +54,44 @@ def get_num_of_paths_to_dest(i,j,memo):
   memo[j][i] = get_num_of_paths_to_dest(i-1,j,memo) + get_num_of_paths_to_dest(i,j-1,memo)
   return memo[j][i]
 
-def out_of_bounds(i,j):
+def out_of_bounds_old(i,j):
   if j < 0 or (j > i):
     return True
   return False
+
+# ================= Review 2 ======================
+
+def num_of_paths_to_dest(n):
+  memo = [[-1 for x in range(n)] for x in range(n)]
+  output = get_num_of_paths_to_dest(n-1,n-1,memo)
+
+  return output
+
+def get_num_of_paths_to_dest(i,j,memo):
+  if terminating_condition_is_reached(i,j):
+    memo[j][i] = 1
+    return memo[j][i]
+
+  if out_of_bound(i,j):
+    memo[j][i] = 0
+    return memo[j][i]
+
+  if memo[j][i] > -1:
+    return memo[j][i]
+
+  memo[j][i] = get_num_of_paths_to_dest(i-1,j,memo) + get_num_of_paths_to_dest(i,j-1,memo)
+  return memo[j][i]
+
+def terminating_condition_is_reached(i,j):
+  if (i == 0 or j == 0) and j <= i:
+    return True
+  return False
+
+def out_of_bound(i,j):
+  if j < 0 or j > i or i < 0:
+    return True
+  return False
+
 
 if __name__ == '__main__':
   print(num_of_paths_to_dest(2))
