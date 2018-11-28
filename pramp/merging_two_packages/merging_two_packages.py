@@ -21,7 +21,7 @@
 # [output] array.integer
 
 
-def get_indices_of_item_wights(arr, limit):
+def get_indices_of_item_wights_old(arr, limit):
 
   if len(arr) == 0 or len(arr) == 1:
     return []
@@ -31,10 +31,7 @@ def get_indices_of_item_wights(arr, limit):
   for idx_i,arr_i in enumerate(arr):
     arr_j = limit - arr_i
 
-    # 2. check if 6 exists in arr.
-    # temp_dict = {4: [0,1]}
     if arr_j in temp_dict:
-      #
       current_best = -1
       for idx_j in temp_dict[arr_j]:
         if idx_i > idx_j :
@@ -44,7 +41,7 @@ def get_indices_of_item_wights(arr, limit):
         return [idx_i, current_best]
   return []
 
-def get_temp_dict(arr):
+def get_temp_dict_old(arr):
   output = {}
 
   for idx, element in enumerate(arr):
@@ -53,6 +50,41 @@ def get_temp_dict(arr):
       output[element] = [idx]
     else:
       output[element].append(idx) # {4: [0,1]}
+  return output
+
+
+#===================== Review 2 =====================
+
+def get_indices_of_item_wights(arr, limit):
+
+  if len(arr) == 0 or len(arr) == 1:
+    return []
+
+  temp_dict = get_maps(arr)
+
+  for idx_i, arr_i in enumerate(arr):
+    arr_j = limit - arr_i
+
+    if arr_j in temp_dict:
+
+      current_best = -1
+      for idx_j in temp_dict[arr_j]:
+        if idx_i > idx_j:
+          current_best = idx_j
+
+      if current_best > -1:
+        return [idx_i, current_best]
+
+  return []
+
+def get_maps(arr):
+  output = {}
+  for idx, element in enumerate(arr):
+    if element in output:
+      output[element].append(idx)
+    else:
+      output[element] = [idx]
+
   return output
 
 if __name__ == '__main__':

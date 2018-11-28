@@ -11,6 +11,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 28th, 2018
+1. Reviewed ['Merging Two Packages'](https://youtu.be/qZy_id8eEnk) problem for Pramp
+
 ### November 27th, 2018
 1. Reviewed ['Array Quadruplet'](https://youtu.be/Wcv1cf6NTxM) problem for Pramp second time
 2. Did ['twenty third'](https://youtu.be/dIyEY22E_ho) Pramp mock interview (Current: Problem Solving - 3.048, Coding - 3.333, Communication - 3.667)
