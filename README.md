@@ -4,6 +4,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Goal
 - Reach the following average rating in algorithm by December 31st, 2018
+- Update (27/11/2018): Solved all problems given by Pramp. Will update when new one appears.
     - Problem Solving: 3.0/4
     - Coding: 3.5/4
     - Communication: 3.5/4
@@ -11,122 +12,123 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### November 27th, 2018
-1. Reviewed ['Array Quadruplet'](https://youtu.be/Wcv1cf6NTxM) problem for pramp second time
+1. Reviewed ['Array Quadruplet'](https://youtu.be/Wcv1cf6NTxM) problem for Pramp second time
+2. Did ['twenty third'](https://youtu.be/dIyEY22E_ho) Pramp mock interview (Current: Problem Solving - 3.048, Coding - 3.333, Communication - 3.667)
 
 ### November 26th, 2018
-1. Reviewed ['Word Count Engine'](https://youtu.be/Bdvk3TiEir8) problem for pramp second time
-2. Reviewed ['Number of Paths'](https://youtu.be/0_SBeg8u2Jk) problem for pramp second time
+1. Reviewed ['Word Count Engine'](https://youtu.be/Bdvk3TiEir8) problem for Pramp second time
+2. Reviewed ['Number of Paths'](https://youtu.be/0_SBeg8u2Jk) problem for Pramp second time
 
 ### November 25th, 2018
-1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) problem for pramp second time
-2. Reviewed ['Award Budget Cuts'](https://youtu.be/cDenb0BXkqs) problem for pramp second time
-3. Did ['twenty second'](https://youtu.be/BOTDcWcjh7s) pramp mock interview (Current: Problem Solving - 3.0, Coding - 3.3, Communication - 3.65)
-4. Reviewed ['Sales Path'](https://youtu.be/qVoQwhbrCfU) problem for pramp
+1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/P6trydMkDKw) problem for Pramp second time
+2. Reviewed ['Award Budget Cuts'](https://youtu.be/cDenb0BXkqs) problem for Pramp second time
+3. Did ['twenty second'](https://youtu.be/BOTDcWcjh7s) Pramp mock interview (Current: Problem Solving - 3.0, Coding - 3.3, Communication - 3.65)
+4. Reviewed ['Sales Path'](https://youtu.be/qVoQwhbrCfU) problem for Pramp
 
 ### November 24th, 2018
-1. Reviewed ['Busiest Time In the Mall'](https://youtu.be/4gmaHqGhKKs) problem for pramp second time
-2. Did ['twenteeth'](https://youtu.be/StEwoW3cM8Y) pramp mock interview (Current: Problem Solving - 2.889, Coding - 3.222, Communication - 3.611)
-3. Reviewed ['Largest Smaller BST Key'](https://youtu.be/b5tEY9cUJic) problem for pramp
-4. Reviewed ['Pancake Sort'](https://youtu.be/cPrF00htL0o) problem for pramp
-5. Did ['twenty first'](https://youtu.be/bl9-fE9m5v0)  pramp mock interview (Current: Problem Solving - 2.947, Coding - 3.263, Communication - 3.632)
-6. Reviewed ['H-Tree Construction'](https://youtu.be/I_5qyLN0e-k) for pramp
+1. Reviewed ['Busiest Time In the Mall'](https://youtu.be/4gmaHqGhKKs) problem for Pramp second time
+2. Did ['twenteeth'](https://youtu.be/StEwoW3cM8Y) Pramp mock interview (Current: Problem Solving - 2.889, Coding - 3.222, Communication - 3.611)
+3. Reviewed ['Largest Smaller BST Key'](https://youtu.be/b5tEY9cUJic) problem for Pramp
+4. Reviewed ['Pancake Sort'](https://youtu.be/cPrF00htL0o) problem for Pramp
+5. Did ['twenty first'](https://youtu.be/bl9-fE9m5v0)  Pramp mock interview (Current: Problem Solving - 2.947, Coding - 3.263, Communication - 3.632)
+6. Reviewed ['H-Tree Construction'](https://youtu.be/I_5qyLN0e-k) for Pramp
 
 ### November 23rd, 2018
-1. Reviewed ['BST Successor Search'](https://youtu.be/EXpL01P2rms) problem for pramp second time
+1. Reviewed ['BST Successor Search'](https://youtu.be/EXpL01P2rms) problem for Pramp second time
 
 ### November 22nd, 2018
-1. Reviewed ['Matrix Spiral'](https://youtu.be/Y1QXYTPUeA4) problem for pramp
-2. Did ['twenteeth'](https://youtu.be/ZC2nWXEGSII) pramp mock interview (Current: Problem Solving - 2.824, Coding - 3.176, Communication - 3.588)
+1. Reviewed ['Matrix Spiral'](https://youtu.be/Y1QXYTPUeA4) problem for Pramp
+2. Did ['twenteeth'](https://youtu.be/ZC2nWXEGSII) Pramp mock interview (Current: Problem Solving - 2.824, Coding - 3.176, Communication - 3.588)
 
 ### November 21st, 2018
-1. Reviewed coding part of 'Basic Regex Parser' problem for pramp
-2. Reviewed ['Find Duplicates'](https://youtu.be/bBn2LjCqPYw) problem for pramp
-3. Did ['nineteenth'](https://youtu.be/087iti-G2R8) pramp mock interview (Current: Problem Solving - 2.813/4, Coding - 3.125/4, Communication 3.56/4)
-4. Reviewed coding part of 'Matrix Spiral' problem for pramp
+1. Reviewed coding part of 'Basic Regex Parser' problem for Pramp
+2. Reviewed ['Find Duplicates'](https://youtu.be/bBn2LjCqPYw) problem for Pramp
+3. Did ['nineteenth'](https://youtu.be/087iti-G2R8) Pramp mock interview (Current: Problem Solving - 2.813/4, Coding - 3.125/4, Communication 3.56/4)
+4. Reviewed coding part of 'Matrix Spiral' problem for Pramp
 
 ### November 20th, 2018
-1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for pramp second time
-2. Did ['eighteenth'](https://youtu.be/L2MkmAAEZ5s) pramp mock interview (Current: Problem Solving - 2.8/4, Coding - 3.133/4, Communication 3.6/4)
+1. Reviewed ['Getting a Different Number'](https://youtu.be/hNkjFeaDyz0) problem for Pramp second time
+2. Did ['eighteenth'](https://youtu.be/L2MkmAAEZ5s) Pramp mock interview (Current: Problem Solving - 2.8/4, Coding - 3.133/4, Communication 3.6/4)
 
 ### November 19th, 2018
-1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem for pramp second time
-2. Reviewed ['Sentence Reverse'](https://youtu.be/cW_oj9SUegg) problem for pramp second time
+1. Reviewed ['Pairs with Specific Difference'](https://youtu.be/7yhJ84m3y9k) problem for Pramp second time
+2. Reviewed ['Sentence Reverse'](https://youtu.be/cW_oj9SUegg) problem for Pramp second time
 
 ### November 18th, 2018
-1. Reviewed ['Number of Paths'](https://youtu.be/YIffDm2cx6o) problem for pramp
-2. Did ['sixteenth'](https://youtu.be/bwuAFTBK16M) pramp mock interview (Current: Problem Solving - 2.692/4, Coding - 3.077/4, Communication 3.538/4)
-3. Reviewed ['Award Budget Cuts'](https://youtu.be/dK8ItaaND0M) problem for pramp
-4. Did ['seventeenth'](https://youtu.be/izdy19a4YvQ) pramp mock interview (Current: Problem Solving - 2.714/4, Coding - 3.071/4, Communication 3.571/4)
+1. Reviewed ['Number of Paths'](https://youtu.be/YIffDm2cx6o) problem for Pramp
+2. Did ['sixteenth'](https://youtu.be/bwuAFTBK16M) Pramp mock interview (Current: Problem Solving - 2.692/4, Coding - 3.077/4, Communication 3.538/4)
+3. Reviewed ['Award Budget Cuts'](https://youtu.be/dK8ItaaND0M) problem for Pramp
+4. Did ['seventeenth'](https://youtu.be/izdy19a4YvQ) Pramp mock interview (Current: Problem Solving - 2.714/4, Coding - 3.071/4, Communication 3.571/4)
 
 ### November 17th, 2018
-1. Reviewed ['Busiest Time in the Mall'](https://youtu.be/GS6XCt-Dsjg) for pramp
-2. Did ['fourteenth'](https://youtu.be/dubPJR9nNj0) pramp mock interview (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
-3. Reviewed ['Shifted Array Search'](https://youtu.be/DgAXge5h-8o) problem for pramp
-4. Did ['fifteenth'](https://youtu.be/UPra7JsHTSA) pramp mock interview (Current: Problem Solving - 2.583/4, Coding - 3.0/4, Communication 3.5/4)
+1. Reviewed ['Busiest Time in the Mall'](https://youtu.be/GS6XCt-Dsjg) for Pramp
+2. Did ['fourteenth'](https://youtu.be/dubPJR9nNj0) Pramp mock interview (Current: Problem Solving - 2.636/4, Coding - 2.909/4, Communication 3.545/4)
+3. Reviewed ['Shifted Array Search'](https://youtu.be/DgAXge5h-8o) problem for Pramp
+4. Did ['fifteenth'](https://youtu.be/UPra7JsHTSA) Pramp mock interview (Current: Problem Solving - 2.583/4, Coding - 3.0/4, Communication 3.5/4)
 
 ### November 16th, 2018
-1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for pramp second time
+1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for Pramp second time
 
 ### November 15th, 2018
-1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for pramp second ∏ime
-2. Worked on ['video'](https://youtu.be/7WD8ssippPQ) part of 'Flatten Dictionary' problem for pramp
-3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) pramp mock interview (Not Rated)
-4. Reviewed ['Getting a Different Number'](https://youtu.be/s1CMkp-nKaQ) problem for pramp
-5. Did ['thirteenth'](https://youtu.be/eqKhJq1Utn8) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.8/4, Communication 3.5/4)
+1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for Pramp second ∏ime
+2. Worked on ['video'](https://youtu.be/7WD8ssippPQ) part of 'Flatten Dictionary' problem for Pramp
+3. Did ['twelveth'](https://youtu.be/M0eZq_8HWHw) Pramp mock interview (Not Rated)
+4. Reviewed ['Getting a Different Number'](https://youtu.be/s1CMkp-nKaQ) problem for Pramp
+5. Did ['thirteenth'](https://youtu.be/eqKhJq1Utn8) Pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.8/4, Communication 3.5/4)
 
 ### November 14th, 2018
-1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/NZCKkP1Avkk) problem for pramp
+1. Reviewed ['Smallest Substring of All Characters'](https://youtu.be/NZCKkP1Avkk) problem for Pramp
 
 ### November 12th, 2018
-1. Reviewed ['Bracket Match'](https://youtu.be/HdX1wBzxxO8) problem for pramp
-2. Worked on the coding part of 'Flatten Dictionary' problem for pramp
-3. Did ['tenth'](https://youtu.be/iYzsG0TEP1E) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.875/4, Communication 3.62/4)
-4. Did ['eleventh'](https://youtu.be/mEwHQoAwdLU) pramp mock interview (Current: Problem Solving - 2.444/4, Coding - 2.778/4, Communication 3.44/4)
+1. Reviewed ['Bracket Match'](https://youtu.be/HdX1wBzxxO8) problem for Pramp
+2. Worked on the coding part of 'Flatten Dictionary' problem for Pramp
+3. Did ['tenth'](https://youtu.be/iYzsG0TEP1E) Pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.875/4, Communication 3.62/4)
+4. Did ['eleventh'](https://youtu.be/mEwHQoAwdLU) Pramp mock interview (Current: Problem Solving - 2.444/4, Coding - 2.778/4, Communication 3.44/4)
 
 
 ### November 11th, 2018
-1. Reviewed ['Array Index and Element Equality'](https://youtu.be/Ky2gO-ozkxU) for pramp
-2. Did ['ninth'](https://youtu.be/TXOzM0L-aUc) pramp mock interview (Current: Problem Solving - 2.42/4, Coding - 2.85/4, Communication 3.57/4)
-3. Worked on coding part of 'Bracket Match' problem for pramp
+1. Reviewed ['Array Index and Element Equality'](https://youtu.be/Ky2gO-ozkxU) for Pramp
+2. Did ['ninth'](https://youtu.be/TXOzM0L-aUc) Pramp mock interview (Current: Problem Solving - 2.42/4, Coding - 2.85/4, Communication 3.57/4)
+3. Worked on coding part of 'Bracket Match' problem for Pramp
 
 ### November 10th, 2018
-1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for pramp
-2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) problem for pramp
-3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
+1. Reviewed ['Sentence Reverse'](https://youtu.be/-gCseNpsuGc) for Pramp
+2. Reviewed ['Word Count Engine'](https://youtu.be/dUMxrN9yXlA) problem for Pramp
+3. Did ['eighth'](https://youtu.be/0hXOEM3wPiE) Pramp mock interview (Current: Problem Solving - 2.5/4, Coding - 2.83/4, Communication 3.66/4)
 
 ### November 9th, 2018
-1. Worked on coding part of 'Sentence Reverse' for pramp
+1. Worked on coding part of 'Sentence Reverse' for Pramp
 
 ### November 7th, 2018
-1. Reviewed ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem for pramp
+1. Reviewed ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem for Pramp
 
 ### November 6th, 2018
-1. Did ['seventh'](https://youtu.be/0__SjUVrM_8) pramp mock interview (Sentence Reverse) (Current: Problem Solving - 2.4/4, Coding - 2.8/4, Communication 3.6/4)
+1. Did ['seventh'](https://youtu.be/0__SjUVrM_8) Pramp mock interview (Sentence Reverse) (Current: Problem Solving - 2.4/4, Coding - 2.8/4, Communication 3.6/4)
 
 ### November 5th, 2018
-1. Reviewed ['Array Quadruplet'](https://youtu.be/5wNcoX8t08Y) problem for pramp
+1. Reviewed ['Array Quadruplet'](https://youtu.be/5wNcoX8t08Y) problem for Pramp
 
 ### November 4th, 2018
-1. Worked on ['Root of Number'](https://youtu.be/-jlFDs_lo6o) problem for pramp
-2. Did ['sixth'](https://youtu.be/jlgyYZjrpzQ) pramp mock interview (Array Quadruplet) (Current: Problem Solving - 2.25/4, Coding - 2.75/4, Communication 3.5/4)
+1. Worked on ['Root of Number'](https://youtu.be/-jlFDs_lo6o) problem for Pramp
+2. Did ['sixth'](https://youtu.be/jlgyYZjrpzQ) Pramp mock interview (Array Quadruplet) (Current: Problem Solving - 2.25/4, Coding - 2.75/4, Communication 3.5/4)
 
 ### November 3rd, 2018
-1. Worked on ['Time Planner'](https://youtu.be/SVB-atmCmEE) problem for pramp
-2. Did ['fifth'](https://youtu.be/J5I0U69YeWs) pramp mock interview (Pairs With Specifc Difference) (Current: Problem Solving - 2/4, Coding - 2.33/4, Communication 3.33/4)
+1. Worked on ['Time Planner'](https://youtu.be/SVB-atmCmEE) problem for Pramp
+2. Did ['fifth'](https://youtu.be/J5I0U69YeWs) Pramp mock interview (Pairs With Specifc Difference) (Current: Problem Solving - 2/4, Coding - 2.33/4, Communication 3.33/4)
 3. Reviewed ['Pairs with Specific Difference'](https://youtu.be/Tt6HcZt2rMo) problem
 
 ### November 2nd, 2018
-1. Worked on ['Array of Array Products'](https://youtu.be/xf8hsmWtStU) problem for pramp
+1. Worked on ['Array of Array Products'](https://youtu.be/xf8hsmWtStU) problem for Pramp
 
 ### November 1st, 2018
 1. Reviewed ['BST Successor Search'](https://youtu.be/8QkMXiplu7M) problem
 
 ### October 31st, 2018
-1. Worked on 'root of a number' problem for pramp
-2. Did fourth pramp mock interview (BST Successor Search) (Current: Problem Solving - 1.5/4, Coding - 2.5/4, Communication 3.5/4)
+1. Worked on 'root of a number' problem for Pramp
+2. Did fourth Pramp mock interview (BST Successor Search) (Current: Problem Solving - 1.5/4, Coding - 2.5/4, Communication 3.5/4)
 
 ### October 30th, 2018
-1. Worked on coding part of 'Time Planner' (pramp)
+1. Worked on coding part of 'Time Planner' (Pramp)
 
 ### October 28th, 2018
 1. Worked on video part of ['Merge Sort'](https://youtu.be/IUtF319BHw4) exercise (Part 30/30 of Udemy's The Coding Interview Bootcamp: Algorithms + Data Structures course)
@@ -225,7 +227,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on 'Decrypt Message' problem for Pramp mock-interview
 
 ### Semptember 12th, 2018
-1. Did third pramp mock interview (Decrypt Message)
+1. Did third Pramp mock interview (Decrypt Message)
 
 ### September 11th, 2018
 1. Did second Pramp Mock Interview (pancake sort)
