@@ -15,6 +15,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 29th, 2018
+1. Did ['twenty fourth'](https://youtu.be/64zDJed7gIw) Pramp mock interview in algorithm (Not Rated - Repeated problem)
+2. Reviewed ['Setnence Reverse'](https://youtu.be/huS_qByPcHg) problem for Pramp third time
+
 ### November 28th, 2018
 1. Reviewed ['Merging Two Packages'](https://youtu.be/qZy_id8eEnk) problem for Pramp
 

@@ -23,7 +23,7 @@
 #0 <= arr.length <= 100
 #[output] array.character
 
-def reverse_words(arr):
+def reverse_words_old(arr):
 
   # reverse the order of each word in arr
   temp_arr_inner = []
@@ -52,8 +52,41 @@ def reverse_words(arr):
 
   return output
 
-def space_is_hit(character):
+def space_is_hit_old(character):
   if character.strip() == '':
     return True
   return False
 
+# ================= Review 3 ====================
+
+def reverse_words(arr):
+  temp_arr = []
+  temp_arr_inner = []
+
+  for idx,character in enumerate(arr):
+    if space_is_reached(arr,idx):
+      temp_arr.append([' '])
+    else:
+      temp_arr_inner.append(character)
+      if the_end_of_word_is_reached(arr,idx):
+        temp_arr.append(temp_arr_inner)
+        temp_arr_inner = []
+
+  temp_arr_reversed = temp_arr[::-1]
+
+  output = sum(temp_arr_reversed,[])
+
+  return output
+
+def space_is_reached(arr,index):
+  if arr[index].strip() == '':
+    return True
+  return False
+
+def the_end_of_word_is_reached(arr,index):
+  try:
+    if arr[index+1].strip() == '':
+      return True
+    return False
+  except:
+    return True
