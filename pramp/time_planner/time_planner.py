@@ -53,13 +53,13 @@
 #
 #
 
-def meeting_planner(slotsA, slotsB, dur):
+def meeting_planner_old(slotsA, slotsB, dur):
 
   output = get_earliest_available_time(slotsA, slotsB, dur)
 
   return output
 
-def get_earliest_available_time(slotsA, slotsB, dur):
+def get_earliest_available_time_old(slotsA, slotsB, dur):
   i = 0
   j = 0
   output = []
@@ -80,3 +80,27 @@ def get_earliest_available_time(slotsA, slotsB, dur):
       j += 1
 
   return output
+
+# ======================== Review 3 ======================
+
+def meeting_planner(slotsA, slotsB, dur):
+  idx_slot_a = 0
+  idx_slot_b = 0
+  length_slot_a = len(slotsA)
+  length_slot_b = len(slotsB)
+
+  while idx_slot_a < length_slot_a and idx_slot_b < length_slot_b:
+    start_time = max(slotsA[idx_slot_a][0],slotsB[idx_slot_b][0])
+    end_time = min(slotsA[idx_slot_a][1],slotsB[idx_slot_b][1])
+
+    overlap = end_time - start_time
+
+    if overlap >= dur:
+      return [start_time, start_time + dur]
+
+    if overlap < 0:
+      idx_slot_a += 1
+    else:
+      idx_slot_b += 1
+
+  return []
