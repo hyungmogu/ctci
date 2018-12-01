@@ -15,6 +15,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 1st, 2018
+1. Did ['twenty sixth'](https://youtu.be/v_8uj8FZ4Vg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
+
 ### November 30th, 2018
 1. Reviewed ['Time Planner'](https://youtu.be/W2pt5iZ5_pg) problem for Pramp third time
 2. Did ['twenty fifth'](https://youtu.be/vOcI0JVTc7g) Pramp mock interview in algorithm (Not Rated - Repeated problem)
