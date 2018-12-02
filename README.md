@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 2nd, 2018
+1. Did ['twenty seventh'](https://youtu.be/qYh0N1c6T54) Pramp mock interview in algorithm (Not Rated - Repeated problem)
+
 ### December 1st, 2018
 1. Did ['twenty sixth'](https://youtu.be/v_8uj8FZ4Vg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 2. Reviewed ['Find Duplicates'](https://youtu.be/U99FiSnVyQA) problem for Pramp second time
