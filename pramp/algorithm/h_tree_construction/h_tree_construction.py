@@ -29,7 +29,7 @@
 
 # [input] double depth
 
-def drawHTree(x_c,y_c,length,depth):
+def drawHTree_(x_c,y_c,length,depth):
 
   current_depth = 1
 
@@ -47,7 +47,60 @@ def drawHTreeHelper(x_c,y_c,length,depth, cureent_depth):
   drawHTreeHelper (x_c - length/2.0, y_c + length/2.0, updateLength(length),depth,cureent_depth+1)
   drawHTreeHelper (x_c - length/2.0, y_c - length/2.0,updateLength(length),depth,cureent_depth+1 )
   drawHTreeHelper (x_c + length/2.0, y_c - length/2.0, updateLength(length),depth,cureent_depth+1 )
-  drawHTreeHelper ((x_c + length/2.0, y_c + length/2.0, updateLength(length),depth,cureent_depth+1)
+  drawHTreeHelper (x_c + length/2.0, y_c + length/2.0, updateLength(length),depth,cureent_depth+1)
 
-def updateLength (length):
+def updateLength(length):
   return length / float(sqrt(length))
+
+# ================ Review 2 =====================
+
+def printHTree(x,y,length,current_depth,depth):
+  if terminating_condition_has_reached(current_depth,depth):
+    return
+
+  hrzt_left_pt_x = x - (length / 2.0)
+  hrzt_left_pt_y = y
+
+  hrzt_right_pt_x = x + (length / 2.0)
+  hrzt_right_pt_y = y
+
+  drawLine(hrzt_left_pt_x,hrzt_left_pt_y,hrzt_right_pt_x,hrzt_right_pt_y)
+
+  # 2.2 draw left vertical line
+  vert_left_top_pt_x =  x - (length / 2.0)
+  vert_left_top_pt_y = y + (length / 2.0)
+
+  vert_left_bottom_pt_x = x - (length / 2.0)
+  vert_left_bottom_pt_y = y - (length / 2.0)
+
+  drawLine(vert_left_top_pt_x,vert_left_top_pt_y,vert_left_bottom_pt_x,vert_left_bottom_pt_y)
+
+  # 2.3 draw right vertical line
+  vert_right_top_pt_x =  x + (length / 2.0)
+  vert_right_top_pt_y = y + (length / 2.0)
+
+  vert_right_bottom_pt_x = x + (length / 2.0)
+  vert_right_bottom_pt_y = y - (length / 2.0)
+
+  drawLine(vert_right_top_pt_x,vert_right_top_pt_y,vert_right_bottom_pt_x,vert_right_bottom_pt_y)
+
+  # 3. if currentDepth < depth / terminating condition is not satisfied, then perform recursion on each endpoint of H of current depth
+  updated_length = length**(1/2.0)
+  updated_depth = current_depth + 1
+  printHTree(vert_right_top_pt_x,vert_right_top_pt_y,updated_length,updated_depth,depth)
+  printHTree(vert_left_top_pt_x,vert_left_top_pt_y,updated_length,updated_depth,depth)
+  printHTree(vert_right_bottom_pt_x,vert_right_bottom_pt_y,updated_length,updated_depth,depth)
+  printHTree(vert_left_bottom_pt_x,vert_left_bottom_pt_y,updated_length,updated_depth,depth)
+
+def terminating_condition_has_reached(current_depth,depth):
+  if current_depth > depth:
+    return True
+  return False
+
+def drawHTree(x,y,length,depth):
+  if depth == 0:
+    return
+
+  currentDepth = 1
+
+  printHTree(x,y,length,current_depth,depth)

@@ -5,7 +5,6 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Goal
 - Undergo minimum of 10 interviews and reach the following average rating in system design by January 31st, 2019
     - Problem Solving: 3.0/4
-    - Coding 3.33/4
     - Communication: 3.5/4
 
 - Reach the following average rating in algorithm by December 31st, 2018 (on hold)
@@ -17,6 +16,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 1st, 2018
 1. Did ['twenty sixth'](https://youtu.be/v_8uj8FZ4Vg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
+2. Reviewed ['Find Duplicates'](https://youtu.be/U99FiSnVyQA) problem for Pramp second time
+3. Reviewed ['H-Tree Construction'](https://youtu.be/yc4p2fZXSvE) problem for Pramp second time
+4. Did first Pramp mock interview in system design (Current: Problem Solving - 1, Communication - 2)
 
 ### November 30th, 2018
 1. Reviewed ['Time Planner'](https://youtu.be/W2pt5iZ5_pg) problem for Pramp third time
