@@ -3,7 +3,7 @@
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
 ## Goal
-- Undergo minimum of 10 interviews and reach the following average rating in system design by January 31st, 2019
+- Reach the following average rating in system design by January 31st, 2019
     - Problem Solving: 3.0/4
     - Communication: 3.5/4
 
