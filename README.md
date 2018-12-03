@@ -16,6 +16,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 2nd, 2018
 1. Did ['twenty seventh'](https://youtu.be/qYh0N1c6T54) Pramp mock interview in algorithm (Not Rated - Repeated problem)
+2. Reviewed ['Deletion Distance'](https://youtu.be/oB6ssGX1trk) problem for Pramp
 
 ### December 1st, 2018
 1. Did ['twenty sixth'](https://youtu.be/v_8uj8FZ4Vg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
