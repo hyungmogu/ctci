@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 3rd, 2018
+1. Reviewed['Number of Paths'](https://youtu.be/CEadLAaZpj8) problem for Pramp
+
 ### December 2nd, 2018
 1. Did ['twenty seventh'](https://youtu.be/qYh0N1c6T54) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 2. Reviewed ['Deletion Distance'](https://youtu.be/oB6ssGX1trk) problem for Pramp

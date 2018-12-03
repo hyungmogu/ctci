@@ -35,12 +35,12 @@ def num_of_paths_to_dest_old (n):
 
   memo = [[-1 for x in range(n)] for x in range(n)]
 
-  output = get_num_of_paths_to_dest(n-1,n-1,memo)
+  output = get_num_of_paths_to_dest_old(n-1,n-1,memo)
 
   return output
 
 def get_num_of_paths_to_dest_old(i,j,memo):
-  if out_of_bounds(i,j):
+  if out_of_bounds_old(i,j):
     memo[j][i] = 0
     return 0
 
@@ -51,7 +51,7 @@ def get_num_of_paths_to_dest_old(i,j,memo):
   if not memo[j][i] == -1:
     return memo[j][i]
 
-  memo[j][i] = get_num_of_paths_to_dest(i-1,j,memo) + get_num_of_paths_to_dest(i,j-1,memo)
+  memo[j][i] = get_num_of_paths_to_dest_old(i-1,j,memo) + get_num_of_paths_to_dest_old(i,j-1,memo)
   return memo[j][i]
 
 def out_of_bounds_old(i,j):
@@ -61,14 +61,14 @@ def out_of_bounds_old(i,j):
 
 # ================= Review 2 ======================
 
-def num_of_paths_to_dest(n):
+def num_of_paths_to_dest_rev2(n):
   memo = [[-1 for x in range(n)] for x in range(n)]
-  output = get_num_of_paths_to_dest(n-1,n-1,memo)
+  output = get_num_of_paths_to_dest_rev2(n-1,n-1,memo)
 
   return output
 
-def get_num_of_paths_to_dest(i,j,memo):
-  if terminating_condition_is_reached(i,j):
+def get_num_of_paths_to_dest_rev2(i,j,memo):
+  if terminating_condition_is_reached_rev2(i,j):
     memo[j][i] = 1
     return memo[j][i]
 
@@ -79,18 +79,40 @@ def get_num_of_paths_to_dest(i,j,memo):
   if memo[j][i] > -1:
     return memo[j][i]
 
-  memo[j][i] = get_num_of_paths_to_dest(i-1,j,memo) + get_num_of_paths_to_dest(i,j-1,memo)
+  memo[j][i] = get_num_of_paths_to_dest_rev2(i-1,j,memo) + get_num_of_paths_to_dest_rev2(i,j-1,memo)
   return memo[j][i]
 
-def terminating_condition_is_reached(i,j):
+def terminating_condition_is_reached_rev2(i,j):
   if (i == 0 or j == 0) and j <= i:
     return True
   return False
 
-def out_of_bound(i,j):
+def out_of_bound_rev2(i,j):
   if j < 0 or j > i or i < 0:
     return True
   return False
+
+# ====================== Review 3 ==========================
+def get_num_of_paths_to_dest(i,j):
+    if j > i or i < 0 or j < 0:
+        memo[j][i] = 0
+        return memo[j][i]
+
+    if j == 0 and i >= 0:
+        memo[j][i] = 1
+        return memo[j][i]
+
+    if memo[j][i] > -1:
+        return memo[j][i]
+
+    memo[j][i] = get_num_of_paths_to_dest(i,j-1) + get_num_of_paths_to_dest(i-1,j)
+    return memo[j][i]
+
+def num_of_paths_to_dest(n):
+    print(n)
+    memo = [[-1 for x in range(n)] for x in range(n)]
+
+    return get_num_of_paths_to_dest(n-1,n-1.memo)
 
 
 if __name__ == '__main__':
