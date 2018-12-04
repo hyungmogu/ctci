@@ -15,7 +15,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### December 3rd, 2018
-1. Reviewed['Number of Paths'](https://youtu.be/CEadLAaZpj8) problem for Pramp
+1. Reviewed['Number of Paths'](https://youtu.be/CEadLAaZpj8) problem for Pramp third time
+2. Reviewed['Drone Flight Planner'](https://youtu.be/e23PRouS7eI) problem for Pramp second time
 
 ### December 2nd, 2018
 1. Did ['twenty seventh'](https://youtu.be/qYh0N1c6T54) Pramp mock interview in algorithm (Not Rated - Repeated problem)
