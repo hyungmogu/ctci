@@ -87,6 +87,41 @@ def get_maps(arr):
 
   return output
 
+# =================== Review 3 ==========================
+def get_indices_of_item_wights(arr, limit):
+  if len(arr) == 0 or len(arr) == 1:
+    return []
+
+  temp_maps = get_temp_maps(arr)
+
+  for arr_i in arr:
+    max_i = max(temp_maps[arr_i])
+    arr_j = limit - arr_i
+
+    if arr_j in temp_maps:
+
+      max_j = -1
+      for idx_j in temp_maps[arr_j]:
+        if idx_j < max_i:
+          max_j = idx_j
+
+      if max_j > -1:
+        return [max_i, max_j]
+
+  return []
+
+def get_temp_maps(arr):
+  output = {}
+
+  for idx,element in enumerate(arr):
+    if element in output:
+      output[element].append(idx)
+    else:
+      output[element] = [idx]
+
+  return output
+
+
 if __name__ == '__main__':
   arr = [4,4]
   limit = 8

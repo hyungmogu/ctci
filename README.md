@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 4th, 2018
+1. Reviewed ['Merging Two Packages'](https://youtu.be/SXJs0COsst8) problem for Pramp second time
+
 ### December 3rd, 2018
 1. Reviewed['Number of Paths'](https://youtu.be/CEadLAaZpj8) problem for Pramp third time
 2. Reviewed['Drone Flight Planner'](https://youtu.be/e23PRouS7eI) problem for Pramp second time
