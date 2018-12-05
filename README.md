@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 5th, 2018
+1. Reviewed ['Getting Different Number'](https://youtu.be/2MngzzPMWmI) problem for Pramp Third time
+
 ### December 4th, 2018
 1. Reviewed ['Merging Two Packages'](https://youtu.be/SXJs0COsst8) problem for Pramp second time
 

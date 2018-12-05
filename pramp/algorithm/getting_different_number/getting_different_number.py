@@ -26,6 +26,25 @@
 
 import sys
 
+# ============== Pramp Mock Interview ====================
+def get_different_number_old(arr):
+
+  max_value = max(arr)
+
+  temp_set_integers = set(range(max_value+1))
+  temp_set_arr = set(arr)
+
+  diff = temp_set_integers.difference(temp_set_arr)
+
+  if len(diff) > 0:
+    output = min(diff)
+  else:
+    output = max_value + 1
+
+  return output
+
+# ================= Review 2 ======================
+
 def get_different_number(arr):
   temp_set = set(arr)
 
@@ -41,20 +60,14 @@ def get_different_number(arr):
 
   return None
 
+# ================= Review 3 ======================
 
-def get_different_number_old(arr):
+def get_different_number(arr):
+    temp_set = set(arr)
+    index = 0
+    while index < sys.maxint:
+        if index not in temp_set:
+            return index
+        index += 1
 
-  # we are to find the smallest non-negative integer that's not in array
-  max_value = max(arr)
-
-  temp_set_integers = set(range(max_value+1))
-  temp_set_arr = set(arr)
-
-  diff = temp_set_integers.difference(temp_set_arr)
-
-  if len(diff) > 0:
-    output = min(diff)
-  else:
-    output = max_value + 1
-
-  return output
+    return -1
