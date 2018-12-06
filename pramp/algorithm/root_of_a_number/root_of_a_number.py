@@ -27,45 +27,7 @@
 # [output] float
 #
 # =========================================================
-# goal
-#   - nth root of a number
-#
-# input
-#   - x >= 0
-#   - n > 0
-#
-# output
-#   - float
-#
-# n = 1
-#     |---|---|---|---|---|---|---|---|
-# x   0  0.1 0.2 0.5  1   2 . 3   4 . 5
-#f(x) 0  0.1 0.2 0.5  1   2   3   4   5
-#
-# n = 2
 
-#     |----|----|----|----|----|----|----|----|
-# x   0   0.1  0.2   0.5   1    2    3    4    5
-#f(x) 0   0.1  0.2  0.70   1   1.41 1.73  2    5
-
-#=================================
-
-#
-#
-#
-
-# case
-#   - x == 0
-#   - x == 1 or n == 0
-#   - x < 1, x > 1
-
-# known
-#   - x == 0 --> root(x,n) == 0
-#   - x == 1 --> root(x,n) == 1
-#   - x > 1 --> root(x,n) < x
-#   - x < 1 --> root(x,n) > x
-#   - this is a search problem
-#     - binary search should be used
 output = 0
 
 def root(x,n):
@@ -91,23 +53,6 @@ def root(x,n):
   return output
 
 def get_nth_root(low, high, x, n, result):
-  # n = 2
-  #     |----|----|----|----|----|----|----|----|
-  # x   0                   2                   4
-
-  # n = 3
-  #     |----|----|----|----|----|----|----|----|
-  # x   0.5                0.75   ^   0.875     1
-  #
-  # cases
-  # 1. x < 1
-  # 2. x > 1
-  #
-  # known
-  #   - using binary search tree
-  #   - travel to the left --> middle_point**n > x
-  #   - travel to the right --> middle_point**n < x
-  #   - terminating condition --> abs(x - middle_point**n) < 0.001
 
   mid = (low + high) / 2.0
 
@@ -119,6 +64,47 @@ def get_nth_root(low, high, x, n, result):
     get_nth_root(low, mid, x, n, result)
   if mid**n < x:
     get_nth_root(mid, high, x, n, result)
+
+
+# ================== Review 2 ======================
+def root(x,n):
+    low = 0
+    high = 0
+    result = {'value': 0}
+
+    if n == 1 or x == 0:
+        return x
+
+    if n == 0 or x == 1:
+        return 1
+
+    if x > 0 and x < 1:
+        high = 1
+    else:
+        high = x
+
+    get_nth_root(low,high,x,n,result)
+    output = result['value']
+
+    return round(output,3)
+
+def get_nth_root(low,high,solution,n,output):
+    mid_point = (low + high) / 2.0
+
+    if terminating_condition_is_reached(mid_point,solution,n):
+        output['value'] = mid_point
+        return
+
+    if mid_point**n > solution:
+        get_nth_root(low,mid_point,solution,n,output)
+    else:
+        get_nth_root(mid_point,high,solution,n,output)
+
+def terminating_condition_is_reached(mid_point,solution,n):
+    if abs(solution - mid_point**n) < 0.001:
+        return True
+    return False
+
 
 if __name__ == '__main__':
   print(root(27,3))
