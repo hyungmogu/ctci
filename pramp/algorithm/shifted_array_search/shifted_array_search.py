@@ -20,8 +20,9 @@
 # [input] integer num
 # [output] integer
 
+# =============== review 1 ====================
 
-def shifted_arr_search(shiftArr, num):
+def shifted_arr_search_review1(shiftArr, num):
   temp_set = set(shiftArr)
   if not num in temp_set:
     return -1
@@ -34,3 +35,37 @@ def shifted_arr_search(shiftArr, num):
       break
 
   return shifts
+
+
+#  ============ review 2 =======================
+
+def get_shifted_arr_search_review2(idx_low,idx_high,num,shifted_arr,output):
+    if terminating_condition_is_reached_review2(idx_low,idx_high):
+        output['value'] = -1
+        return
+
+    idx_middle_point = (idx_low + idx_high) / 2
+
+    if shifted_arr[idx_middle_point] == num:
+        output['value'] = idx_middle_point
+        return idx_middle_point
+
+    if num < shifted_arr[idx_middle_point] and num >= shifted_arr[idx_low]:
+        get_shifted_arr_search_review2(idx_low,idx_middle_point-1,num,shifted_arr,output)
+    else:
+        get_shifted_arr_search_review2(idx_middle_point+1,idx_high,num,shifted_arr,output)
+
+def terminating_condition_is_reached_review2(idx_low,idx_high):
+    if idx_low > idx_high:
+        return True
+    return False
+
+
+def shifted_arr_search_review2(shiftArr, num):
+    result = {'value': -1}
+    size_shiftArr = len(shiftArr) -1
+    get_shifted_arr_search_review2(0, size_shiftArr, num, shiftArr, result)
+
+    output = result['value']
+    return output
+
