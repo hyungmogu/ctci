@@ -14,8 +14,6 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### December 6th, 2018
-
 ### December 5th, 2018
 1. Reviewed ['Getting Different Number'](https://youtu.be/2MngzzPMWmI) problem for Pramp third time
 2. Reviewed ['Root of a Number'](https://youtu.be/cx1t3mJTKaQ) problem for Pramp second time
