@@ -14,9 +14,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 8th, 2018
+1. Worked on ['N Queens'](https://youtu.be/G39NeV5GvD4) problem in algorithm from Leet Code
+
 ### December 6th, 2018
 1. Reviewed ['Shifted Array Search'](https://youtu.be/6t4l_Z7Md8c) problem for Pramp second time
-2. Worked on ['Two Sum'](https://youtu.be/2-wgOr_YnW8) problem in Leet Code / Pramp Practice.
+2. Worked on ['Two Sum'](https://youtu.be/2-wgOr_YnW8) problem from Leet Code
 
 ### December 5th, 2018
 1. Reviewed ['Getting Different Number'](https://youtu.be/2MngzzPMWmI) problem for Pramp third time
