@@ -1,0 +1,47 @@
+# Key-Value Cache for Search Engine
+#
+# Design a key-value cache to save the results of the most recent
+# web server queries, including a snippet about the search results
+# itself.
+
+# In case you’re not already familiar, a cache system is a widely
+# adopted technique that is used in nearly every application today
+# and applies to every layer of the technology stack. A cache
+# system stores commonly used resources, for example in-memory,
+# and the next time a request is made for the same resource,
+# the system can return it immediately.
+
+#========================================================
+Part 1: User Cases and Constraints
+
+1. user cases
+  - user makes a cache hit with search query
+  - user makes a cache miss with search query
+
+2 constraints
+  - traffic is not evenly distributed
+  - cache needs to return results at a fast rate
+  - cache resource is limited (stored in memory)
+    - need to keep popular queries and eliminate non-popular ones
+  - 10 million users / month
+  - 10 billion queries / month
+    - needs to store many queries inside the query
+
+3. basic calculation behind the system to be built
+    - query --> 50 bytes
+    - snippets --> 2~3 kilobytes
+    - total: ~2 to 3 kilobytes
+    - 30 trillion bytes --> 30 TB of data /month
+    - 4000 queries per second
+
+
+# ==============================================
+Part 2: High Level Design
+
+
+# ==============================================
+Part 3: Designing Core Concepts
+
+
+# ==============================================
+Ppar 4: Scaling the Design

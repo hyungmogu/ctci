@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 11th, 2018
+1. Worked on first part of ['Key-Value Cache for Search Engine'](https://youtu.be/T1aoZ1zprwo) problem in system design for Pramp
+
 ### December 9th, 2018
 1. Worked on coding part of 'Sudoku Solver' problem in algorithm for Pramp
 2. Worked on ['Letter Case Permutation'](https://youtu.be/I_yatERfOvQ) problem in algorithm from Leet Code
