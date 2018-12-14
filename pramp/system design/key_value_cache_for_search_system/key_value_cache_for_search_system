@@ -60,9 +60,6 @@ Part 3: Designing Core Concepts
       self.max = 0
       self.linked_list = LinkedList()
 
-    - get
-      1. check to see if query exists in cache
-
     def get(self, query):
         temp = self.linked_list.head
 
@@ -77,24 +74,33 @@ Part 3: Designing Core Concepts
 
         reutrn None
 
-      2. if query exists in cache, return result, and bring the node to the front
-      3. if query doesn't exist, return None
-
-
-    - set
     def set(self,query,results):
-        1. store query and result in node
         temp_node = self.Node(query,result)
 
-
-        2. if size of linked list == MAX, then remove last and append node to top
         if self.linked_list.size == self.Max:
           self.linked_list_remove_last()
 
         self.linked_list_add_to_front(node)
 
-    3. if size of linked list < MAX, append node to top
 
 # ==============================================
-Ppar 4: Scaling the Design
+part 4: Scaling the Design
+
+  strategies
+    - vertical scaling
+      - 8GB RAM --> 32 GB / 64GB / 128 GB
+      - better computing power
+
+      - disadvantage: Expansive
+    - Horizontal scaling (Load Balancer)
+      - No one machine with all power --> N many machines with 8 GB RAM
+      - server 1 full ? -> send to server 2 and so on
+
+
+  memcache strategy
+    - copying, sync, and distributing memcache at nth point in time
+
+    - memcache cluster network
+      - one centeral unit that communicates with the rest
+      - one gets updated --> communicates with the rest
 
