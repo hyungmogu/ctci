@@ -1,0 +1,54 @@
+Scale on the Cloud
+Many of today’s large scale concurrent systems rely on cloud computing platforms such as AWS or Google Cloud.
+
+Describe how would you design a service using a common cloud computing platform such as AWS, to scale incrementally from supporting hundreds of users to millions of users.
+
+For the purpose of the interview, assume the system generally receives user requests, does some processing, stores user data, and returns the results.
+
+=======
+
+Goal: design a cloud computing service like microsoft azure or amazon AWS that scales incrementally from supporting hundreds of users to millions of users
+
+Focus on the part where the system receives user request, does some processing, stores user data, and returns the results
+
+=======
+
+Cloud computing
+  - helps us to focus on software aspect instead of hardware
+  - automatically scales based on needs
+  - increases / decreases the cost based on needs
+
+# ==============================================
+Part 1: User Cases and Constraints
+  - read and write a request to user data (for whatever app it may be)
+  - cloud computing system must be flexible from dealing hundreds of users to millions of users
+
+  constraints
+    - has uneven distribution of traffic
+    - 10 million clients
+    - 100 billion read requests
+    - 1 billion wrtie requests
+      - edit/create of user data
+
+    - 1 KB per write (roughly about a paragraph of data)
+
+  back-to-envelope calculation
+    - 1 000 byte * 1 billion = 1 trillion byte
+      - 1TB of data per month
+      - 12TB of data per Year
+      - 48 TB of data in 4 years
+
+    - ~40,000 read requests per second
+    - 400 write requests per second
+
+# ==============================================
+Part 2: High Level Design
+  -
+
+# ==============================================
+Part 3: Designing Core Concepts
+  -
+
+# ==============================================
+part 4: Scaling the Design
+  -

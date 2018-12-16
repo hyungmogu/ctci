@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 16th, 2018
+1. Worked on first part of ['Scale on the Cloud'](https://youtu.be/X6J-WJ0iQXU) problem in system design for Pramp
+
 ### December 15th, 2018
 1. Worked on ['Generate Parenthesis'](https://youtu.be/ipUlZYX5-qE) problem
 in algorithm from Leet Code
