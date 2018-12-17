@@ -43,11 +43,48 @@ Part 1: User Cases and Constraints
 
 # ==============================================
 Part 2: High Level Design
-  -
+  - See scale_on_the_cloud_part2.png
 
 # ==============================================
-Part 3: Designing Core Concepts
-  -
+Part 3: Designing Core Concepts (basic design)
+
+  points to consider when designing system
+    1. scalability (1-50 users)
+      - vertical scaling
+        - increase resources when on demand by increasing CPU or RAM
+          - upgrading of RAM (16GB -> 32GB)
+          - upgrading of CPU (i5 -> i7)
+
+        - how to scale
+          - monitor resources such as CPU or RAM -> make decision which to scale
+
+    2. durability (ability to hold data after crash)
+      - relational database
+        - data is stored in hard drive (SSD --> can retrieve data at a very fast rate)
+
+      other advantages
+        - it's well known with huge community
+        - it's well battle tested
+        - it has a clear pattern for scaling
+        - it can look up by indexes super fast
+
+    3. security (ability to safely deliver data to and from client)
+
+      - ssh certificate (encrypt inbounding and outbounding data) --> makes it hard to see what's inside
+      - send information to port that's necessary
+        - HTTPS: 443
+        - whitelisted ips: 22
+
+      - use parametrized query to prevent sql injection attack
+
+        i.e. 'SELECT * from USERS WHERE email = ?'
+
+      - principle of least privileges
+
+        - i.e. user gives READ and WRTIE request only to THAT USER, so damage is within that user only.
+
+    4. DNS
+      - USE ROUTE 53 or other DNS service providers
 
 # ==============================================
 part 4: Scaling the Design

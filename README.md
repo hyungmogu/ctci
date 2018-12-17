@@ -16,6 +16,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 16th, 2018
 1. Worked on first part of ['Scale on the Cloud'](https://youtu.be/X6J-WJ0iQXU) problem in system design for Pramp
+2. Worked on second part of ['Scale on the Cloud'](https://youtu.be/SIYTiKoYyKY) problem in system design for Pramp
+3. Worked on third part of ['Scale on the Cloud'](https://youtu.be/Sfc8gy_tagA) problem in system design for Pramp
 
 ### December 15th, 2018
 1. Worked on ['Generate Parenthesis'](https://youtu.be/ipUlZYX5-qE) problem
