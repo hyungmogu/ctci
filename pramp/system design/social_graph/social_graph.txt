@@ -1,0 +1,32 @@
+Goal: given a popular social network site like instagram / facebook contaning millions of users, and billions of connections between inidividuals, create a system that allows users to search another person and find the shortest path between them
+
+
+# ==============================================
+Part 1: User Cases and Constraints
+
+use cases
+  - user performing a search (Ray) and see Ray with highest level of connection / shortest path between the two on top.
+  - service for search should be available all the time
+
+constraint
+  - 100 million users in total (static)
+  - 1 billion friend searches per month
+  - graph will not fit on a single machine
+    - data is too huge
+  - each friend has about 50 friends
+  - graph edge is unweighted
+    - it doesn't cost anything to travel between two users (travel back and forth without consequences)
+  - traffic is unevenly distributed
+
+back of the envelope calculation behin the system
+  - ~400 searches per second
+  - 5 billion relationships to consider
+
+# ==============================================
+Part 2: High Level Design
+
+# ==============================================
+Part 3: Designing Core Concepts (basic design)
+
+# ==============================================
+part 4: Scaling the Design
