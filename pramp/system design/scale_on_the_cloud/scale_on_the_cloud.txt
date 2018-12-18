@@ -88,4 +88,36 @@ Part 3: Designing Core Concepts (basic design)
 
 # ==============================================
 part 4: Scaling the Design
+
+1 - 50
+  - uses vertical scaling
+  - db is inside the web server
+  - img, js or css are all inclded in web server
+
+50 - 1000
+  - uses vertical scaling
+  - seperate images css, js and videos into a db called "object store"
+    - to reduce load put onto system
   -
+
+1000 - 100,000
+  - use horizontal scaling
+  - use load balancer
+  - master slave sql
+    - can create many instances under read request. (can imrpove reading speed)
+    -
+
+100,000 - 1 million
+  - uses horizontal scaling
+  - use load balancer
+  - uses auto scaling to scale components in need
+  - cache to reduce get time in READ API
+  - use master-slave database
+
+
+1 million - 10 millions
+  - use horizontal scaling
+  - use load balancer
+  - auto scale
+  - CDN to load big files such as angular.js from anoter aserver (reduce load onto our system)
+  - read API --> use memcache to boost the operation
