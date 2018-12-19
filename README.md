@@ -16,6 +16,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 18th, 2018
 1. Worked on first part of ['Social Graph'](https://youtu.be/h30F6Aima7k) problem in system design for Pramp
+2. Worked on second part of ['Social Graph'](https://youtu.be/U9C9TTjVRos) problem in system desgin for Pramp
 
 ### December 17th, 2018
 1. Worked on fourth part of ['Scale on the Cloud'](https://youtu.be/qaPE3vt0i64) problem in system design for Pramp

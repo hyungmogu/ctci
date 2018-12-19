@@ -24,6 +24,7 @@ back of the envelope calculation behin the system
 
 # ==============================================
 Part 2: High Level Design
+  - see social_graph_part2.png
 
 # ==============================================
 Part 3: Designing Core Concepts (basic design)
