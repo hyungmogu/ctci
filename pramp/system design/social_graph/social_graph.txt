@@ -18,7 +18,7 @@ constraint
     - it doesn't cost anything to travel between two users (travel back and forth without consequences)
   - traffic is unevenly distributed
 
-back of the envelope calculation behin the system
+back of the envelope calculation behind the system
   - ~400 searches per second
   - 5 billion relationships to consider
 
