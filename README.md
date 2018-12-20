@@ -15,7 +15,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### December 19th, 2018
-1. Taking a break until December 22nd, 2018. Brain needs some rest. Will comeback!
+1. Taking a break until December 22nd, 2018. Feeling the need to rest. Will comeback!
 
 ### December 18th, 2018
 1. Worked on first part of ['Social Graph'](https://youtu.be/h30F6Aima7k) problem in system design for Pramp
