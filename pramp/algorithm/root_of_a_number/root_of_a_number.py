@@ -105,6 +105,40 @@ def terminating_condition_is_reached(mid_point,solution,n):
         return True
     return False
 
+# =============== Review 5 ===================
+def root(x,n):
+    output = 0
+    lower_bnd = 0
+    upper_bnd = 0
+
+    if x == 0 or x == 1:
+        return x
+
+    if x < 1:
+        lower_bnd = x
+        upper_bnd = 1
+    else:
+        lower_bnd = 1
+        upper_bnd = x
+
+    output = _root(x,n,lower_bnd,upper_bnd)
+
+    return round(output,3)
+
+def _root(x,n,lower_bnd,upper_bnd):
+    middle_point = (lower_bnd + upper_bnd) / 2.0
+
+    if abs(middle_point**n - x) < 0.001:
+        output = middle_point
+        return output
+
+    if middle_point**n >  x:
+        output = _root(x,n,lower_bnd,middle_point)
+    else:
+        output = _root(x,n,middle_point, upper_bnd)
+
+    return output
+
 
 if __name__ == '__main__':
   print(root(27,3))

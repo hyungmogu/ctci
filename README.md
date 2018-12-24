@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 24th, 2018
+1. Worked on ['Root of a number'](https://youtu.be/0pUr7132m-Q) problem in algorithm for Pramp fifth time
+
 ### December 23rd, 2018
 1. Worked on ['Drone Flight Planner'](https://youtu.be/qtq4CeRFsYw) problem in algorithm for Pramp third time
 
@@ -60,7 +63,7 @@ in algorithm from Leet Code
 
 ### December 5th, 2018
 1. Reviewed ['Getting Different Number'](https://youtu.be/2MngzzPMWmI) problem for Pramp third time
-2. Reviewed ['Root of a Number'](https://youtu.be/cx1t3mJTKaQ) problem for Pramp second time
+2. Reviewed ['Root of a number'](https://youtu.be/cx1t3mJTKaQ) problem for Pramp fourth time
 
 ### December 4th, 2018
 1. Reviewed ['Merging Two Packages'](https://youtu.be/SXJs0COsst8) problem for Pramp second time
@@ -190,7 +193,7 @@ in algorithm from Leet Code
 1. Reviewed ['Array Quadruplet'](https://youtu.be/5wNcoX8t08Y) problem for Pramp
 
 ### November 4th, 2018
-1. Worked on ['Root of Number'](https://youtu.be/-jlFDs_lo6o) problem for Pramp
+1. Worked on ['Root of a Number'](https://youtu.be/-jlFDs_lo6o) problem for Pramp third time
 2. Did ['sixth'](https://youtu.be/jlgyYZjrpzQ) Pramp mock interview in algorithm (Array Quadruplet) (Current: Problem Solving - 2.25/4, Coding - 2.75/4, Communication 3.5/4)
 
 ### November 3rd, 2018
@@ -205,7 +208,7 @@ in algorithm from Leet Code
 1. Reviewed ['BST Successor Search'](https://youtu.be/8QkMXiplu7M) problem
 
 ### October 31st, 2018
-1. Worked on 'root of a number' problem for Pramp
+1. Worked on 'Root of a number' problem for Pramp second time
 2. Did fourth Pramp mock interview in algorithm (BST Successor Search) (Current: Problem Solving - 1.5/4, Coding - 2.5/4, Communication 3.5/4)
 
 ### October 30th, 2018
@@ -314,7 +317,7 @@ in algorithm from Leet Code
 1. Did second Pramp Mock Interview (pancake sort)
 
 ### September 7th, 2018
-1. Worked on ['root of a number'](https://youtu.be/EcQrJqIg7Ls) problem for Pramp mock-interview
+1. Worked on ['Root of a number'](https://youtu.be/EcQrJqIg7Ls) problem for Pramp mock-interview
 
 ### September 5th, 2018
 1. Did first Pramp Mock interview (Root of a number). Yay!
