@@ -63,3 +63,22 @@ def get_max_height(path):
 
     return max_value
 
+# ============= Review 3 =============
+
+def calc_drone_min_energy(path):
+    output = 0
+    current_best = -sys.maxint
+
+    if len(path) == 0:
+        return 0
+
+    for point in path:
+        if point[2] > current_best:
+            current_best = point[2]
+
+    if path[0][2] >= current_best:
+        output = 0
+    else:
+       output = current_best - path[0][2]
+
+    return output

@@ -1,5 +1,5 @@
 import unittest
-import drone_flight_planner_review as d
+import drone_flight_planner as d
 
 
 class TestDroneFlightPlanner(unittest.TestCase):
