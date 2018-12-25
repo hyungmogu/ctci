@@ -74,3 +74,25 @@ def is_a_lower_case_letter(temp):
   if temp < 97 or temp > 122:
     return False
   return True
+
+# ============ Review 4 ================
+
+def decrypt(word):
+    temp_arr = [x for x in word]
+    output = []
+    m = 1
+
+    if word.strip() == '':
+        return ''
+
+    for idx, character in enumerate(word):
+        temp_val = ord(character) - m
+
+        while not (temp_val <= 122 and temp_val >= 97):
+            temp_val += 26
+
+        m += temp_val
+
+        output.append(chr(temp_val))
+
+    return "".join(output)

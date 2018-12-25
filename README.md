@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 25th, 2018
+1. Worked on ['Decrypt Message'](https://youtu.be/mDmrXs23LMY) problem in algorithm for Pramp fourth time.
+
 ### December 24th, 2018
 1. Worked on ['Root of a number'](https://youtu.be/0pUr7132m-Q) problem in algorithm for Pramp fifth time
 2. Worked on corrections for part 1 and part 2 of ['Social Graph'](https://youtu.be/N7c3eyD30ro) problem in system design for Pramp
@@ -153,7 +156,7 @@ in algorithm from Leet Code
 4. Did ['fifteenth'](https://youtu.be/UPra7JsHTSA) Pramp mock interview in algorithm (Current: Problem Solving - 2.583/4, Coding - 3.0/4, Communication 3.5/4)
 
 ### November 16th, 2018
-1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for Pramp second time
+1. Reviewed ['Decrypt Message'](https://youtu.be/MekTOvm_2Tw) problem for Pramp in algorithm third time
 
 ### November 15th, 2018
 1. Reviewed ['Bracket Match'](https://youtu.be/e_k1CTqI6fs) problem for Pramp second ∏ime
@@ -186,7 +189,7 @@ in algorithm from Leet Code
 1. Worked on coding part of 'Sentence Reverse' for Pramp
 
 ### November 7th, 2018
-1. Reviewed ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem for Pramp
+1. Worked on ['Decrypt Message'](https://youtu.be/88pNUGQvE1w) problem in algorithm for Pramp second time
 
 ### November 6th, 2018
 1. Did ['seventh'](https://youtu.be/0__SjUVrM_8) Pramp mock interview in algorithm (Sentence Reverse) (Current: Problem Solving - 2.4/4, Coding - 2.8/4, Communication 3.6/4)
