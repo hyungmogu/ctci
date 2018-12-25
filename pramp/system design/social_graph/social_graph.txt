@@ -25,9 +25,92 @@ back of the envelope calculation behind the system
 # ==============================================
 Part 2: High Level Design
   - see social_graph_part2.png
+  - [update 24/12/2018] see social_graph_corrections.png
+
+  - important constraints
+  1. graph won't fit on a single machine
+    why?
+      - there are too many users to handle (100 million users in total)
+      - users will be stored in different servers (x many users stored in 1 machine, y many users stored in another, and so on...)
 
 # ==============================================
 Part 3: Designing Core Concepts (basic design)
+
+   Search API
+    - get list of ids of users in shortest path between user and target id
+      i.e. [2 (id of person after user),3,4,5 (target_id)]
+
+      temp_arr = self.user_graph_service.get_shortest_path(target_id, user_id)
+
+    - for each id, retrieve information about person
+      i.e. [{...}, {id:3,name:...,url:...}]
+      output = self.look_up_service.get_people(temp_arr)
+
+    - return output
+    return output
+
+
+  User graph service
+
+    - shortest path
+      - intput: an integer target_id, user_id
+      - output: an array of integers
+
+   class UserGraphService:
+        def __init__(self,look_up_service):
+          self.look_up_service = look_up_service
+
+        def get_shortest_path(self,target_id, user_id):
+          1. get information about shortest path from user to target {node_id1: parent_id1, node_id2: parent_id1, ...}
+          temp_obj = self._get_shortest_path(target_id,user_id)
+
+          2. travel backward from target and append parent_ids including target to output
+          output.append(target_id)
+          id = target_id
+
+          while temp_obj[id] not None:
+            output.append(temp_obj[id])
+            id = temp_obj[id]
+
+          3. return output
+          return output
+
+        def _get_shortest_path(self,target_id, user_id):
+          intput: integer x 2
+          output: object
+
+          1. use breadth first search
+            1. while queue is not empty, pop an entry from queue
+            while len(queue) != 0:
+
+              person_id = queue.popleft()
+
+              1.1. retrieve information about person {id: ..., name: ... , friends: [...]}
+              person = self.look_up_service.get_people([person_id])
+
+              1.2. for each friend_id in person.friends, if friend_id exists in object, continue
+              for friend_id in person.friends:
+
+                if friend_id in output:
+                  continue
+
+                1.2.2 set output[friend_id] = person_id
+                output[friend_id] = person_id
+
+                1.2.3 if output is solution, then return output
+                if target_id == friend_id:
+                  return output
+
+              2. if end of array for person.friends, then concat person.friends to temp_arr
+              temp_arr += person.friends
+
+              3. if queue is empty, concat temp_arr to queue
+              if len(queue) == 0:
+                queue += temp_arr
+                temp_arr = []
+
+          return output
+
 
 # ==============================================
 part 4: Scaling the Design

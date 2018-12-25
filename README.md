@@ -16,6 +16,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 24th, 2018
 1. Worked on ['Root of a number'](https://youtu.be/0pUr7132m-Q) problem in algorithm for Pramp fifth time
+2. Worked on corrections for part 1 and part 2 of ['Social Graph'](https://youtu.be/N7c3eyD30ro) problem in system design for Pramp
+3. Worked on part 3 of ['Social Graph'](https://youtu.be/ONS8j5ct0oU) problem in system design for Pramp
 
 ### December 23rd, 2018
 1. Worked on ['Drone Flight Planner'](https://youtu.be/qtq4CeRFsYw) problem in algorithm for Pramp third time
