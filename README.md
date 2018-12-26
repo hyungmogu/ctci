@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 26th, 2018
+1. Worked on ['BST Successor Search'](https://youtu.be/J3C6eiHrjH0) problem in algorithm for Pramp third time
+
 ### December 25th, 2018
 1. Worked on ['Decrypt Message'](https://youtu.be/mDmrXs23LMY) problem in algorithm for Pramp fourth time.
 2. Worked on part 4 of ['Social Graph'](https://youtu.be/hzePVaKhkRc) problem in system design for Pramp

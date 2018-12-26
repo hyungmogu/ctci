@@ -1,5 +1,5 @@
 # BST Successor Search
-# In a Binary Search Tree (BST), an Inorder Successor of a node is defined as the node with the smallest key greater than the key of the input node (see examples below). Given a node inputNode in a BST, you’re asked to write a function findInOrderSuccessor that returns the Inorder Successor of inputNode. If inputNode has no Inorder Successor, return null.
+# In a Binary Search Tree (BST), an Inorder Successor of a node is defined as the node with the smallest key greater than the key of the input node (see examples below). Given a node inputNode in a BST, you're asked to write a function findInOrderSuccessor that returns the Inorder Successor of inputNode. If inputNode has no Inorder Successor, return null.
 #
 # Explain your solution and analyze its time and space complexities.
 #
@@ -58,17 +58,13 @@ class BinarySearchTree:
   def __init__(self):
     self.root = None
 
+  # ================ Review 2 =================
+
   def find_in_order_successor(self, inputNode):
-    # 1. if there is node to the right of inputNode
-    # 1.1 travel to the leftmost node of inputNode.right
-    # 1.2 return the node
     if self.there_is_node_to_the_right(inputNode):
       output = self.get_left_most_node(inputNode.right)
       return output
 
-    # 2. if there is NO node to the right of inputNode
-    # 2.1 find parent s.th parent.key > inputNode.key
-    # 2.2 if parent not found then return None
     else:
       parent = inputNode.parent
       while parent != None:
@@ -90,6 +86,33 @@ class BinarySearchTree:
       temp_node = temp_node.left
 
     return temp_node
+
+  # ================ Review 3 ====================
+
+   def find_in_order_successor(self, inputNode):
+    if self.there_is_node_to_right(inputNode):
+      temp_node = inputNode.right
+
+      while temp_node.left != None:
+        temp_node = temp_node.left
+
+    else:
+      temp_val = inputNode.key
+      temp_node = inputNode.parent
+
+      while temp_node.key < temp_val:
+        temp_node = temp_node.parent
+
+        if temp_node == None:
+          break
+
+    output = temp_node
+    return output
+
+  def there_is_node_to_right(self, node):
+    if node.right == None:
+      return False
+    return True
 
   # Given a binary search tree and a number, inserts a
   # new node with the given number in the correct place
