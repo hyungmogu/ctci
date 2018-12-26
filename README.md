@@ -16,6 +16,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 25th, 2018
 1. Worked on ['Decrypt Message'](https://youtu.be/mDmrXs23LMY) problem in algorithm for Pramp fourth time.
+2. Worked on part 4 of ['Social Graph'](https://youtu.be/hzePVaKhkRc) problem in system design for Pramp
 
 ### December 24th, 2018
 1. Worked on ['Root of a number'](https://youtu.be/0pUr7132m-Q) problem in algorithm for Pramp fifth time

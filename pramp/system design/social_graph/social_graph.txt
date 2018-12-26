@@ -114,3 +114,6 @@ Part 3: Designing Core Concepts (basic design)
 
 # ==============================================
 part 4: Scaling the Design
+  constraints to consider
+    - 100 million users in total
+    - 400 requests / second OR 1 billion requests per month
