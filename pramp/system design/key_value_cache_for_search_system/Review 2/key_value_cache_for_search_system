@@ -1,0 +1,133 @@
+# Key-Value Cache for Search Engine
+#
+# Design a key-value cache to save the results of the most recent
+# web server queries, including a snippet about the search results
+# itself.
+
+# In case you’re not already familiar, a cache system is a widely
+# adopted technique that is used in nearly every application today
+# and applies to every layer of the technology stack. A cache
+# system stores commonly used resources, for example in-memory,
+# and the next time a request is made for the same resource,
+# the system can return it immediately.
+---------------------------------------------
+
+goal: design a key-value cache that saves a search results of the most recent web server query (just like google). Each result should include snippet of itself
+
+https://www.google.com/api/v1/query?q="Hello World!"
+
+[
+  {
+    title: "Hello, World! program - Wikipedia",
+    url: "https://en.wikipedia.org/wiki/...",
+    snippet: "A hello world! program is a computer..."
+  },
+  {
+    title: "Hello, World - Learn Python - Free inter...",
+    url: "https://www.learnpython.org/hello_world/...",
+    snippet: "Hello, world is a very simple language, and has a very straightforward syntax ..."
+  },
+  ...
+]
+
+----------
+pseudocode (query API)
+
+1. normalize query (removing special characters, turning all into lowercase letters, fixing typos)
+
+
+2. if query exists in memory cache, then fetch results
+2.1 if query doesn't exist in memory cache, then fetch results from database
+
+[
+  {
+    title: "Hello, World! program - Wikipedia",
+    url: "https://en.wikipedia.org/wiki/...",
+    snippet: "A hello world! program is a computer..."
+  },
+  {
+    title: "Hello, World - Learn Python - Free inter...",
+    url: "https://www.learnpython.org/hello_world/...",
+    snippet: "Hello, world is a very simple language, and has a very straightforward syntax ..."
+  },
+  ...
+]
+
+3. send result back to client
+
+
+# ==============================================
+Part 1: User Cases and Constraints
+
+user cases
+  - user makes a cache hit
+  - user makes a cache miss
+
+Constraint
+  - traffic is not evenly distributed
+    - there is particular point in time where query of the same term is highest
+  - serving from cache requires fast look up
+  - low latency between machines
+  - limited memory cache
+  - 10 million users
+  - 10 billion queries per month
+
+back-of-envelop-calculation
+  - cache
+    - assume each query has 1 result
+      - title --> 50 bytes
+      - url --> 200 bytes
+      - snippet --> 500 bytes
+
+      750 bytes * 10 billion queries / month --> 7500 billion bytes / month --> 7.5TB / month
+
+  - 4000 queries / second
+
+---
+solution to lowering amount of data in cache?
+  - store ids instead of full data
+
+  5 bytes (size of id) * 10 billion queries / month --> 50 billion bytes / month --> 0.05 TB / month (Much better)
+---
+
+improved pseudocode (query API)
+
+1. normalize query (removing special characters, turning all into lowercase letters, fixing typos)
+
+
+2. if query exists in memory cache, then fetch results
+2.1 if query doesn't exist in memory cache, then fetch results from database
+
+[
+  1000, 10001
+]
+
+3. using document service, retrieve document of corresponding id
+
+[
+  {
+    title: "Hello, World! program - Wikipedia",
+    url: "https://en.wikipedia.org/wiki/...",
+    snippet: "A hello world! program is a computer..."
+  },
+  {
+    title: "Hello, World - Learn Python - Free inter...",
+    url: "https://www.learnpython.org/hello_world/...",
+    snippet: "Hello, world is a very simple language, and has a very straightforward syntax ..."
+  },
+  ...
+]
+
+4. send result back to client
+
+
+# ==============================================
+Part 2: High Level Design
+  - see key_value_cache_part1_and_2.png
+
+# ==============================================
+Part 3: Designing Core Concepts (basic design)
+
+
+# ==============================================
+part 4: Scaling the Design

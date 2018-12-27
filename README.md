@@ -16,6 +16,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### December 26th, 2018
 1. Worked on ['BST Successor Search'](https://youtu.be/J3C6eiHrjH0) problem in algorithm for Pramp third time
+2. Worked on part 1 and 2 of ['Key-Value Cache for Search Engine'](https://youtu.be/s2tnhangiSg) problem in system design for Pramp second time
 
 ### December 25th, 2018
 1. Worked on ['Decrypt Message'](https://youtu.be/mDmrXs23LMY) problem in algorithm for Pramp fourth time.
