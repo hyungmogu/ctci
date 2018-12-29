@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 29th, 2018
+1. Worked on ['Array Quadruplet'](https://youtu.be/YgRSZB9D2cE) problem for Pramp third time
+
 ### December 28th, 2018
 1. Worked on corrections for part 1 and 2 of ['Key-Value Cache for Search Engine'](https://youtu.be/XbHvxsfVyW0) problem in system design
 for Pramp

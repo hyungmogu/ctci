@@ -26,8 +26,6 @@
 #
 # [output] array.integer
 
-
-
 def find_array_quadruplet_old(arr, s):
   if len(arr) < 4:
     return []
@@ -105,3 +103,39 @@ def i_reached_terminating_condition(i,arr):
   if i == len(arr) - 3:
     return True
   return False
+
+# ===================== review 3 ========================
+
+def find_array_quadruplet(arr, s):
+
+    if len(arr) < 4:
+        return []
+
+    i = 0
+    j = i + 1
+    l = j + 1
+    r = len(arr) - 1
+    arr = sorted(arr)
+
+    while i < len(arr) - 3:
+        while j < len(arr) - 2:
+            while l < r:
+                temp_sum = arr[i] + arr[j] + arr[l] + arr[r]
+
+                if temp_sum == s:
+                    return [arr[i],arr[j],arr[l],arr[r]]
+
+                if temp_sum < s:
+                    l += 1
+                else:
+                    r -= 1
+
+            j += 1
+            l = j + 1
+            r = len(arr) - 1
+
+        i += 1
+        j = i + 1
+        l = j + 1
+        r = len(arr) - 1
+    return []
