@@ -88,6 +88,9 @@ solution to lowering amount of data in cache?
   - store ids instead of full data
 
   5 bytes (size of id) * 10 billion queries / month --> 50 billion bytes / month --> 0.05 TB / month (Much better)
+
+
+  - [correction 28/12/2018] Use LRU Cache Methodology. (storing by id doesn't work. see key_value_cache_part1_and_2_correction.png)
 ---
 
 improved pseudocode (query API)
@@ -97,7 +100,9 @@ improved pseudocode (query API)
 
 2. if query exists in memory cache, then fetch results
 2.1 if query doesn't exist in memory cache, then fetch results from database
+2.1 [correction 28/12/2018] if query doesn't exist in memory cache, then fetch results from reverse_index_service
 
+--------
 [
   1000, 10001
 ]
@@ -120,14 +125,120 @@ improved pseudocode (query API)
 
 4. send result back to client
 
+--------
+
+[correction 28/12/2018]
+
+[
+  {
+    title: "Hello, World! program - Wikipedia",
+    url: "https://en.wikipedia.org/wiki/...",
+    snippet: "A hello world! program is a computer..."
+  },
+  {
+    title: "Hello, World - Learn Python - Free inter...",
+    url: "https://www.learnpython.org/hello_world/...",
+    snippet: "Hello, world is a very simple language, and has a very straightforward syntax ..."
+  },
+  ...
+]
+
+3. send result back to client
+
+----------
 
 # ==============================================
 Part 2: High Level Design
   - see key_value_cache_part1_and_2.png
 
 # ==============================================
-Part 3: Designing Core Concepts (basic design)
+Part 3: Designing Core Concepts
+  - see key_value_cache_part3_and_4_1.png and key_value_cache_part3_and_4_2.png
 
+class QueryAPI:
+
+  def __init__(self,memory_cache,reverse_index_service):
+    self.memory_cache = memory_cache
+    self.reverse_index_service = reverse_index_service
+
+  def get(self,query):
+    1. normalize query (removing special characters, turning all into lowercase letters, fixing typos)
+    query = self._normalize_query(query)
+
+    2. if query exists in memory cache, then fetch results
+    results = self.memory_cache.get(query)
+
+    2.1 if query doesn't exist in memory cache, then fetch results from database via reverse index service
+
+
+    if results is None:
+      results = self.reverse_index_service.search(query)
+      self.memory_cache.set(query,results)
+
+    4. send result back to client
+    return results
+
+
+class Cache:
+  def __init__(self, max_size):
+    self.linked_list = LinkedList()
+    self.SIZE_MAX = max_size
+    self.size = 0
+    self.lookup = {}
+
+  def get(self,query):
+
+    #1. if query doesn't exists in self.lookup, return None
+    if query not in self.lookup:
+      return None
+
+    #2. if query exists is self.lookup, the node will be placed to front and its results will be returned
+    node = self.lookup[query]
+    self.linked_list.set_to_front(node)
+
+    return node.results
+
+  def set(self, query, results):
+
+    # 1. if query exists in self.lookup, update node.results
+    if query in self.lookup:
+      self.lookup[query].results = results
+      return
+
+    # 2. if query doesn't exist in self.lookup,
+
+    # 2.1 if self.size < MAX, increment size and add new node to the front of the link_list and add to lookup
+    if self.size < self.SIZE_MAX:
+      self.size += 1
+
+    # 2.2 if self.size == MAX, remove last node from linked list and lookup, and add new node to the linked list as well as lookup
+    else:
+      tail_node = self.linked_list.tail
+      self.linked_list.remove_one_from_tail()
+      self.lookup.pop(tail_node.query)
+
+    node = Node(query,results)
+    self.linked_list.set_to_front(node)
+    self.lookup[query] = node
+
+class Node:
+  def __init__(self, query, results):
+    self.query = query
+    self.results = results
+    self.next = None
+    self.prev = None
+
+class LinkedList:
+  def __init__(self, node = None):
+    self.head = node
+    self.tail = node
+
+  def set_to_front(self, node):
+    ...
+
+  def remove_one_from_tail(self):
+    ...
 
 # ==============================================
 part 4: Scaling the Design
+  - see key_value_cache_part3_and_4_1.png and key_value_cache_part3_and_4_2.png

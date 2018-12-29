@@ -14,6 +14,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 28th, 2018
+1. Worked on corrections for part 1 and 2 of ['Key-Value Cache for Search Engine'](https://youtu.be/XbHvxsfVyW0) problem in system design
+for Pramp
+2. Worked on part 3 and 4 of ['Key-Value Cache for Search Engine'](https://youtu.be/hn3XTneIyHQ) problem in system design for Pramp second time
+
 ### December 27th, 2018
 1. Worked on ['Pairs with Specific Difference'](https://youtu.be/GSJjmeMBQ3A) problem in algorithm for Pramp third time
 
