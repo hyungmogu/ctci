@@ -1,0 +1,72 @@
+# Pastebin
+#
+# Design Pastebin, a website where you can store and share text online for a set period of time.
+#
+# Note: Bit.ly is a similar service, with the distinction that Pastebin requires storing the paste contents instead of the original unshortened URL.
+#
+------------------------
+goal: design a pastebin, a website that stores text where we can share with other people
+
+"adsfasdfasdfasdfsf\n\nasdfasdfasdfasdf" --> http://pastebin.com/a2123bcasd
+
+  1. expires in a certain period of time
+  2. very similar to tinyURL
+
+
+POST
+
+http://pastebin.com/api/v1/save --> http://pastebin.com/a2123bcasd
+{
+  message: "adsfasdfasdfasdfsf\n\nasdfasdfasdfasdf"
+}
+
+GET
+
+ http://pastebin.com/a2123bcasd -> "adsfasdfasdfasdfsf\n\nasdfasdfasdfasdf"
+
+# =======================================================
+part 1:
+
+  use cases:
+
+  1. user saves data to server
+  2. user reads data from server
+  3. system has to be available at all times
+
+  constraints
+  1. 10 millions users / month
+  2. 10 billion read requests / month
+  3. 100 (read) : 1 (write)
+  4. 1 KB / write message
+  5. distribution of traffic is uneven
+
+  back-of-envelope
+  1. 40000 requests / second
+  2. 0.1 billion write requests / month --> 100 million write requests /month * 1000 byte == 100 billion bytes /month --> 0.1 TB /month
+
+# =======================================================
+Step 2
+
+  - https://sketchboard.me/LBnTy5IyoEdf#/
+  - - see "basic design" in pastebin.png
+
+
+# =======================================================
+Step 3
+  1 ~ 50 users
+  - relational database (Mysql)
+  - reverse proxy
+
+  table message
+
+  id | message | expiration | link
+
+  http://pastebin.com/a2123bcasd
+
+  a-z = 26     10 characters
+  A-Z = 26
+  0-9 = 10
+
+# =======================================================
+Step 4
+  - see "scaled design" in pastebin.png

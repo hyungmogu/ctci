@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### December 30th, 2018
+1. Did ['second'](https://youtu.be/_tiK9KsuVUY) Pramp mock interview in system design (pastebin) (Current: Problem Solving - 2.5, Communication - 3.0)
+
 ### December 29th, 2018
 1. Worked on ['Array Quadruplet'](https://youtu.be/YgRSZB9D2cE) problem for Pramp third time
 
