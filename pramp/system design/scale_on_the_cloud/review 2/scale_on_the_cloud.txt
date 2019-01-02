@@ -1,0 +1,113 @@
+goal: design a system like microsoft azure, amazon aws, or google cloud. The system generally receives and processes user informating, including store user data, and returns results.
+
+cloud computing system
+  - is a hosting system that allows automatic scaling of resources.
+  - the users / customer can focus on software part of things, and the company (google, amazon, microsoft) focuses on hardware part of things
+  - cost is associated to how much resource is used at given point time
+
+-------------------------
+
+GET
+http://www.example.com/api/v1/user/12345 -->
+{
+  "id": 12345
+  "name_first": "Hyungmo",
+  "name_last": "Gu",
+  "address_street": "1234 great street SW",
+  "address_city": "Calgary",
+  "address_region": "Alberta"
+}
+
+
+POST
+http://www.example.com/api/v1/user/save --> 12345
+{
+  "name_first": "Hyungmo",
+  "name_last": "Gu",
+  "address_street": "1234 great street SW",
+  "address_city": "Calgary",
+  "address_region": "Alberta"
+}
+
+
+--------------------------
+part1 : user cases (features) and constraints
+
+  user cases
+
+  - user would be able to read data
+  - user would be able to write data
+  - the cloud system automatically scales to cover clients (people who's using web server that's inside cloud computing systems) ranging from 1 to 100 billion
+  - service / computing system has to stay up at all times
+
+  constraint
+
+  - traffic is not evenly distributed (there is a particular point in time where the amount of resource used is higher than others)
+  - 10 million users / month
+  - 100 billion read requests / month
+  - 100 (read) : 1 (write)
+  - 1 kb of data per write
+
+  back-of-envelop-calculation
+  - 40,000 requests / second (read)
+  - 400 requests / second (write)
+  - 1 kb * 1billion write / month --> 1 TB / month -> 60 TB of data
+
+---------------------------------
+part 2: basic design
+  - see scale_on_the_cloud_part2.png
+
+
+---------------------------------
+part 3: designing core componet
+
+  web-server
+  - IP addresss (sever)
+    - static IP ==> prevent server IP from changing on server reboot
+
+  - usage of reverse proxy
+    - 1. better security (hides info about server)
+    - 2. serves static contents
+
+  - vertical scaling
+    - improves client-handling capacity by upgrading RAM and CPU
+
+  database
+
+  user table (user DB)
+  id | name_first | name_last | address_street | address_city | address_region
+
+  - SQL
+
+-----------------------------------
+part 4: scaling the design
+  - see scale_on_the_cloud_part4_1.png
+  - see scale_on_the_cloud_part4_2.png
+
+  - use load balancer
+    - to scale horizontally (i.e. adding more servers)
+  - use CDN for static contents
+    - i.e. bootstrap, CSS, imgages, videos, Anulgar.js
+
+  Application layer (API layer)
+  - divide web server from API
+    - so web server handles the generation of dynamic content (pull in read information of user to populate content on html page)
+    - so that web server, read api and write api can scale at it's own need
+
+  - use auto-scale with metrics
+    - increase/decrease # of servers when needed
+
+  - add memory cache to even out the load put on to servery (not covered)
+    - use cache clustering (multiple memory cache acting as one like sharded database) with cache aside (cache miss --> fetch information from DB / cache hit --> serve contents from cache) as well as LRU (to conserve resource in cache by keeping the most relevant)
+
+  persistent layer
+  - use master-slave replication
+    - master does read / write
+    - slave does read only
+    - slaves are the replicates of master
+    - slows down when there is many write requests, but here is okay (5 write requests / second)
+  - use sharding
+    - divide data in DB into subset of data
+      i.e one user database covers last name from A - B and so on
+    - the more the read requests, shard further (from Aa - Ac, Ac - Az) and so on with SSD
+      - not a problem because each SSD (200 GB) costs ~ $100 dollar, and is not expensive

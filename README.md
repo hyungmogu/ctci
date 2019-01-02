@@ -14,8 +14,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 2nd, 2019
+1. Worked on ['Scale on the Cloud'](https://youtu.be/zR3axW4rhes) problem in system design for Pramp second time
+
 ### January 1st, 2019
-1. Worked on ['Pastebin'](https://youtu.be/Hk7tjvph21o) problem for Pramp
+1. Worked on ['Pastebin'](https://youtu.be/Hk7tjvph21o) problem in system design for Pramp
 
 ### December 30th, 2018
 1. Did ['second'](https://youtu.be/_tiK9KsuVUY) Pramp mock interview in system design (pastebin) (Current: Problem Solving - 2.5, Communication - 3.0)
