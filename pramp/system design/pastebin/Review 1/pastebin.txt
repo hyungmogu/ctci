@@ -1,0 +1,105 @@
+This editor is synced in real time with your peer.
+
+Use it to share thoughts and resources, such as:
+- Features scope
+- API design
+- Pseudo code for specific components
+- Data model/schema
+- Back-of-the-envelope calculations
+- Reference links
+- Link to whiteboard or diagram such as https://sketchboard.me/new
+
+goal: design the system for pastebin. Pastebin is a similar service to tinyURL / bit.ly that converts a block of text to url that can be shared with millions of people.
+
+"asdfasdfasdfasdf\n\nasdfasdfasdafsdfsd" --> http://pastebin.com/a9A12B16D9
+
+http://pastebin.com/a9A12B16D9 --> "asdfasdfasdfasdf\n\nasdfasdfasdafsdfsd"
+
+
+-------
+
+GET
+
+http://pastebin.com/a9A12B16D9 ->
+
+{
+  "detail": "asdfasdfasdfasdf\n\nasdfasdfasdafsdfsd",
+  "created_time": "12-12-2018",
+  "expiration_time": 60 * 24 * 60 * 60
+
+}
+
+POST
+
+http://pastebin.com/api/v1/save
+{
+  "detail": "asdfasdfasdfasdf\n\nasdfasdfasdafsdfsd",
+}
+-- > http://pastebin.com/a9A12B16D9
+
+
+--------
+Part1: user cases and constriants
+
+  user cases
+  - user saves a block of text to pastebin.com
+  - user reads a block of text to pastebin.com
+  - server has to be alive at all times
+
+
+  constraint
+  - 10 million users / month
+  - 100 billion read requests / month
+  - 100 (read) : 1 (write)
+  - 1 kb per block of text (detail)
+  - traffic is not evenly distributed
+
+
+  back-of-envelop-calculation
+  - 400,000 read requests / second
+  - 4,000 write requests / second
+  - 1 kb * 1 billion write requests / month --> 1 trillion bytes / month --> 1 TB of data being consumed per month
+
+----------
+part 2: designing basic system
+
+
+GET
+
+1. retreive data of id (http://pastebin.com/"A12B2C4D24" <-- this guy)
+
+2. if expiration time within range, return data
+
+3. if expiration time not within range, expire item and return error
+
+
+POST
+
+1. generate a unique id in combination of letters (lowercase, uppercase and numbers)
+
+2. Save data to database with id
+
+3. generate and return URL
+
+(26 * 26 * 10) ** 7 == trillions of combinations => >10 years to exhaust + expiration => enough
+
+
+id | message | created | expiration
+
+
+1. SQL is sufficient to run pastebin
+
+----------
+Part 3
+  - Omitted
+
+----------
+
+Part 4
+  - Scaling Design
+    1. Application Layer (API)
+        - Load Balancer
+    2. Persistance Layer (Database)
+      - Using Master / Slave Replication
+
+

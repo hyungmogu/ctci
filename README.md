@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 1st, 2019
+1. Worked on ['Pastebin'](https://youtu.be/Hk7tjvph21o) problem for Pramp
+
 ### December 30th, 2018
 1. Did ['second'](https://youtu.be/_tiK9KsuVUY) Pramp mock interview in system design (pastebin) (Current: Problem Solving - 2.5, Communication - 3.0)
 
