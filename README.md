@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 3rd, 2019
+1. Did ['third'](https://youtu.be/hGhv7b7YEig) Pramp mock interview in system design for Pramp
+
 ### January 2nd, 2019
 1. Worked on ['Scale on the Cloud'](https://youtu.be/zR3axW4rhes) problem in system design for Pramp second time
 

@@ -1,0 +1,29 @@
+Twitter
+Twitter is an online news and social networking service, on which users post and interact with limited-size messages, known as “tweets”.
+
+Design the Twitter timeline and search.
+
+# =================================
+
+https://www.dropbox.com/s/fu5zwelw2e0hyfi/twitter.zip?dl=0
+
+This is a express js source code for twitter
+
+# 1. twitter timeline --> a list of posts that an individual has written? / group of friends' tweets? / if not, how does it work? for who is for for?
+No in that group of People create profile and they have followers
+Not they are friends
+
+if that's the case, is timeline showing tweets in order of which each is created from groups that I follow? just followers. 0 following. --> my own posts
+
+search --> am i searching my own message --> this is at global level
+i.e. "hello world" ->
+https://camo.githubusercontent.com/14f76dab28dfbfa12ea6b02c6bd0ec726fc17306/687474703a2f2f692e696d6775722e636f6d2f6a7255424146372e706e67
+see it
+
+PROCESS TERMINED. OUT OF TIME.
+
+--------
+
+FEED BACK STAGE. CONTENT OMITTED
+
+--------
