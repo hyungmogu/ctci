@@ -1,0 +1,72 @@
+This editor is synced in real time with your peer.
+
+Use it to share thoughts and resources, such as:
+- Features scope
+- API design
+- Pseudo code for specific components
+- Data model/schema
+- Back-of-the-envelope calculations
+- Reference links
+- Link to whiteboard or diagram such as https://sketchboard.me/new
+
+Good luck!
+
+Goal: design the twitter timeline and search
+
+# ===========================================
+part 1: user cases and constraints
+
+user constraints
+  - user views user timeline (a list of tweets posted by a user)
+  - user views home timeline (a list of tweets posted by all users that Moe is following)
+  - user searches for tweets containing keywords (a list of tweets at global level)
+  - server has to be available at all times
+
+constraints
+  - traffic is not evenly distributed
+  - posting a tweet should be relatively fast
+  - 100 million active users
+  - 500 million tweets per day or 15 billion tweets per month
+    - each tweet averages a fanout (distribution of 10 deliveries)
+    - 150 billion tweets delivered on fanout per month
+  - 250 billion requests / month
+  - 10 billion searches / month
+
+
+timeline
+  - viewing of timeline should be fast
+  - twitter is more read heavy than write heavy
+
+search
+  - searching should be fast
+  - search is read heavy
+
+
+back-of-envelop-calculation
+  general
+  - size of each tweet
+     - tweet_id --> 8 bytes
+     - user_id --> 32 bytes
+     - text --> 140 bytes
+     - created_at --> 64 bytes
+     - image --> 10 kb
+     ---------------------
+     total ~10kb /tweet
+
+  - 15 billion tweets / month * 10 Kb --> 150,000 billion bytes of data --> 150 TB data / month --> 1800 --> 5400 TB --> 5.4 PB
+
+  - 250 billion requests / month --> 100,000 requests per second
+  - 15 billion --> 6000 write requests / second
+  - 10 billion searches / month -->  4,000 search requests / second
+
+# ==============================================
+Part 2: basic design
+    - see
+
+# ===============================================
+Part 4: scaling design
+  1 - 1 million
+
+  1 million - 250 billion
+
+
