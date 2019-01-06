@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 6th, 2019
+1. Worked on ['Web Crawler'](https://youtu.be/8h7qdpmSltA) problem in system design for Pramp
+
 ### January 5th, 2019
 1. Worked on ['twitter'](https://youtu.be/GGI-hcbsNqY) problem in system design for Pramp
 2. Did ['fourth'](https://youtu.be/x7v2bwS3KsM) Pramp mock interview in system design (Web Crawler) (Current: Problem Solving - 2.75, Communication - 3.5)
