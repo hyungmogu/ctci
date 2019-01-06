@@ -16,10 +16,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### January 5th, 2019
 1. Worked on ['twitter'](https://youtu.be/GGI-hcbsNqY) problem in system design for Pramp
-2. Did ['fourth'](https://youtu.be/x7v2bwS3KsM) Pramp mock interview in system design for Pramp (Web Crawler) (Current: Problem Solving - 2.75, Communication - 3.5)
+2. Did ['fourth'](https://youtu.be/x7v2bwS3KsM) Pramp mock interview in system design (Web Crawler) (Current: Problem Solving - 2.75, Communication - 3.5)
 
 ### January 3rd, 2019
-1. Did ['third'](https://youtu.be/hGhv7b7YEig) Pramp mock interview in system design for Pramp (twitter) (Current: Problem Solving - 2.333, Communication - 3.333)
+1. Did ['third'](https://youtu.be/hGhv7b7YEig) Pramp mock interview in system design (twitter) (Current: Problem Solving - 2.333, Communication - 3.333)
 
 ### January 2nd, 2019
 1. Worked on ['Scale on the Cloud'](https://youtu.be/zR3axW4rhes) problem in system design for Pramp second time

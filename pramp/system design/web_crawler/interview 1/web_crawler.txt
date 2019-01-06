@@ -1,0 +1,25 @@
+This editor is synced in real time with your peer.
+
+Use it to share thoughts and resources, such as:
+- Features scope
+    - Start with a whitelist of domains - (Should be dynamically updated)
+    - Honor a blacklist - (Should be dynamically updated)
+    - Honor robot.txt file on the domain you are calling
+- API design
+- Pseudo code for specific components
+- Data model/schema
+- Back-of-the-envelope calculations
+- Reference links
+- Link to whiteboard or diagram such as https://sketchboard.me/new
+
+Good luck!
+
+
+- Features scope
+    - Start with a whitelist of domains - (Should be dynamically updated)
+    - Honor a blacklist - (Should be dynamically updated)
+    - Honor robot.txt file on the domain you are calling
+
+
+    https://www.ebates.com/
+
