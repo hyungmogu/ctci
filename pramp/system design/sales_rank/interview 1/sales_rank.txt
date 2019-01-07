@@ -1,0 +1,27 @@
+Goal: design sales rank system by category
+
+Sports
+  - hockey
+  - soccer
+  - basketball
+
+  use cases:
+    1. users making purchases to products
+    2. users requesting cateogry data by popularity
+    3. server should be availabe most of the time
+
+  consstraints
+    1. 10 million products
+
+    2. 1000 categories
+    3. billions of requests (purchases, searches)
+    4. 1 billion transactions per month
+    5. 100 billion read requests per month
+    6. 100:1 read to write ratio
+    7. 2 kb / product to database
+
+  back-of-envelop-caluclation
+  1. 100 billion read requests --> 40,000 read requests / second
+  2. 4000 write request / second
+  3. 2 Kb * 1 billion --> 2000 billion Byetes --> 2 TB / month --> 24 TB year --> 72 TB 3 years
+

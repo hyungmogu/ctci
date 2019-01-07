@@ -1,0 +1,88 @@
+This editor is synced in real time with your peer.
+
+Use it to share thoughts and resources, such as:
+- Features scope
+- API design
+- Pseudo code for specific components
+- Data model/schema
+- Back-of-the-envelope calculations
+- Reference links
+- Link to whiteboard or diagram such as https://sketchboard.me/new
+
+Good luck!
+
+Goal: design sales rank system by category
+
+
+# =============================================
+Part 1: User Cases
+
+  user cases
+    1. user views sales rank feature
+    2. user purchases product
+    3. server has to stay up at all times
+
+  constraints
+    1. 10 million products
+
+    2. 1000 categories
+    3. billions of requests (purchases, searches)
+    4. 1 billion transactions per month
+    5. 100 billion read requests per month
+    6. 100:1 read to write ratio
+    7. 2 kb / product to database
+
+
+  back-of-envelop-calculation
+    1.  2 kb * 1 billion --> 2000 billion bytes / month --> 2 TB / month --> 24 TB / year --> 72 TB
+    2. 40,000 read requests / second
+    3. 4000 write requests / second
+
+
+
+# =============================================
+Part 2: Basic Design
+  - database is to be powered by SQL
+
+
+  | id | time | category_id | product_id | count
+
+
+
+# =============================================
+Part 3: Designing Core Components
+
+(category_id, number_of_products) product_id
+
+
+class SalesRanker(mrJob):
+  def steps(self):
+    return [
+      self.mr(mapper = self.mapper, reducer = self.reduce),
+      self.mr(mapper = self.mapper_sort, self.reduce_identity)
+    ]
+
+  def mapper(self, _ , line):
+    id, time, category_id, product_id, count = line.parse("\t")
+
+    if is_within_a_week(time):
+      yield (category_id, product_id), value
+
+  def reducer(self, key, value):
+    yield key, sum(value)
+
+  def map_reducer(self, key, value):
+    category_id, product_id = key
+    yield (category_id, value), product_id
+
+  def reduce_identity(self, key, value):
+
+    yield key, value
+
+(category1, count), product1
+(category1, count), product2
+....
+
+# =============================================
+Part 4: Scaling Design
+
