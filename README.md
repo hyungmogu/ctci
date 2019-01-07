@@ -16,6 +16,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### January 6th, 2019
 1. Worked on ['Web Crawler'](https://youtu.be/8h7qdpmSltA) problem in system design for Pramp
+2. Did ['fifth'](https://youtu.be/ORKAWmMs6TA) Pramp mock interview in system design (Amazon Sales Rank) (Problem Solving - 2.8, Communication - 3.4)
+3. Worked on ['Amazon Sales Rank'](https://youtu.be/iJGJ9OtlTY0) problem in system design for Pramp
 
 ### January 5th, 2019
 1. Worked on ['twitter'](https://youtu.be/GGI-hcbsNqY) problem in system design for Pramp
