@@ -14,6 +14,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 8th, 2019
+1. Walked through 'Python Basics' Video in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Introducing Lists' Video in Team Treehouse for Python Web Tech Degree
+
+### January 7th, 2019
+1. Reviewed how to close the gap between the current situation and the final goal
+
 ### January 6th, 2019
 1. Worked on ['Web Crawler'](https://youtu.be/8h7qdpmSltA) problem in system design for Pramp
 2. Did ['fifth'](https://youtu.be/ORKAWmMs6TA) Pramp mock interview in system design (Amazon Sales Rank) (Problem Solving - 2.8, Communication - 3.4)
