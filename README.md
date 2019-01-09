@@ -17,6 +17,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### January 8th, 2019
 1. Walked through 'Python Basics' Video in Team Treehouse for Python Web Tech Degree
 2. Walked through 'Introducing Lists' Video in Team Treehouse for Python Web Tech Degree
+3. Worked on First project for Team Treehouse's Python Web Tech Degree
+4. Did ['twenty eighth'](https://youtu.be/6K-ep4SaNJg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 
 ### January 7th, 2019
 1. Reviewed how to close the gap between the current situation and the final goal
