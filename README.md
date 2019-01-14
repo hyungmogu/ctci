@@ -14,12 +14,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 13th, 2019:
+1. Worked on Second project for Team Treehouse's Python Web Tech Degree
+
 ### January 12th, 2019:
-1. Walked through 'Python Collections' video in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Write Better Python' video in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' videos in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Write Better Python' videos in Team Treehouse for Python Web Tech Degree
 
 ### January 9th, 2019:
-1. Walked through 'Python Collections' video in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' videos in Team Treehouse for Python Web Tech Degree
 
 ### January 8th, 2019
 1. Walked through 'Python Basics' video in Team Treehouse for Python Web Tech Degree
