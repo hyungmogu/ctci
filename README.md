@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 16th, 2019:
+1. Walked through 'Object-Oriented Python' videos in Team Treehouse for Python Web Tech Degree
+
 ### January 13th, 2019:
 1. Worked on Second project for Team Treehouse's Python Web Tech Degree
 
