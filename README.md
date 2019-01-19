@@ -14,23 +14,27 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 18th, 2019
+1. Walked through 'Regular Expressions' in Team Treehouse for Python Web Tech Degree
+2. Walked through first topic of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
+
 ### January 16th, 2019:
-1. Walked through 'Object-Oriented Python' videos in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree
 
 ### January 13th, 2019:
 1. Worked on Second project for Team Treehouse's Python Web Tech Degree
 
 ### January 12th, 2019:
-1. Walked through 'Python Collections' videos in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Write Better Python' videos in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Write Better Python' in Team Treehouse for Python Web Tech Degree
 
 ### January 9th, 2019:
-1. Walked through 'Python Collections' videos in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
 
 ### January 8th, 2019
-1. Walked through 'Python Basics' video in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Introducing Lists' video in Team Treehouse for Python Web Tech Degree
-3. Worked on First project for Team Treehouse's Python Web Tech Degree
+1. Walked through 'Python Basics' in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Introducing Lists' in Team Treehouse for Python Web Tech Degree
+3. Worked on the first of twelve project for Team Treehouse's Python Web Tech Degree
 4. Did ['twenty eighth'](https://youtu.be/6K-ep4SaNJg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 
 ### January 7th, 2019
