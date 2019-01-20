@@ -14,6 +14,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 19th, 2019
+1. Walked through second and third topics of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree second time
+
 ### January 18th, 2019
 1. Walked through 'Regular Expressions' in Team Treehouse for Python Web Tech Degree
 2. Walked through first topic of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
