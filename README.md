@@ -14,6 +14,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 20th, 2019
+1. Worked on second project for Team Treehouse's Python Web Tech Degree
+
 ### January 19th, 2019
 1. Walked through second and third topics of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
 2. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree second time
@@ -26,7 +29,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree
 
 ### January 13th, 2019:
-1. Worked on Second project for Team Treehouse's Python Web Tech Degree
+1. Worked on second project for Team Treehouse's Python Web Tech Degree
 
 ### January 12th, 2019:
 1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
