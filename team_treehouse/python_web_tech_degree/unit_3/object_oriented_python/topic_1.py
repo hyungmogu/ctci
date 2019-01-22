@@ -180,3 +180,16 @@ class RaceCar:
 # __init__ method (it doesn't have to be a keyword argument, though).
 # If you already did it, just hit that "run" button and you're good
 # to go!
+
+class RaceCar:
+    def __init__(self, color, fuel_remaining, **kwargs):
+        self.color = color
+        self.laps = 0
+        self.fuel_remaining = fuel_remaining
+
+        for attribute, value in kwargs.items():
+            setattr(self,attribute, value)
+
+    def run_lap(self, length):
+        self.laps += 1
+        self.fuel_remaining = self.fuel_remaining - (length * 0.125)

@@ -14,8 +14,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### January 21st, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
+
 ### January 20th, 2019
-1. Worked on second project for Team Treehouse's Python Web Tech Degree
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 19th, 2019
 1. Walked through second and third topics of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
@@ -29,7 +32,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree
 
 ### January 13th, 2019:
-1. Worked on second project for Team Treehouse's Python Web Tech Degree
+1. Worked on second of twelve projects ['Build a Soccer League'](https://github.com/hyungmogu/THPWD02-Build-a-Soccer-League) for Team Treehouse's Python Web Tech Degree
 
 ### January 12th, 2019:
 1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
@@ -41,7 +44,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### January 8th, 2019
 1. Walked through 'Python Basics' in Team Treehouse for Python Web Tech Degree
 2. Walked through 'Introducing Lists' in Team Treehouse for Python Web Tech Degree
-3. Worked on the first of twelve project for Team Treehouse's Python Web Tech Degree
+3. Worked on the first of twelve projects ['Number Guessing Game'](https://github.com/hyungmogu/THPWD01-Number-Guessing-Game) for Team Treehouse's Python Web Tech Degree
 4. Did ['twenty eighth'](https://youtu.be/6K-ep4SaNJg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 
 ### January 7th, 2019
