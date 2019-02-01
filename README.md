@@ -3,7 +3,7 @@
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
 ## Goal
-- Reach the following average rating in system design by January 31st, 2019
+- Reach the following average rating in system design by January 31st, 2019 (on hold)
     - Problem Solving: 3.0/4
     - Communication: 3.5/4
 
@@ -13,6 +13,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Communication: 3.5/4
 
 ## Work Summary
+
+### January 31st, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 21st, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
@@ -46,9 +49,6 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 2. Walked through 'Introducing Lists' in Team Treehouse for Python Web Tech Degree
 3. Worked on the first of twelve projects ['Number Guessing Game'](https://github.com/hyungmogu/THPWD01-Number-Guessing-Game) for Team Treehouse's Python Web Tech Degree
 4. Did ['twenty eighth'](https://youtu.be/6K-ep4SaNJg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
-
-### January 7th, 2019
-1. Reviewed how to close the gap between the current situation and the final goal
 
 ### January 6th, 2019
 1. Worked on ['Web Crawler'](https://youtu.be/8h7qdpmSltA) problem in system design for Pramp
