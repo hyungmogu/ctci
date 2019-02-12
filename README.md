@@ -7,6 +7,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### February 11th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
+    - Added search by time amount page
+    - Fixed error where user cannot quit program by input after returning from search page.
 
 ### February 2nd, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
