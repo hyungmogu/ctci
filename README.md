@@ -2,17 +2,15 @@
 
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
-## Goal
-- Reach the following average rating in system design by January 31st, 2019 (on hold)
-    - Problem Solving: 3.0/4
-    - Communication: 3.5/4
-
-- Reach the following average rating in algorithm by December 31st, 2018 (on hold)
-    - Problem Solving: 3.0/4
-    - Coding: 3.5/4
-    - Communication: 3.5/4
-
 ## Work Summary
+
+### February 11th, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+Python Web Tech Degree
+
+### February 2nd, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+Python Web Tech Degree
 
 ### February 1st, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
