@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### Febrary 12th, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+Python Web Tech Degree
+    - Fixed issue where program won't run due to some lines of codes being outside of loop
+
 ### February 11th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
