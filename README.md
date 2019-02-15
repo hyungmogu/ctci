@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### February 13th, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+Python Web Tech Degree
+    - Added search by exact string page
+    - Fixed _sanitize_response method
+    - Added validators and error messages for the page
+
 ### Febrary 12th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
