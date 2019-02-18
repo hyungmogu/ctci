@@ -4,11 +4,21 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### February 17th, 2019
+1. Walked through first and second topics of 'Using Databases in Python' in Team Treehouse for Python Web Tech Degree
+
+### February 16th, 2019
+1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+Python Web Tech Degree
+    - Added the remaining parts for search by exact string page
+    - Added search by regex page
+    - Added README.md
+    - Submitted the project for review/feed back
+
 ### February 15th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Added functionality that resets error messages on leaving page
-    - fixed typos
 
 ### February 14th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
@@ -20,7 +30,7 @@ Python Web Tech Degree
 ### Febrary 12th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
-    - Fixed issue where program won't run due to some lines of codes being outside of loop
+    - Fixed runtime issue due to typos
 
 ### February 11th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
