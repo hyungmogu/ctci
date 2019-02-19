@@ -4,8 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### February 18th, 2019
+1. Finished 'Using Databases in Python' course in Team Treehouse for Python Web Tech Degree
+2. Finished first topic of 'Python Testing' course in Team Treehouse for Python Web Tech Degree
+3. Finished ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) project for Team Treehouse's Python Web Tech Degree
+
 ### February 17th, 2019
-1. Walked through first and second topics of 'Using Databases in Python' in Team Treehouse for Python Web Tech Degree
+1. Walked through first and second topics of 'Using Databases in Python' course in Team Treehouse for Python Web Tech Degree
 
 ### February 16th, 2019
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
@@ -56,29 +61,29 @@ Python Web Tech Degree
 1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 19th, 2019
-1. Walked through second and third topics of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree second time
+1. Walked through second and third topics of 'Dates and Times in Python' course in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Object-Oriented Python' course in Team Treehouse for Python Web Tech Degree second time
 
 ### January 18th, 2019
-1. Walked through 'Regular Expressions' in Team Treehouse for Python Web Tech Degree
-2. Walked through first topic of 'Dates and Times in Python' in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Regular Expressions' course in Team Treehouse for Python Web Tech Degree
+2. Walked through first topic of 'Dates and Times in Python' course in Team Treehouse for Python Web Tech Degree
 
 ### January 16th, 2019:
-1. Walked through 'Object-Oriented Python' in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Object-Oriented Python' course in Team Treehouse for Python Web Tech Degree
 
 ### January 13th, 2019:
 1. Worked on second of twelve projects ['Build a Soccer League'](https://github.com/hyungmogu/THPWD02-Build-a-Soccer-League) for Team Treehouse's Python Web Tech Degree
 
 ### January 12th, 2019:
-1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Write Better Python' in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' course in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Write Better Python' course in Team Treehouse for Python Web Tech Degree
 
 ### January 9th, 2019:
-1. Walked through 'Python Collections' in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Collections' course in Team Treehouse for Python Web Tech Degree
 
 ### January 8th, 2019
-1. Walked through 'Python Basics' in Team Treehouse for Python Web Tech Degree
-2. Walked through 'Introducing Lists' in Team Treehouse for Python Web Tech Degree
+1. Walked through 'Python Basics' course in Team Treehouse for Python Web Tech Degree
+2. Walked through 'Introducing Lists' course in Team Treehouse for Python Web Tech Degree
 3. Worked on the first of twelve projects ['Number Guessing Game'](https://github.com/hyungmogu/THPWD01-Number-Guessing-Game) for Team Treehouse's Python Web Tech Degree
 4. Did ['twenty eighth'](https://youtu.be/6K-ep4SaNJg) Pramp mock interview in algorithm (Not Rated - Repeated problem)
 
