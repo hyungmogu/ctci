@@ -4,9 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### February 22nd, 2019
+1. Finished 'Python Testing' course in Team Treehouse for Python Web Tech Degree
+
 ### February 18th, 2019
 1. Finished 'Using Databases in Python' course in Team Treehouse for Python Web Tech Degree
-2. Finished first topic of 'Python Testing' course in Team Treehouse for Python Web Tech Degree
+2. Walked through first topic of 'Python Testing' course in Team Treehouse for Python Web Tech Degree
 3. Finished ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) project for Team Treehouse's Python Web Tech Degree
 
 ### February 17th, 2019

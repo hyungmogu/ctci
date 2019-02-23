@@ -20,3 +20,9 @@ import unittest
 
 # Task 2 of 2
 # Create a TestCase named SimpleTestCase with a simple test that asserts that 10 - 10 is 0. Remember, unittest test names have to start with test_.
+
+import unittest
+
+class SimpleTestCase(unittest.TestCase):
+    def test_subtraction(self):
+        assert 10 - 10 == 0
