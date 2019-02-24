@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### February 23rd, 2019
+1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
+    - Added README.md
+    - Setup Peewee ORM and SQLITE database
+    - Migrated add_entry from CSV to sqlite
+
 ### February 22nd, 2019
 1. Finished 'Python Testing' course in Team Treehouse for Python Web Tech Degree
 
