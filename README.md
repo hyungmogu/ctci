@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### March 3rd, 2019
+1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
+    - Added tests for Search by Date Page
+    - Added tests for Search by Time Page
+    - Added tests for Search By Regex or Exact Words Page
+    - Added tests for Display Page
+    - Submitted the project for review
+
 ### March 2nd, 2019
 1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
     - Added tests for Main Page
