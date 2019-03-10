@@ -5,7 +5,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 
-### March 10th, 2019
+### March 9th, 2019
 1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
     - Added Employee Name page to satisfy qualification requirements
     - Removed Search By Regex page and replaced with Search Term page to satisfy qualification requirements
