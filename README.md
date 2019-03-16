@@ -4,7 +4,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### March 11th, 2019
+### March 15th, 2019
 1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
     - Refactored main.py by merging run_search_by_date_page(), run_search_by_time_spent_page() and run_search_by_search_term_page() into run_search_by_page()
     - Improved test coverage of main.py from 46% to 50%
