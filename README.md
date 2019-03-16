@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### March 11th, 2019
+1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
+    - Refactored main.py by merging run_search_by_date_page(), run_search_by_time_spent_page() and run_search_by_search_term_page() into run_search_by_page()
+    - Improved test coverage of main.py from 46% to 50%
+    - Improved overall test coverage from 48% to 52%
 
 ### March 10th, 2019
 1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
@@ -11,7 +16,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Added test cases to most methods in model_service.py
     - Improved test coverage of model_service.py from 46% to 92%
     - Improved test coverage of main.py from 44% to 46%
-    - Improved overall test coverage from 72% to 79%
+    - Improved overall test coverage from 43% to 48%
 
 ### March 9th, 2019
 1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
