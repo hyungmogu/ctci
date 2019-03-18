@@ -4,6 +4,16 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### March 17th, 2019
+1. Walked through first topic of 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
+2. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+    - Added missing field 'task name' to both database and program
+    - Refactored main.py and view_service.py
+    - Improved test coverage of main.py from 51% to 54%
+    - Improved test coverage of view_service.py from 49% to 50%
+    - Improved overall test coverage from 57% to 59%
+    - Submitted project for review
+
 ### March 16th, 2019
 1. Finished 'HTTP Basics' course in Team Treehouse for Python Web Tech Degree
 2. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
