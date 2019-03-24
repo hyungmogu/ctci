@@ -85,3 +85,70 @@ def hello(name="Treehouse"):
 # Challenge Task 1 of 5
 # Add a view named multiply. Give multiply a route named /multiply. Make multiply() return the product of 5 * 5. Remember, views have to return strings.
 
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/multiply')
+def multiply():
+    return '{}'.format(5 * 5)
+
+
+# Challenge Task 2 of 5
+# Add a new route to multiply() that has two arguments. Add the same two arguments to the multiply() view. They should have defaults of 5.
+
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/multiply')
+@app.route('/multiply/<int:num1>/<int:num2>')
+def multiply(num1=5, num2=5):
+    return '{}'.format(5 * 5)
+
+
+# Challenge Task 3 of 5
+# Mark both route arguments as ints.
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/multiply')
+@app.route('/multiply/<int:num1>/<int:num2>')
+def multiply(num1=5, num2=5):
+    return '{}'.format(5 * 5)
+
+
+# Challenge Task 4 of 5
+# Add routes to allow floats or a combination of floats and ints.
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/multiply')
+@app.route('/multiply/<int:num1>/<int:num2>')
+@app.route('/multiply/<int:num1>/<float:num2>')
+@app.route('/multiply/<float:num1>/<int:num2>')
+@app.route('/multiply/<float:num1>/<float:num2>')
+def multiply(num1=5, num2=5):
+    return '{}'.format(5 * 5)
+
+
+# Challenge Task 5 of 5
+# Change the response to multiply the two arguments and return their product.
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/multiply')
+@app.route('/multiply/<int:num1>/<int:num2>')
+@app.route('/multiply/<int:num1>/<float:num2>')
+@app.route('/multiply/<float:num1>/<int:num2>')
+@app.route('/multiply/<float:num1>/<float:num2>')
+def multiply(num1=5, num2=5):
+    return '{}'.format(num1 * num2)
+

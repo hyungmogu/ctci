@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### March 23rd, 2019
+1. Finished [''Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) project for Team Treehouse's Python Web Tech Degree
+2. Finished 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
+3. Walked through first topic of 'Build a Social Network with Flask' course in Team Treehouse for Python Web Tech Degree
+
 ### March 17th, 2019
 1. Walked through first topic of 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
 2. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
