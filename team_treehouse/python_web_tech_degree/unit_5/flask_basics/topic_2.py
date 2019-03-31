@@ -126,3 +126,5 @@ layout.html
 <h1>Smells Like Bakin'!</h1>
 <p>Welcome to my bakery web site!</p>
 {% endblock %}
+
+

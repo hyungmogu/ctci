@@ -169,3 +169,18 @@ def fishy():
 
 # Challenge Task 3 of 3
 # flash() a message in the fishy() view before the return. The message can have any content you want.
+
+from flask import Flask, redirect, url_for, render_template, flash
+
+app = Flask(__name__)
+app.secret_key = "#$*)(*ASD)(SDG)(DIF)(I)(ASID)(ASd"
+
+@app.route('/')
+def index():
+    return render_template("index.html")
+
+@app.route('/fishy')
+def fishy():
+    flash('Hello world')
+    return redirect(url_for('index'))
+
