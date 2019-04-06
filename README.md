@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### April 6th, 2019
+1. Walked through third topic of 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
+
 ### March 31st, 2019
 1. Walked through second topic of 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
 
