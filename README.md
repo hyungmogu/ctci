@@ -6,6 +6,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### April 20th, 2019
 1. Worked on fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
+    - Finished /entries/new route
+    - Converted templates from static to dynamic using Jinja2
+    - Fixed bugs and corrected information in README.md
+
+### April 20th, 2019
+1. Worked on fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
     - Setup files and environment
 
 ### April 14th, 2019
