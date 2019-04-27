@@ -4,14 +4,21 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### April 20th, 2019
-1. Worked on fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
+### April 27th, 2019
+1. Worked on the fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
+    - Added API and UI for detail page
+    - Added API and UI for edit page
+    - Added API for delete page
+    - Fixed bugs and added missing information
+
+### April 21st, 2019
+1. Worked on the fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
     - Finished /entries/new route
     - Converted templates from static to dynamic using Jinja2
     - Fixed bugs and corrected information in README.md
 
 ### April 20th, 2019
-1. Worked on fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
     - Setup files and environment
 
 ### April 14th, 2019
@@ -33,7 +40,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### March 17th, 2019
 1. Walked through first topic of 'Flask Basics' course in Team Treehouse for Python Web Tech Degree
-2. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+2. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Added missing field 'task name' to both database and program
     - Refactored main.py and view_service.py
     - Improved test coverage of main.py from 51% to 54%
@@ -43,7 +50,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### March 16th, 2019
 1. Finished 'HTTP Basics' course in Team Treehouse for Python Web Tech Degree
-2. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+2. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Restructured codes in view_service.py, main.py and model_service.py to meet PEP8 style guide
     - Refactored view_service.py
     - Refactored main.py
@@ -53,13 +60,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Submitted project for review
 
 ### March 15th, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Refactored main.py
     - Improved test coverage of main.py from 46% to 50%
     - Improved overall test coverage from 48% to 52%
 
 ### March 10th, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Refactored main.py
     - Added test cases to most methods in model_service.py
     - Improved test coverage of model_service.py from 46% to 92%
@@ -67,12 +74,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Improved overall test coverage from 43% to 48%
 
 ### March 9th, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Added Employee Name page to satisfy qualification requirements
     - Removed Search By Regex page and replaced with Search Term page to satisfy qualification requirements
 
 ### March 3rd, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Added tests for Search by Date Page
     - Added tests for Search by Time Page
     - Added tests for Search By Regex or Exact Words Page
@@ -80,23 +87,23 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Submitted project for review
 
 ### March 2nd, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Added tests for Main Page
     - Added tests for Add Page
     - Added tests for Search Page
 
 ### March 1st, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Setup file for unit testing
 
 ### February 24th, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Finished migrating all methods on all pages from CSV to sqlite
 2. Finished 'Pipenv: The Python Package Manager' course in Team Treehouse for Python Web Tech Degree
 3. Finished 'Setting Up a Local Python Environment' course in Team Treehouse for Python Web Tech Degree
 
 ### February 23rd, 2019
-1. Worked on fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
+1. Worked on the fourth of twelve projects ['Work Log with a Database'](https://github.com/hyungmogu/THPWD04-Work-Log-with-a-Database) for Team Treehouse's Python Web Tech Degree
     - Added README.md
     - Setup Peewee ORM and SQLITE database
     - Migrated add_entry from CSV to sqlite
@@ -113,7 +120,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Walked through first and second topics of 'Using Databases in Python' course in Team Treehouse for Python Web Tech Degree
 
 ### February 16th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Added the remaining parts for search by exact string page
     - Added search by regex page
@@ -121,44 +128,44 @@ Python Web Tech Degree
     - Submitted the project for review/feed back
 
 ### February 15th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Added functionality that resets error messages on leaving page
 
 ### February 14th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Added search by exact string page
     - Fixed _sanitize_response method
     - Added validators and error messages for the page
 
 ### Febrary 12th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Fixed runtime issue due to typos
 
 ### February 11th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
     - Added search by time amount page
     - Fixed error where user cannot quit program by input after returning from search page.
 
 ### February 2nd, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
 
 ### February 1st, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's
 Python Web Tech Degree
 
 ### January 31st, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 21st, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 20th, 2019
-1. Worked on third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
+1. Worked on the third of twelve projects ['Work Log'](https://github.com/hyungmogu/THPWD03-Work-Log) for Team Treehouse's Python Web Tech Degree
 
 ### January 19th, 2019
 1. Walked through second and third topics of 'Dates and Times in Python' course in Team Treehouse for Python Web Tech Degree
@@ -172,7 +179,7 @@ Python Web Tech Degree
 1. Walked through 'Object-Oriented Python' course in Team Treehouse for Python Web Tech Degree
 
 ### January 13th, 2019:
-1. Worked on second of twelve projects ['Build a Soccer League'](https://github.com/hyungmogu/THPWD02-Build-a-Soccer-League) for Team Treehouse's Python Web Tech Degree
+1. Worked on the second of twelve projects ['Build a Soccer League'](https://github.com/hyungmogu/THPWD02-Build-a-Soccer-League) for Team Treehouse's Python Web Tech Degree
 
 ### January 12th, 2019:
 1. Walked through 'Python Collections' course in Team Treehouse for Python Web Tech Degree
