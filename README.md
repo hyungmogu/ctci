@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### April 28th, 2019
+1. Worked on the fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
+    - Added API and UI for index page
+    - Fixed and implemented API for delete page
+    - Refined page styles
+    - Submitted project for review
+
 ### April 27th, 2019
 1. Worked on the fifth of twelve projects ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) for Team Treehouse's Python Web Tech Degree
     - Added API and UI for detail page
