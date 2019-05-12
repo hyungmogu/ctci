@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### May 12th, 2019
+1. Walked through fifth topic of 'Django Basics' course in Team Treehouse for Python Web Tech Degree
+
 ### May 11th, 2019
 1. Walked through fourth topic of 'Django Basics' course in Team Treehouse for Python Web Tech Degree
 
