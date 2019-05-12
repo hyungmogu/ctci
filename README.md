@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### May 11th, 2019
+1. Walked through fourth topic of 'Django Basics' course in Team Treehouse for Python Web Tech Degree
+
 ### May 4th, 2019
 1. Finished ['Build a Personal Learning Journal with Flask'](https://github.com/hyungmogu/THPWD05-Build-a-Personal-Learning-Journal-with-Flask) project for Team Treehouse's Python Web Tech Degree
 2. Walked through first three topics of 'Django Basics' course in Team Treehouse for Python Web Tech Degree
