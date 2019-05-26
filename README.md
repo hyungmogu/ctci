@@ -4,7 +4,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### May 25th, 2019
+### May 26th, 2019
 1. Walked through second topic of 'Customizing Django Templates' course in Team Treehouse for Python Web Tech Degree
 
 ### May 25th, 2019
