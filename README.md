@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 2nd, 2019
+1. Worked on the sixth of twelve projects ['Mineral Catalog'](https://github.com/hyungmogu/THPWD06-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Added README.md
+    - Setup Project
+    - Added static files
+    - Converted static files into django templates to improve maintainability
+
 ### June 1st, 2019
 1. Finished 'Customizing Django Templates' course in Team Treehouse for Python Web Tech Degree
 
