@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 8th, 2019
+1. Worked on the sixth of twelve projects ['Mineral Catalog'](https://github.com/hyungmogu/THPWD06-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Developed a mini-program that converts a raw .json file into a format compatible for `python loaddata <fixture_file_name>.json`
+    - Refined `home` and `detail` endpoints to fetch and load data from database
+    - Updated `README.md` with information reflecting the added changes (setting up information about pre-populating data, and creating an admin)
+
 ### June 2nd, 2019
 1. Worked on the sixth of twelve projects ['Mineral Catalog'](https://github.com/hyungmogu/THPWD06-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added README.md
