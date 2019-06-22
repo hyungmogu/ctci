@@ -4,6 +4,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 22nd, 2019
+1. Walked through second topic of 'Django Forms' course in Team Treehouse for Python Web Tech Degree
 
 ### June 16th, 2019
 1. Walked through first topic of 'Django Forms' course in Team Treehouse for Python Web Tech Degree
