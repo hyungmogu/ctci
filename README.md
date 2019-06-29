@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### June 29th, 2019
+1. Worked on the sixth of twelve projects ['Mineral Catalog'](https://github.com/hyungmogu/THPWD06-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Reposition show random minerals on detail page only as advised
+    - Resubmitted the project for a feedback
+
 ### June 23nd, 2019
 1. Walked through third topic of 'Django Forms' course in Team Treehouse for Python Web Tech Degree
 
