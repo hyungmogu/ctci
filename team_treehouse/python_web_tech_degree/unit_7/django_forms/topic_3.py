@@ -18,14 +18,14 @@ class DigitalProductForm(forms.ModelForm):
             'description',
             'url'
         ]
-        
+
 #============= PART 2 ===============
 
 #Challenge Task 1 of 2
 #We've made models and model forms, now we need a view to render the form.
 
 #Write a new view named product_form that instantiates the DigitalProductForm and provides it to the products/product_form.html template as the key "form".
- 
+
 
 # products/views.py
 from django.shortcuts import render
@@ -35,7 +35,7 @@ from . import forms
 
 def product_form(request):
     form = forms.DigitalProductForm()
-    
+
     return render(request, 'products/product_form.html', {'form': form})
 
 
@@ -57,7 +57,7 @@ from . import forms
 
 def product_form(request):
     form = forms.DigitalProductForm()
-    
+
     return render(request, 'products/product_form.html', {'form': form})
 
 
@@ -89,7 +89,7 @@ from . import forms
 def product_form(request):
     form_class = forms.DigitalProductForm
     form = form_class()
-    
+
     if request.method == 'POST':
         form = form_class(request.POST)
         if form.is_valid():
