@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 7th, 2019
+1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
+    - Setup Project
+
 ### July 6th, 2019
 1. Finished ['Mineral Catalog'](https://github.com/hyungmogu/THPWD06-Mineral-Catalog) project for Team Treehouse's Python Web Tech Degree
 2. Finished 'Customizing Django Templates' course in Team Treehouse for Python Web Tech Degree
