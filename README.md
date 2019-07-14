@@ -4,6 +4,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 13th, 2019
+1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
+    - Added profile page and its endpoint
+    - Added validators for profile page on save satisfying the following criteria
+        - Date of birth accepts three formats  YYYY-MM-DD, MM/DD/YYYY, or MM/DD/YY
+        - Email validation checks if the email addresses match and is a valid format
+        - Text field validation checks for characters longer than 10 characters and ensuring HTML escaping
+    - Added change password page and its endpoint
+
 ### July 7th, 2019
 1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
     - Setup Project
