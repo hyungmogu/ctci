@@ -4,6 +4,23 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 14th, 2019
+1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
+    - Improved the style of profile and change password page, and refactored its endpoint
+    - Added validators for change password satisfying the following criteria
+        - Must not be the same as the current password
+        - Minimum password length of 14 characters.
+        - Must use of both uppercase and lowercase letters
+        - Must include of one or more numerical digits
+        - Must include of special characters, such as @, #, $
+        - Cannot contain the username or parts of the user’s full name, such as his first name
+    - Submitted the project for a review
+
+2. Finished 'Django ORM' course in Team Treehouse for Python Web Tech Degree
+
+3. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Setup project
+
 ### July 13th, 2019
 1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
     - Added profile page and its endpoint
