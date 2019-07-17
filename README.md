@@ -7,14 +7,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### July 16th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added filter by text
-    - Fixed the issue where a button is split between two columns (see (issue #2)[https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/2])
+    - Fixed the issue where a button is split between two columns (see [issue #2](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/2))
     - Fixed erroneous setup instruction in README.md for the seventh project
     - Resubmitted the seventh project for a review
 
 ### July 15th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added filter by first letter
-    - Fixed the position of footer on homepage (see (issue #1)[https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/1])
+    - Fixed the position of footer on homepage (see [issue #1](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/1))
     - Fixed erroneous setup instruction in README.md for the eighth project
 
 ### July 14th, 2019
