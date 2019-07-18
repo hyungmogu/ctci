@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 17th, 2019
+1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Added filter by group
+    - Fixed the issue where a style class is not applied due to a faulty variable (see [issue #3](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/3))
+
+
 ### July 16th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added filter by text
