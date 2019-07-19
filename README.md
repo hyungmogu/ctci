@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 18th, 2019
+1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
+    - Strengthened password validation to ensure that the passwords containing username or parts of the user’s full name are rejected
+    - Added docstring to functions and methods as advised by reviewer
+    - Resubmitted the project for a review
+
 ### July 17th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added filter by group
@@ -14,6 +20,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Added filter by text
     - Fixed the issue where a button is split between two columns (see [issue #2](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog/issues/2))
+2. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
     - Fixed erroneous setup instruction in README.md for the seventh project
     - Resubmitted the seventh project for a review
 
