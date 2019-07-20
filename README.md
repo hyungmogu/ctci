@@ -4,7 +4,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
-### July 19th, 2019
+### July 20th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Simplified file name to make it consistent with others (home_page --> home)
     - Fixed errors in test cases and added test for filter by group
