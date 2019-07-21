@@ -8,6 +8,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on the seventh of twelve projects ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) for Team Treehouse's Python Web Tech Degree
     - Fixed issue where account cannot be created
     - Fixed issue where first name, last name and username in new password passes validation test
+    - Resubmitted the project for a review
 
 ### July 20th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
