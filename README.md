@@ -2,6 +2,9 @@
 
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
+## Notice
+- Moe Will be on a break until monday July 29th, 2019 to prepare for his best friend's wedding :D. I wish you the happiest of week my friends!
+
 ## Work Summary
 
 ### July 22nd, 2019
