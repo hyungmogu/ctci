@@ -2,10 +2,10 @@
 
 This repository shows a summary of what Moe is doing / learning when he is not working.
 
-## Notice
-- Moe will be on a break until Monday July 29th, 2019 to prepare for his best friend's wedding on July 28th, 2019 :D. Thank you so much for your sincere support, and may this week be the happiest for you!
-
 ## Work Summary
+
+### July 23rd, 2019
+1. Finished ['User Profile with Django'](https://github.com/hyungmogu/THPWD07-User-Profile-with-Django) project for Team Treehouse's Python Web Tech Degree
 
 ### July 22nd, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
