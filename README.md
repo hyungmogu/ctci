@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 25th, 2019
+1. Walked through first topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
+
 ### July 24th, 2019
 1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
     - Reduced database query time for filter by text from 10 ms to 3 ms by limiting returned values
