@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 26th, 2019
+1. Worked on the eighth of twelve projects ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) for Team Treehouse's Python Web Tech Degree
+    - Fixed issue where querying by special characters is giving empty results
+    - Fixed issue where not all characters are being displayed on legends by first letters
+    - Reduced the redundancy of code in tests.py by inheriting codes in setup() from its parent class
+    - Fix issue where selected letter is not bolded
+    - Resubmitted the project for review
+
 ### July 25th, 2019
 1. Walked through first topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
 
