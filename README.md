@@ -6,7 +6,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### July 29th, 2019
 1. Finished the second topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
-2. Finished ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) project for Team Treehouse's Python Web Tech Degree
+2. Finished the third topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
+3. Finished 'Django Admin' course in Team Treehouse for Python Web Tech Degree
+4. Finished ['Filtering and Searching the Mineral Catalog'](https://github.com/hyungmogu/THPWD08-Filtering-and-Searching-the-Mineral-Catalog) project for Team Treehouse's Python Web Tech Degree
 
 
 ### July 26th, 2019
