@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 30th, 2019
+1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
+    - Setup files and environment
+    - Added README.md
+    - Fixed issue where the installation of 'django-debug-toolbar' is throwing dependency error
+
 ### July 29th, 2019
 1. Finished the second topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
 2. Finished the third topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
