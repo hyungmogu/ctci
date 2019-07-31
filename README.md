@@ -8,7 +8,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Setup files and environment
     - Added README.md
-    - Fixed issue where the installation of 'django-debug-toolbar' is throwing dependency error
+    - Fixed issue where the installation of 'django-debug-toolbar' is throwing a dependency error
+    - Fixed issue where items are not loaded on home page
+    - Reduced the amount of code in home.html by applying template inheritance
+    - Added view test on home page
 
 ### July 29th, 2019
 1. Finished the second topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
