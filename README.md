@@ -4,6 +4,16 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### July 31st, 2019
+1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
+    - Reduced the chance of detail urls being overriden by the simpler ones
+    - Added a missing test case for home page
+    - Ensured 404 page is shown instead of traceback if item is not found on menu detail page
+    - Reduced the amount of code in menu_detail.html by applying template inheritance
+    - Added test cases for menu detail page
+    - Added test cases for Item model
+
+
 ### July 30th, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Setup files and environment
@@ -11,7 +21,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Fixed issue where the installation of 'django-debug-toolbar' is throwing a dependency error
     - Fixed issue where items are not loaded on home page
     - Reduced the amount of code in home.html by applying template inheritance
-    - Added view test on home page
+    - Added view test for home page
 
 ### July 29th, 2019
 1. Finished the second topic of 'Django Admin' course in Team Treehouse for Python Web Tech Degree
