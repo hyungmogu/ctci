@@ -9,9 +9,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Reduced the chance of detail urls being overriden by the simpler ones
     - Added a missing test case for home page
     - Ensured 404 page is shown instead of traceback if item is not found on menu detail page
-    - Reduced the amount of code in menu_detail.html by applying template inheritance
+    - Reduced the amount of code in menu_detail.html, menu_create.html, and item_detail.html by applying template inheritance
     - Added test cases for menu detail page
     - Added test cases for Item model
+    - Added test cases for Item Detail page
 
 
 ### July 30th, 2019
