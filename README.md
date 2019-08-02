@@ -6,7 +6,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 1st, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
-    - Customized error messages for 'dates' and 'menu items selection' to return more guiding information than 'this is required'
+    - Customized error messages for 'dates' and 'menu items selection' in '/menu/new' to return more information than 'this is required'
+    - Added test cases for 'MenuForm', a form from model
+    - Added test cases for the endpoint '/menu/new'
+    - Ensured the selected items on new menu page are saved in a database
+    - Changed the filename 'change_menu.html' to 'menu_edit.html' for naming consistency
 
 ### July 31st, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
