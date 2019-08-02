@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 2nd, 2019
+1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
+    - Added test cases for the endpoint '/menu/{id}/edit' on POST request
+    - Fixed logic in '/menu/{id}/edit' to tests outlined in tests.py
+    - Reinforced tests in '/menu/new/' to also check for correctness in value
+
 ### August 1st, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Customized error messages for 'dates' and 'menu items selection' in '/menu/new' to return more information than 'this is required'
