@@ -9,6 +9,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Added test cases for the endpoint '/menu/{id}/edit' on POST request
     - Fixed logic in '/menu/{id}/edit' to tests outlined in tests.py
     - Reinforced tests in '/menu/new/' to also check for correctness in value
+    - Added sign-in and sign-up page
+    - Added the missing endpoint '/menu/item'
+    - Added test cases for the endpoint '/menu/item'
 
 ### August 1st, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
