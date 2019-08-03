@@ -4,6 +4,19 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 3rd, 2019
+1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
+    - Added tests for user, menu and item models
+    - Added tests for 'login/' requests (POST, GET)
+    - Added tests for 'logout/' requests (GET)
+    - Added tests for 'sign_up/' requests (POST, GET)
+    - Added tests for '/menu/item/{id}/edit' requests (POST, GET)
+    - Added missing endpoint '/menu/item/{id}/edit'
+    - Augmented tests to satisfy new requirements created by @login_required
+    - Restricted the access of new menu page and edit pages usin @login_required decorator
+    - Improved the looks of the site using bootstrap 3
+    - Submitted the project for a feedback
+
 ### August 2nd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Added test cases for the endpoint '/menu/{id}/edit' on POST request
