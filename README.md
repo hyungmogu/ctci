@@ -17,6 +17,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Improved the looks of the site using bootstrap 3
     - Submitted the project for a feedback
 
+2. Finished 'Introduction to REST APIs' course in Team Treehouse for Python Web Tech Degree
+2. Finished 'Flask REST API' course in Team Treehouse for Python Web Tech Degree
+
 ### August 2nd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Added test cases for the endpoint '/menu/{id}/edit' on POST request
