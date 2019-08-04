@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 4th, 2019
+1. Worked on the tenth of twelve projects ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
+    - Setup files and environment
+    - Added README.md
+
 ### August 3rd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Added tests for user, menu and item models
@@ -18,7 +23,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
     - Submitted the project for a feedback
 
 2. Finished 'Introduction to REST APIs' course in Team Treehouse for Python Web Tech Degree
-2. Finished 'Flask REST API' course in Team Treehouse for Python Web Tech Degree
+3. Finished 'Flask REST API' course in Team Treehouse for Python Web Tech Degree
 
 ### August 2nd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
