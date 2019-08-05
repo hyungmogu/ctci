@@ -6,8 +6,17 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 4th, 2019
 1. Worked on the tenth of twelve projects ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
+    - Added logics for the endpoint '/api/v1/tasks' (POST, GET)
+    - Added tests for the endpoint '/api/v1/tasks' (POST, GET)
+    - Added logics for the endpoint '/api/v1/tasks/{id}' (DELETE, PUT, GET)
+    - Added tests for the endpoint '/api/v1/tasks/{id}' (DELETE, PUT, GET)
     - Setup files and environment
     - Added README.md
+
+1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
+    - Reduced the number of queries made on homepage from 116 to 2
+    - Removed unused imports in different files
+    - Resubmitted the project for review
 
 ### August 3rd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
@@ -28,7 +37,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 2nd, 2019
 1. Worked on the ninth of twelve projects ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) for Team Treehouse's Python Web Tech Degree
     - Added test cases for the endpoint '/menu/{id}/edit' on POST request
-    - Fixed logic in '/menu/{id}/edit' to tests outlined in tests.py
+    - Fixed logics in '/menu/{id}/edit' to tests outlined in tests.py
     - Reinforced tests in '/menu/new/' to also check for correctness in value
     - Added sign-in and sign-up page
     - Added the missing endpoint '/menu/item'
