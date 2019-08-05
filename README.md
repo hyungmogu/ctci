@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 5th, 2019
+1. Finished the first topic of 'Django Class-based views' course in Team Treehouse for Python Web Tech Degree
+
 ### August 4th, 2019
 1. Worked on the tenth of twelve projects ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
     - Added logics for the endpoint '/api/v1/tasks' (POST, GET)
