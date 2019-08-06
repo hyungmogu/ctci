@@ -5,7 +5,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### August 5th, 2019
-1. Finished the first topic of 'Django Class-based views' course in Team Treehouse for Python Web Tech Degree
+1. Finished 'Django Class-based views' course in Team Treehouse for Python Web Tech Degree
+2. Finished 'Django REST Framework' course in Team Treehouse for Python Web Tech Degree
+3. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
+    - Added the endpoint '/api/user/preferences'
 
 ### August 4th, 2019
 1. Worked on the tenth of twelve projects ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
