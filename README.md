@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 7th, 2019
+1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
+    - Changed model fields in Dog model to match sample data
+    - Added tests for Dog model
+    - Added tests for UserPerf model
+    - Added the endpoint '/api/dogs/{id}'
+
 ### August 6th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Added tests for the endpoint '/api/user/preferences' (GET)
