@@ -7,7 +7,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 6th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Added tests for the endpoint '/api/user/preferences' (GET)
-    - Augmented the endpoint '/api/user/preferences' to create and return empty data, when none exists in database
+    - Added tests for the endpoint '/api/user/preferences' (PUT)
+    - Fixed the endpoint '/api/user/preferences' to create and return empty data, when none exists
 
 ### August 5th, 2019
 1. Finished 'Django Class-based views' course in Team Treehouse for Python Web Tech Degree
