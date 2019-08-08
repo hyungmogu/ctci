@@ -7,9 +7,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 7th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Changed model fields in Dog model to match sample data
-    - Added tests for Dog model
-    - Added tests for UserPerf model
+    - Added UserDog model and its tests
+    - Added Dog model and its tests
+    - Added UserPerf model and its tests
     - Added the endpoint '/api/dogs/{id}'
+2. Finished ['Improve a Django Project'](https://github.com/hyungmogu/THPWD09-Improve-a-Django-Project) project for Team Treehouse's Python Web Tech Degree
+3. Submitted ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) project for a review
+
 
 ### August 6th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
