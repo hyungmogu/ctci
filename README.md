@@ -6,20 +6,19 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 10th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
-    - Refactored the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/', '/api/dog/{id}/undecided/next' by merging them into one class
-    - Refactored the endpoints '/api/dog/{id}/liked/', '/api/dog/{id}/disliked/', '/api/dog/{id}/undecided/' by merging them into one class
-    - Worked on refactoring the tests for the endpoints  '/api/dog/{id}/liked/', '/api/dog/{id}/disliked/', '/api/dog/{id}/undecided/'
+    - Refactored the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next' by merging them into one class
+    - Refactored the endpoints '/api/dog/{id}/liked/', '/api/dog/{id}/disliked/' and '/api/dog/{id}/undecided/' by merging them into one class
     - Improved word choices of some class variable names
 
 ### August 9th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
-    - Worked on the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/', '/api/dog/{id}/undecided/next'
-    - Worked on the tests for the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/', '/api/dog/{id}/undecided/next'
+    - Worked on the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next'
+    - Worked on the tests for the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next'
     - Fixed issue where pk = -1 in '/api/dogs/{pk}/(liked|disliked|undecided)/next' was not being recognized by its endpoint
 
 ### August 8th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
-    - Fixed the endpoint '/api/dog/{id}/liked/' to match requirements by team treehouse
+    - Fixed the endpoint '/api/dog/{id}/liked/' (PUT) to match requirements by team treehouse
     - Added the endpoint '/api/dog/{id}/liked/' (PUT)
     - Added the endpoint '/api/dog/{id}/disliked/' (PUT)
     - Added the endpoint '/api/dog/{id}/undecided/' (PUT)
