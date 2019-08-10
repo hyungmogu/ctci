@@ -8,6 +8,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Worked on the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/', '/api/dog/{id}/undecided/next'
     - Worked on the tests for the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/', '/api/dog/{id}/undecided/next'
+    - Fixed issue where pk = -1 in '/api/dogs/{pk}/next' was not being recognized in the url
 
 ### August 8th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
