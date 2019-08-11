@@ -4,11 +4,19 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
 ### August 10th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Refactored the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next' by merging them into one class
     - Refactored the endpoints '/api/dog/{id}/liked/', '/api/dog/{id}/disliked/' and '/api/dog/{id}/undecided/' by merging them into one class
     - Improved word choices of some class variable names
+    - Added filter by gender, size and age to the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next/'
+    - Improved tests for the endpoints '/api/dog/{id}/liked/next/', '/api/dog/{id}/disliked/next/' and '/api/dog/{id}/undecided/next/' to account for the newly added filtering functionality.
+2. Finished 'Django Authentication' course in Team Treehouse for Python Web Tech Degree
+3. Worked on ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
+    - Added missing db.sqlite file required for review
+    - Resubmitted the project for review
+
 
 ### August 9th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
