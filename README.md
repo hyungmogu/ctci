@@ -4,14 +4,19 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 12th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Updated '/', and '/projects/{id}/', '/projects/{id}/edit', '/projects/{id}/create/' and '/projects/{id}/delete/' with class based views
+    - Replaced static parts in '/projects/create/' with 2 model forms 'Position' and 'Project' under a single submit button
+
 ### August 11th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Added README.md
     - Added Project, Position and Skill models, and its tests
-    - Converted .html files into django templates, and reduced code repeatability by extendeding each file to layout.html
-    - Worked on the endpoints '/', and '/projects/{id}/', '/projects/{id}/edit', '/projects/{id}/create/', '/projects/{id}/delete/'
+    - Converted .html files into django templates, and reduced code repeatability by extending each file to layout.html
+    - Worked on the endpoints '/', and '/projects/{id}/', '/projects/{id}/edit', '/projects/{id}/create/' and '/projects/{id}/delete/'
 2. Finished ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
-3. Sumitted ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) project for a review
+3. Submitted ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) project for review
 
 ### August 10th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
