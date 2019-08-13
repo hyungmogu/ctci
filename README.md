@@ -7,7 +7,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 12th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Updated '/', and '/projects/{id}/', '/projects/{id}/edit', '/projects/{id}/create/' and '/projects/{id}/delete/' with class based views
-    - Replaced static parts in '/projects/create/' with 2 model forms 'Position' and 'Project' under a single submit button
+    - Replaced static parts in '/projects/create/' with 2 model forms 'Position' and 'Project'
+    - Added POST logics to the endpoint /projects/create/
+    - Submitted current LinkedIn profile to Udacity for a resume review
 
 ### August 11th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
