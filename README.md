@@ -4,9 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### August 14th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Added tests for '/accounts/signup/' (GET, POST)
+    - Refined '/accounts/login/' s.th user gets redirected to '/profile' on login
+
 ### August 13th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
-
     - Added tests for User model
     - Added tests to the endpoint /projects/create/ (POST, GET)
     - Added the following endpoints
@@ -43,7 +48,6 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 3. Worked on ['Todo API With Flask'](https://github.com/hyungmogu/THPWD10-Todo-API-With-Flask) for Team Treehouse's Python Web Tech Degree
     - Added missing db.sqlite file required for review
     - Resubmitted the project for review
-
 
 ### August 9th, 2019
 1. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
