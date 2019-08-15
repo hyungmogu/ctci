@@ -8,7 +8,16 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ### August 14th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Added tests for '/accounts/signup/' (GET, POST)
-    - Refined '/accounts/login/' s.th user gets redirected to '/profile' on login
+    - Refined the following endpoints
+        1. '/accounts/login/'
+            - User now gets redirected to '/profile' on login
+        2. '/', '/projects/{id}'
+            - Done to reflect changes made in '/projects/create'
+            - The program now fetches positions per project using 'prefetch_related'
+        3. '/projects/{id}/delete'
+            - Added missing .html required by Django's 'DeleteView'
+        4. '/projects/create'
+            - Fixed mismatching/wrongly placed html tags in view
 
 ### August 13th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
