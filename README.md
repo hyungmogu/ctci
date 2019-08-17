@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 17th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Added the following endpoints
+        1. '/profile/', 'profile/edit/'
+            - User can upload a photo and display it on his/her profile
+            - User can add list of skills and personal projects
+            - User can add/edit profile info, including name and short bio
+
 ### August 16th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Added the following endpoints
