@@ -11,6 +11,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
             - User can upload a photo and display it on his/her profile
             - User can add list of skills and personal projects
             - User can add/edit profile info, including name and short bio
+        2. '/applications'
+            - User can filter applicants of created projects by status, projects, and project needs
+    - Refined the following endpoints
+        2. '/project/{id}'
+            - User can apply for a position by clicking 'apply button'
 
 ### August 16th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
