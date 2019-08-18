@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 18th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Refined the following endpoints
+        1. '/profile/'
+            - Replaced the endpoint from '/profile' to '/profile/{id}' for '/applications/'
+            - User now can check the profile of applicants
+
+
 ### August 17th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Added the following endpoints
@@ -14,7 +22,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
         2. '/applications'
             - User can filter applicants of created projects by status, projects, and project needs
     - Refined the following endpoints
-        2. '/project/{id}'
+        2. '/projects/{id}'
             - User can apply for a position by clicking 'apply button'
 
 ### August 16th, 2019
