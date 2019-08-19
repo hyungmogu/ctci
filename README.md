@@ -10,16 +10,19 @@ This repository shows a summary of what Moe is doing / learning when he is not w
         1. '/profile/'
             - Replaced the endpoint from '/profile' to '/profile/{id}' for '/applications/'
             - User now can check the profile of applicants
+            - User now can save all items when 'save' is clicked, including skills, and my projects
         2. '/projects/create'
             - Fixed static saved button
         3. '/projects'
             - Added missing owner name
+            - User now can save all items when 'save' is clicked
         4. '/profiles'
             - Included 'past project' sections to profile
             - Added pk for '/applications'
         5. '/applications'
             - Refactored the endpoints
             - Clicking 'Apply' now returns to the same page
+            - User now can change status of applied positions
 
 ### August 17th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
