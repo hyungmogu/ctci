@@ -6,7 +6,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ### August 20th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
-    - Worked on updating existing tests to its latest
+    - Added tests for the following endpoint
+        1. '/projects/{id}/'
+    - Fixed tests for the following endpoints
+        1. '/projects/{id}/delete/'
+        2. '/projects/create'
+        3. '/accounts/login'
+        4. '/accounts/logout'
 
 ### August 19th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
