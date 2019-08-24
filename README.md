@@ -4,16 +4,33 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 23rd, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Renamed the following endpoints
+        1. '/search/by_position' to '/filter/by_position'
+        2. '/applications/by_proj_need/' to '/applications/filter/by_proj_need/'
+        3. '/applications/by_project/' to '/applications/filter/by_project'
+        4. '/applications/by_status/' to '/appliations/filter/by_status'
+
+    - Worked on adding 'must be author' permission to the following endpoints
+        1. '/projects/{id}/edit/'
+        2. '/projects/{id}/delete/'
+        3. '/profiles/{id}/edit'
+
+    - Added permission tests to the following endpoints
+        1. '/projects/{id}/edit/'
+        2. '/projects/{id}/delete/'
+
 ### August 22nd, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
-    - Added tests for the following endpoint
+    - Added tests for the following endpoints
         1. '/applications'
         2. '/'
     - Worked on adding permissions to views
 
 ### August 21st, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
-    - Added tests for the following endpoint
+    - Added tests for the following endpoints
         1. '/profile/{id}/'
         2. '/profile/{id}/edit' (GET)
     - Fixed tests for the following endpoint
