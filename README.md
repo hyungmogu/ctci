@@ -4,6 +4,31 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### August 24th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Improved permissions to the following endpoints
+        1. '/profile/{id}'
+        2. '/profile/edits'
+        3. '/projects/create'
+        4. '/applications/applicants/{id}/edit/'
+
+    - Added or improved tests to the following endpoints
+        1. '/projects/create'
+        2. '/applications'
+        3. '/applications/filter/by_proj_need'
+        4. '/applications/filter/by_project'
+        5. '/applications/filter/by_status'
+        6. '/profile/{id}'
+        7. '/profile/{id}/edit'
+        8. '/filter/by_position'
+        9. '/applications/applicants/{id}/edit/'
+
+    - Fixed the following issues
+        1. Fix showing of non-relevant messages in ‘/projects/{id}/’
+        2. Fix non-responsive link in ‘/applications’
+
+    - Cleaned code
+
 ### August 23rd, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Renamed the following endpoints
