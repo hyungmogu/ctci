@@ -4,6 +4,33 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### August 25th, 2019
+1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Added markdown feature to the following endpoints
+        1. '/profile/{id}'
+        2. '/project/{id}'
+
+    - Fixed the following issues
+        1. Non-functioning 'save change' button in '/projects/{id}'
+        2. Non-functioning setup due to migration files
+        3. Missing profile for superusers
+
+    - Added tests for Application model
+
+    - Clean code
+
+2. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
+    - Added tests to the following endpoints
+        1. '/api/user/'
+
+    - Added pre-populate functionality on user registration
+
+    - Replace static urls with reverse() in tests.py
+
+    - Resubmitted the project for review
+
+
 ### August 24th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Improved permissions to the following endpoints
@@ -24,8 +51,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
         9. '/applications/applicants/{id}/edit/'
 
     - Fixed the following issues
-        1. Fix showing of non-relevant messages in ‘/projects/{id}/’
-        2. Fix non-responsive link in ‘/applications’
+        1. Showing of non-relevant messages in ‘/projects/{id}/’
+        2. Non-responsive link in ‘/applications’
 
     - Cleaned code
 
