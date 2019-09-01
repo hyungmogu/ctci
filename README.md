@@ -5,13 +5,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 
+### August 31st, 2019
+1. Worked on clone chart project
+
 ### August 30th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
     - Added project to production server
 
 2. Worked on the eleventh of twelve projects ['Pug-or-Ugh-API'](https://github.com/hyungmogu/THPWD-11-Pug-or-Ugh-API) for Team Treehouse's Python Web Tech Degree
     - Added project to production server
-
 
 ### August 29th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
