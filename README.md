@@ -5,8 +5,24 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 
+### September 1st, 2019
+1. Worked on clone chart project
+    - Fixed issue where total count was returning 1
+    - Fixed issue where database 'app_clone' is not found
+    - Fixed 'rest_framework' not found error
+    - Worked on pre-population of data
+
+2. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
+    - Added notification for reject/approval of position
+    - Resubmitted to project for review
+
+
 ### August 31st, 2019
 1. Worked on clone chart project
+    - Created front-end template
+    - Setup endpoint '/api/v1/get-count'
+    - Setup endpoint '/api/v1/add-count'
+    - Hooked end-point to front-end template
 
 ### August 30th, 2019
 1. Worked on the last of twelve projects ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) for Team Treehouse's Python Web Tech Degree
