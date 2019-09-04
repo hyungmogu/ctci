@@ -4,6 +4,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 3rd, 2019
+1. Finished ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) project for Team Treehouse's Python Web Tech Degree
+
+2. Worked on ['clone chart'](https://github.com/hyungmogu/clone-chart) project
+    - Fixed the fetching of constant range of data for '/api/v1/get-count'
+
+3. Made first attempt at final exam for Team Treehouse
+
+4. Worked on lesson 'Introduction to Software Engineering' for Udacity's Machine Learning Nanodegree
 
 ### September 2nd, 2019
 1. Worked on ['clone chart'](https://github.com/hyungmogu/clone-chart) project
