@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 4th, 2019
+1. Completed 7/25 steps for 'Software Engineering Practices Part 1' for Udacity's Machine Learning Nanodegree
+
 ### September 3rd, 2019
 1. Finished ['Social-Team-Builder'](https://github.com/hyungmogu/THPWD12-Social-Team-Builder) project for Team Treehouse's Python Web Tech Degree
 
