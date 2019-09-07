@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 6th, 2019
+1.  Finished lesson 3/5 of Software Engineering Fundamentals for 'Machine Learning Nanodegree Program'
+
 ### September 5th, 2019
 1.  Finished lesson 2/5 of Software Engineering Fundamentals for 'Machine Learning Nanodegree Program'
 
