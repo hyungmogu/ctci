@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 7th, 2019
+1. Completed 23/29 steps for 'Introduction to Object Oriented Programming' for Udacity's Machine Learning Nanodegree
+
 ### September 6th, 2019
 1.  Finished lesson 3/5 of Software Engineering Fundamentals for 'Machine Learning Nanodegree Program'
 
