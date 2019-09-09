@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 8th, 2019
+1. Made second attempt at final exam for Team Treehouse
+2. Finished Software Engineering Fundamentals for 'Machine Learning Nanodegree Program'
+
 ### September 7th, 2019
 1. Completed 23/29 steps for 'Introduction to Object Oriented Programming' for Udacity's Machine Learning Nanodegree
 
