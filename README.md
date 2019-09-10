@@ -6,7 +6,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 
 ### September 9th, 2019
-1. Complete 12/26 steps for 'Introduction to Deployment' for Udacity's Machine Learning Nanodegree
+1. Completed 12/26 steps for 'Introduction to Deployment' for Udacity's Machine Learning Nanodegree
 
 ### September 8th, 2019
 1. Made second attempt at final exam for Team Treehouse
