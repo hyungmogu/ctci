@@ -4,6 +4,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 11th, 2019
+1. Completed 24/26 steps for 'Introduction to Deployment' for Udacity's Machine Learning Nanodegree
 
 ### September 10th, 2019
 1. Completed 23/26 steps for 'Introduction to Deployment' for Udacity's Machine Learning Nanodegree
