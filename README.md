@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 12th, 2019
+1. Finished lesson 1/5 of Machine Learning in Production for Udacity's Machine Learning Nanodegree
+2. Completed 6/16 steps for 'Building a Model using SageMaker' for Udacity's Machine Learning Nanodegree
+
 ### September 11th, 2019
 1. Completed 24/26 steps for 'Introduction to Deployment' for Udacity's Machine Learning Nanodegree
 
