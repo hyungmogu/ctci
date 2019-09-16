@@ -4,6 +4,8 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 15th, 2019
+1. Completed 9/12 steps for 'Deploying and Using a Model' for Udacity's Machine Learning Nanodegree
 
 ### September 14th, 2019
 1. Finished lesson 2/5 of Machine Learning in Production for Udacity's Machine Learning Nanodegree
