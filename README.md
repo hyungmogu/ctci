@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 17th, 2019
+1. Completed 3/11 steps for 'Updating a Model' for Udacity's Machine Learning Nanodegree
+2. Finished lesson 4/5 of Machine Learning in Production for Udacity's Machine Learning Nanodegree
+
 ### September 16th, 2019
 1. Finished lesson 3/5 of Machine Learning in Production for Udacity's Machine Learning Nanodegree
 2. Completed 4/10 steps for 'Hyperparametric Tuning' for Udacity's Machine Learning Nanodegree
