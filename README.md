@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 19th, 2019
+1. Worked on project 'Deploying a Sentiment Analysis Model' for Udacity's Machine Learning Nanodegree
+    - Setup project
+2. Finished lesson 5/5 of Machine Learning in Production for Udacity's Machine Learning Nanodegree
+
 ### September 18th, 2019
 1. Completed 4/11 steps for 'Updating a Model' for Udacity's Machine Learning Nanodegree
 2. Worked on 5/11 steps for 'Updating a Model' for Udacity's Machine Learning Nanodegree
