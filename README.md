@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 21st, 2019
+1. Reviewed the following courses for third attempt at final exam for Team Treehouse
+    - Django Class Based Views
+    - Django REST Framework
+    - Flask REST API
+
 ### September 20th, 2019
 1. Worked on project 'Deploying a Sentiment Analysis Model' for Udacity's Machine Learning Nanodegree
     - Add answers to TODOs in step 2
