@@ -8,7 +8,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 1. Reviewed the following courses for third attempt at final exam for Team Treehouse
     - Django Class Based Views
     - Django REST Framework
-    - Flask REST API
+    - Flask REST API (Topic 1/2)
 
 ### September 20th, 2019
 1. Worked on project 'Deploying a Sentiment Analysis Model' for Udacity's Machine Learning Nanodegree
