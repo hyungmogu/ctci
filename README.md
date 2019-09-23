@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 22nd, 2019
+1. Reviewed the following courses for the final exam for Team Treehouse
+    - Flask REST API
+    - Customizing the Django Admin
+    - Django ORM (Topic 2/3)
+
 ### September 21st, 2019
 1. Reviewed the following courses for third attempt at final exam for Team Treehouse
     - Django Class Based Views
