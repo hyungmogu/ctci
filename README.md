@@ -4,8 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 25th, 2019
+1. Attempted fourth round of final exam for Team Treehouse
+    - result: Not Passed
+1. Reviewed the following courses for the final exam for Team Treehouse
+    - Django Form (Topic 1/3)
+
 ### September 24th, 2019
-1. Reviewed the following courses for final exam for Team Treehouse
+1. Reviewed the following courses for the final exam for Team Treehouse
     - Django ORM
 
 ### September 23rd, 2019
