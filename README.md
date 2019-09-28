@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 27th, 2019
+1. Reviewed the following courses for the final exam for Team Treehouse
+    - Django Forms (Topic 3/4)
+2. Previewed questions and code exercises of the following course(s)
+    - Python Basics
+
 ### September 26th, 2019
 1. Reviewed the following courses for the final exam for Team Treehouse
     - Django Forms (Topic 2/4)
