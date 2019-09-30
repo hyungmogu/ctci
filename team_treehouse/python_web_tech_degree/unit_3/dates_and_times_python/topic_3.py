@@ -37,6 +37,17 @@ naive = datetime.datetime(2015, 10, 21, 4, 29)
 pacific = datetime.timezone(datetime.timedelta(hours=-8))
 hill_valley = datetime.datetime(2015, 10, 21, 4, 29, tzinfo=pacific)
 
+# solution 2
+
+import datetime
+import copy
+
+naive = datetime.datetime(2015, 10, 21, 4, 29)
+
+timezone = datetime.timezone(datetime.timedelta(hours=-8))
+hill_valley = naive.replace(tzinfo=timezone)
+
+
 # Task 2
 # Great, but replace just sets the timezone, it doesn't move the datetime to the new
 # timezone. Let's move one.
@@ -54,6 +65,18 @@ new_timezone = datetime.timezone(datetime.timedelta(hours=1))
 
 hill_valley = datetime.datetime(2015, 10, 21, 4, 29, tzinfo=pacific)
 paris = hill_valley.astimezone(new_timezone) # astimezone moves time in a timezone to another (i.e from pacific to eastern)
+
+# solution 2
+
+import datetime
+import copy
+
+naive = datetime.datetime(2015, 10, 21, 4, 29)
+
+timezone = datetime.timezone(datetime.timedelta(hours=-8))
+new_timezone = datetime.timezone(datetime.timedelta(hours=1))
+hill_valley = naive.replace(tzinfo=timezone)
+paris = hill_valley.astimezone(new_timezone)
 
 
 # ============= Part 3 =============

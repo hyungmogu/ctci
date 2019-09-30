@@ -10,6 +10,16 @@ starter = datetime.datetime(2015, 10, 21, 16, 29)
 def delorean(integer):
     return datetime.datetime(2015,10,21,16,29) + datetime.timedelta(hours=integer)
 
+
+# solution 2
+
+import datetime
+
+starter = datetime.datetime(2015, 10, 21, 16, 29)
+
+def delorean(value):
+    return starter + datetime.timedelta(hours=value)
+
 # ============= Part 2 =============
 # Task 1
 # Write a function named time_machine that takes an integer and a string of "minutes",

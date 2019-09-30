@@ -4,13 +4,20 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### September 29th, 2019
+1. Previewed questions and code exercises of the following course(s)
+    - Build a Social Network with Flask (topic 1/5, 2/5, 3/5)
+    - Flask Basics
+    - Dates and Times in Python
+
 ### September 28th, 2019
 1. Join meeting with Udacity mentor
-1. Previewed questions and code exercises of the following course(s)
+2. Previewed questions and code exercises of the following course(s)
     - Object-Oriented Python
     - Write Better Python
     - Python Collections
     - Introducing Lists
+
 ### September 27th, 2019
 1. Reviewed the following courses for the final exam for Team Treehouse
     - Django Forms (Topic 3/4)
