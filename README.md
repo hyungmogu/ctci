@@ -5,7 +5,7 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 ## Work Summary
 
 ### September 30th, 2019
-1. Finished Team Treehouse Python Web Tech Nanodegree
+1. Completed Team Treehouse's Python Web Development Techdegree
 
 ### September 29th, 2019
 1. Previewed questions and code exercises of the following course(s)
