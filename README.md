@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 6th, 2019
+1. Practiced Leet Code's 'Two Sum' problem
+
 ### September 30th, 2019
 1. Completed Team Treehouse's Python Web Development Techdegree
 
