@@ -4,8 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 7th, 2019
+1. Practice Leet Code's 'Two Sum' problem (video)
+2. Practice Leet Code's 'Jewels and Stone' problem (code & video)
+
 ### October 6th, 2019
-1. Practiced Leet Code's 'Two Sum' problem
+1. Practiced Leet Code's 'Two Sum' problem (code)
 
 ### September 30th, 2019
 1. Completed Team Treehouse's Python Web Development Techdegree
