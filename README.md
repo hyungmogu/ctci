@@ -4,9 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 8th, 2019
+1. Practiced Interview Cake's 'Permutation Palindrome' problem (code && video)
+2. Practiced Interview Cake's 'Apple Stock' problem (code && video)
+
 ### October 7th, 2019
-1. Practice Leet Code's 'Two Sum' problem (video)
-2. Practice Leet Code's 'Jewels and Stone' problem (code & video)
+1. Practiced Leet Code's 'Two Sum' problem (video)
+2. Practiced Leet Code's 'Jewels and Stone' problem (code & video)
 
 ### October 6th, 2019
 1. Practiced Leet Code's 'Two Sum' problem (code)
