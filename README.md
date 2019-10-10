@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 9th, 2019
+1. Practiced Interview Cake's 'Binary Search Tree Checker' problem (code && video)
+2. Practiced Interview Cake's 'Find Rotation Point' problem (code && video)
+
 ### October 8th, 2019
 1. Practiced Interview Cake's 'Permutation Palindrome' problem (code && video)
 2. Practiced Interview Cake's 'Apple Stock' problem (code && video)
