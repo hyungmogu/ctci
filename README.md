@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 10th, 2019
+1. Practiced Interview Cake's 'Permutation of Letters' problem (code && video)
+2. Practiced Interview Cake's 'Largest Element in Stack' problem (code && video)
+
 ### October 9th, 2019
 1. Practiced Interview Cake's 'Binary Search Tree Checker' problem (code && video)
 2. Practiced Interview Cake's 'Find Rotation Point' problem (code && video)
