@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 11th, 2019
+1. Practiced Interview Cake's 'Delete Node' problem (code && video)
+2. Practiced Interview Cake's 'Reverse String in Place' problem (code && video)
+3. Practiced Pramp mock interview (Word Count Engine) (Problem Solving: 4.0, Coding: 3.0, Communication: 4.0)
+4. Practiced Interview Cake's 'In Flight Entertainment' problem (code && video)
+
 ### October 10th, 2019
 1. Practiced Interview Cake's 'Permutation of Letters' problem (code && video)
 2. Practiced Interview Cake's 'Largest Element in Stack' problem (code && video)
