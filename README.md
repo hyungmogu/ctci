@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 12th, 2019
+1. Practiced Interview Cake's 'Highest Product of 3' problem (code && video)
+2. Practiced Interview Cake's 'Top Scores' (code && video)
+3. Practiced Interview Cake's 'Super Balanced Tree' (code && video)
+4. Practiced Interview Cake's 'Nth Fibonacci Number' (code && video)
+5. Practiced Interview Cake's 'Queue with Two Stacks' (code && video)
+5. Practiced Interview Cake's 'Linked List with Cycle' (code && video)
+
 ### October 11th, 2019
 1. Practiced Interview Cake's 'Delete Node' problem (code && video)
 2. Practiced Interview Cake's 'Reverse String in Place' problem (code && video)
