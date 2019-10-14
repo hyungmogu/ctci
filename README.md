@@ -4,6 +4,17 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 13th, 2019
+1. Practiced Interview Cake's 'Merge Two Arrays' (code && video)
+2. Practiced Interview Cake's 'Word Cloud Data' (code && video)
+3. Practiced Interview Cake's 'Product of All Other Numbers' (code && video)
+4. Practiced Interview Cake's 'Find Duplicate Space Edition' (code && video)
+5. Practiced Interview Cake's '2nd Largest Item in BST' (code && video)
+6. Practiced Pramp mock interview (Award Budget Cut) (Problem Solving: 5.0, Coding: 5.0, Communication: 5.0)
+7. Practiced Pramp mock interview (Array Index and Element Equality) (Problem Solving: 5.0, Coding: 5.0, Communication: 5.0)
+8. Practiced Pramp mock interview (Number of Paths) (Problem Solving: 5.0, Coding: 5.0, Communication: 5.0)
+
+
 ### October 12th, 2019
 1. Practiced Interview Cake's 'Highest Product of 3' problem (code && video)
 2. Practiced Interview Cake's 'Top Scores' (code && video)
