@@ -4,10 +4,16 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 15th, 2019
+1. Practiced Interview Cake's 'Reversed Linked List' (video)
+2. Practiced Interview Cake's 'Cafe Order Checker' (code & video)
+3. Practiced Interview Cake's 'Top Scores' 2nd time (code & video)
+4. Practiced Back Joon's 'a+b' (code & video)
+
 ### October 14th, 2019
 1. Practiced Interview Cake's 'Make Change' (code && video)
 2. Practiced Interview Cake's 'Parenthesis Match' (code && video)
-3. Practiced Interview Cake's 'Reversed Linked List' (code && video)
+3. Practiced Interview Cake's 'Reversed Linked List' (code)
 
 ### October 13th, 2019
 1. Practiced Interview Cake's 'Merge Two Arrays' (code && video)
