@@ -4,11 +4,17 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 16th, 2019
+1. Practiced Baek Joon's 'a-b' (code & video)
+2. Practiced Interview Cake's 'Merging Meeting Times' (code & video)
+2. Practiced Baek Joon's '정수 N개의 합' (video)
+3. Practiced Baek Joon's '최소, 최대' (code)
+
 ### October 15th, 2019
 1. Practiced Interview Cake's 'Reversed Linked List' (video)
 2. Practiced Interview Cake's 'Cafe Order Checker' (code & video)
 3. Practiced Interview Cake's 'Top Scores' 2nd time (code & video)
-4. Practiced Back Joon's 'a+b' (code & video)
+4. Practiced Baek Joon's 'a+b' (code & video)
 
 ### October 14th, 2019
 1. Practiced Interview Cake's 'Make Change' (code && video)
