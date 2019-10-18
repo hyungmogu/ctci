@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### October 17th, 2019
+1. Practiced Baek Joon's '최소,최대' (video)
+2. Practiced Leet Codes 'climbing stairs' (code & video)
+2. Practiced Baek Joon's '수 정렬하기' (video)
+3. Practiced Pramp mock interview (Smallest Substring of All Character) (TBD)
+
 ### October 16th, 2019
 1. Practiced Baek Joon's 'a-b' (code & video)
 2. Practiced Interview Cake's 'Merging Meeting Times' (code & video)
