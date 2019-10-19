@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 18th, 2019
+1. Practiced Baek Joons '아스키 코드' (code & video)
+2. Practiced Baek Joon's '스택' (code & video)
+3. Practice Baek Joons '단어의 개수' (code)
 
 ### October 17th, 2019
 1. Practiced Baek Joon's '최소,최대' (video)
