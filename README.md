@@ -4,9 +4,15 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### October 22nd, 2019
+1. Practiced Pramp mock interview (root of a number) (video)
+2. Practiced Pramp mock interview (find duplicates) (video && code)
+3. Practiced Pramp mock interview (pancake sort) (video && code)
+
 ### October 21st, 2019
 1. Practiced Pramp mock interview (drone flight planner)
-1. Practiced Pramp mock interview (root of a number) (code)
+2. Practiced Pramp mock interview (root of a number) (code)
 
 ### October 20th, 2019
 1. Practiced Baek Joon's '단어의 개수' (video)
