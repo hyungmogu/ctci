@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 23rd, 2019
+1. Practiced Pramp mock interview (largest smaller bst key) (video && code)
+2. Practiced Pramp mock interview (smallest substring of all characters) (video)
+3. Practiced Pramp mock interview (time planner) (video && code)
 
 ### October 22nd, 2019
 1. Practiced Pramp mock interview (root of a number) (video)
