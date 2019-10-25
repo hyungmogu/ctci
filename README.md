@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 24th, 2019
+1. Practiced Pramp mock interview (Matrix Spiral) (video && code)
+1. Practiced Pramp mock interview (Sentence Reverse) (video && code)
+
 ### October 23rd, 2019
 1. Practiced Pramp mock interview (largest smaller bst key) (video && code)
 2. Practiced Pramp mock interview (smallest substring of all characters) (video)
