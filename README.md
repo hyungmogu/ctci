@@ -4,9 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 25th, 2019
+1. Practiced Pramp mock interview (Shifted Array Search) (video && code)
+2. Practiced codility sample problem (cyclic rotation) (video && code)
+
 ### October 24th, 2019
 1. Practiced Pramp mock interview (Matrix Spiral) (video && code)
-1. Practiced Pramp mock interview (Sentence Reverse) (video && code)
+2. Practiced Pramp mock interview (Sentence Reverse) (video && code)
 
 ### October 23rd, 2019
 1. Practiced Pramp mock interview (largest smaller bst key) (video && code)
