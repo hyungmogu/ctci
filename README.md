@@ -4,9 +4,20 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+
+### October 26th, 2019
+1. Worked on Codility's practice problem (max min division)
+2. Practiced Codility's practice problem (ladder) (video && code)
+3. Practiced Codility's practice problem (max profit) (video && code)
+4. Practiced Codility's practice problem (dominator) (video && code)
+5. Practiced Codility's practice problem (brackets) (video && code)
+6. Practiced Codility's practice problem (passing cars) (video && code)
+7. Practiced Codility's practice problem (frog one river) (video && code)
+8. Practiced Codility's practice problem (permutation missing element) (video && code)
+
 ### October 25th, 2019
 1. Practiced Pramp mock interview (Shifted Array Search) (video && code)
-2. Practiced codility sample problem (cyclic rotation) (video && code)
+2. Practiced Codility's practice problem (cyclic rotation) (video && code)
 
 ### October 24th, 2019
 1. Practiced Pramp mock interview (Matrix Spiral) (video && code)
