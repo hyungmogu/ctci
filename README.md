@@ -4,6 +4,13 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 27th, 2019
+1. Worked on Codility's practice problem (count triangle)
+2. Practiced codility's practice problem (small frog) (code)
+3. Practiced codility's practice problem (number solitaire) (video && code)
+4. Practiced codility's practice problem (tie ropes) (video && code)
+5. Practiced codility's practice problem (count distinct slices) (video && code)
+6. Practiced codility's practice problem (min max division) (video && code)
 
 ### October 26th, 2019
 1. Worked on Codility's practice problem (max min division)
