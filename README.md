@@ -4,27 +4,41 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 28th, 2019
+1. Solved Codility's practice problem (max slice) (code)
+2. Solved Codility's practice problem (equi leader) (code)
+3. Worked on codility's practice problem (missing integer) (code)
+4. Solved Codility's practice problem (dominator) 2nd time (code)
+5. Solved Codility's practice problem (fishes) (code)
+6. Solved Codility's practice problem (brackets) 2nd time (code)
+7. Solved Codility's practice problem (max product of three) (code)
+8. Solved Codility's practice problem (passing cars) 2nd time (code)
+9. Solved Codility's practice problem (perm check) (code)
+10. Solved Codility's practice problem (frog jump) (code)
+11. Solved Codility's practice problem (cyclic rotation) (code)
+12. Solved Codility's practice problem (odd occurences) (code)
+
 ### October 27th, 2019
 1. Worked on Codility's practice problem (count triangle)
-2. Practiced codility's practice problem (small frog) (code)
-3. Practiced codility's practice problem (number solitaire) (video && code)
-4. Practiced codility's practice problem (tie ropes) (video && code)
-5. Practiced codility's practice problem (count distinct slices) (video && code)
-6. Practiced codility's practice problem (min max division) (video && code)
+2. Solved Codility's practice problem (small frog) (code)
+3. Solved Codility's practice problem (number solitaire) (video && code)
+4. Solved Codility's practice problem (tie ropes) (video && code)
+5. Solved Codility's practice problem (count distinct slices) (video && code)
+6. Solved Codility's practice problem (min max division) (video && code)
 
 ### October 26th, 2019
 1. Worked on Codility's practice problem (max min division)
-2. Practiced Codility's practice problem (ladder) (video && code)
-3. Practiced Codility's practice problem (max profit) (video && code)
-4. Practiced Codility's practice problem (dominator) (video && code)
-5. Practiced Codility's practice problem (brackets) (video && code)
-6. Practiced Codility's practice problem (passing cars) (video && code)
-7. Practiced Codility's practice problem (frog one river) (video && code)
-8. Practiced Codility's practice problem (permutation missing element) (video && code)
+2. Solved Codility's practice problem (ladder) (video && code)
+3. Solved Codility's practice problem (max profit) (video && code)
+4. Solved Codility's practice problem (dominator) (video && code)
+5. Solved Codility's practice problem (brackets) (video && code)
+6. Solved Codility's practice problem (passing cars) (video && code)
+7. Solved Codility's practice problem (frog one river) (video && code)
+8. Solved Codility's practice problem (permutation missing element) (video && code)
 
 ### October 25th, 2019
 1. Practiced Pramp mock interview (Shifted Array Search) (video && code)
-2. Practiced Codility's practice problem (cyclic rotation) (video && code)
+2. Solved Codility's practice problem (cyclic rotation) (video && code)
 
 ### October 24th, 2019
 1. Practiced Pramp mock interview (Matrix Spiral) (video && code)
