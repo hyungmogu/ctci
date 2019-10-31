@@ -4,15 +4,27 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 30th, 2019
+1. Solved Codility's practice problem 2nd time (number solitaire) (code)
+2. Code Test (Thank you my love :))
+
+### October 29th, 2019
+1. Worked on Codility's practice problem (ladder) (code)
+2. Solved Codility's practice problem (count triangles) (code)
+3. Solved Codility's practice problem (count distinct slices) (code)
+4. Solved Codility's practice problem (min max division) (code)
+5. Solved Codility's practice problem (missing integer) (code)
+6. Solved Codility's practice problem 2nd time (tie ropes) (code)
+
 ### October 28th, 2019
 1. Solved Codility's practice problem (max slice) (code)
 2. Solved Codility's practice problem (equi leader) (code)
 3. Worked on codility's practice problem (missing integer) (code)
-4. Solved Codility's practice problem (dominator) 2nd time (code)
+4. Solved Codility's practice problem 2nd time (dominator) (code)
 5. Solved Codility's practice problem (fishes) (code)
-6. Solved Codility's practice problem (brackets) 2nd time (code)
+6. Solved Codility's practice problem 2nd time (brackets) (code)
 7. Solved Codility's practice problem (max product of three) (code)
-8. Solved Codility's practice problem (passing cars) 2nd time (code)
+8. Solved Codility's practice problem 2nd time (passing cars) (code)
 9. Solved Codility's practice problem (perm check) (code)
 10. Solved Codility's practice problem (frog jump) (code)
 11. Solved Codility's practice problem (cyclic rotation) (code)
