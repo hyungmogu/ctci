@@ -4,9 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### October 31st, 2019
+1. Code Test (Thank you my love :))
+
 ### October 30th, 2019
 1. Solved Codility's practice problem 2nd time (number solitaire) (code)
-2. Code Test (Thank you my love :))
 
 ### October 29th, 2019
 1. Worked on Codility's practice problem (ladder) (code)
