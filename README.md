@@ -4,6 +4,10 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 1st, 2019
+1. Completed lessons 5/13 of 'Section 1: Getting Started with Docker Technologies' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
+2. Worked on topic 1/5 of 'Introduction to Docker' course for Team Treehouse
+
 ### October 31st, 2019
 1. Code Test (Thank you my love :))
 
