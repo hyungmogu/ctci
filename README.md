@@ -4,10 +4,17 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 3rd, 2019
+1. Completed "Section 3: Create Containerized Web Applications' for Udemy's 'Docker Crash Course for busy DevOps and Developers"
+2. Completed "Section 4: Docker Networking' for Udemy's Docker Crash Course for busy DevOps and Developers"
+3. Completed lessons 3/6 of "Section 5: Create a Continuous Integration Pipeline' for Udemy's Docker Crash Course for busy DevOps and Developers"
+4. Worked on lessons 6/6 of "Section 5: Create a Continuous Integration Pipeline' for Udemy's Docker Crash Course for busy DevOps and Developers"
+
+
 ### November 2nd, 2019
 1. Completed 'Introduction to Docker' course for Team Treehouse
 2. Completed 'Section 1: Getting Started with Docker Technologies' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
-3. Complete lessons 3/5 of 'Section 2: Working with Docker
+3. Completed lessons 3/5 of 'Section 2: Working with Docker
 Images' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
 
 ### November 1st, 2019
