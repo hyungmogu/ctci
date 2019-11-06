@@ -4,6 +4,14 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 5th, 2019
+1. Solved codility's 'Binary Gap' problem
+2. Reviewed codility's 'Odd Occurrences In Array' problem
+3. Reviewed codility's 'Frog Jump' problem
+4. Reviewed codility's 'Permutation Check' problem
+5. Reviewed codility's 'Passing Cars' problem
+6. Reviewed codility's 'Max Product Of Three' problem
+
 ### November 4th, 2019
 1. Completed 'Section 5: Create a Continuous Integration Pipeline' for Udemy's 'Docker Crash Course for busy DevOps and Developers' Course
 2. Completed 'Section 6: Deploy Docker Containers in Production' for Udemy's 'Docker Crash Course for busy DevOps and Developers' Course
