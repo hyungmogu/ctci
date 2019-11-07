@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 6th, 2019
+1. Reviewed codility's 'brackets' problem
+2. Completed lessons 5/5 of "Section 2: Introduction to Jenkins' for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+3. Worked lessons 3/4 of "Section 3: Building a NodeJS app" for Udemy's
+Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+
 ### November 5th, 2019
 1. Solved codility's 'Binary Gap' problem
 2. Reviewed codility's 'Odd Occurrences In Array' problem
