@@ -4,6 +4,11 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 7th, 2019
+1. Reviewed codility's 'dominator' problem (code && video)
+2. Reviewed codility's 'min max division' problem (code && video)
+3. Worked on lessons 4/4 of "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+
 ### November 6th, 2019
 1. Reviewed codility's 'brackets' problem
 2. Completed lessons 5/5 of "Section 2: Introduction to Jenkins' for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
