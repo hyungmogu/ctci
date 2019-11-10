@@ -4,6 +4,12 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 9th, 2019
+1. Reviewed codility's 'tie ropes' problem (code && video)
+2. Completed "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+3. Completed "Section 4: Infrastructure as code and automation" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+4. Completed lessons 1/3 of "Section 5: Introduction to Jenkins Job DSL" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+
 ### November 8th, 2019
 1. Reviewed codility's 'count distinct slices' problem (code && video)
 2. Worked on lessons 4/4 of "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
