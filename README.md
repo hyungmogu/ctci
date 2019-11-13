@@ -4,6 +4,9 @@ This repository shows a summary of what Moe is doing / learning when he is not w
 
 ## Work Summary
 
+### November 12th, 2019
+1. Completed lessons 2/14 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+
 ### November 11th, 2019
 1. Review codility's 'binary gap' problem (code && video)
 2. Practiced Pramp's behavioral mock interview (Behavioral Question Set 5) (Current: Professional Competency - 2, Interpersonal Skills - 2, Professional Competency - 2)
