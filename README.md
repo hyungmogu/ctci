@@ -1,8 +1,12 @@
 # Personal Dev Log
 
-This repository shows a summary of what Moe is doing / learning when he is not working.
-
 ## Work Summary
+
+### November 13th, 2019
+1. Added notes about Slack Jenkin Integration
+    - Lesson 3/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+3. Worked on the demo of Slack Jenkin Integration
+    - Lesson 4/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
 
 ### November 12th, 2019
 1. Completed lessons 2/14 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
