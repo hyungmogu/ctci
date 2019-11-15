@@ -2,10 +2,15 @@
 
 ## Work Summary
 
+### November 14th, 2019
+1. Completed notes and worked on Slack Jenkin Integration
+    - Lessons 4/14 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+2. Re-deployed first project for Udacity's Machine Learning Engineering Nanodegree
+3. Completed part 1/11 of "Week 1: Introduction" for Coursera's Machine Learning
+
 ### November 13th, 2019
-1. Added notes about Slack Jenkin Integration
+1. Added notes and worked on Slack Jenkin Integration
     - Lesson 3/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-3. Worked on the demo of Slack Jenkin Integration
     - Lesson 4/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
 
 ### November 12th, 2019
