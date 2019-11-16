@@ -2,49 +2,49 @@
 
 ## Work Summary
 
+### November 15th, 2019
+1. Completed lessons 6/11 of "Week 1: Introduction" for Coursera's Machine Learning
+
 ### November 14th, 2019
-1. Completed notes and worked on Slack Jenkin Integration
-    - Lessons 4/14 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+1. Completed lessons 4/14 of Section 6: Jenkins Pipelines for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 2. Re-deployed first project for Udacity's Machine Learning Engineering Nanodegree
-3. Completed part 1/11 of "Week 1: Introduction" for Coursera's Machine Learning
+3. Completed lessons 1/11 of "Week 1: Introduction" for Coursera's Machine Learning
 
 ### November 13th, 2019
-1. Added notes and worked on Slack Jenkin Integration
-    - Lesson 3/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-    - Lesson 4/14 of "Section 6: Jenkins Pipelines" in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+1. Worked on lessons 4/14 of Section 6: Jenkins Pipelines in Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 12th, 2019
-1. Completed lessons 2/14 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+1. Completed lessons 2/14 of Section 6: Jenkins Pipelines for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 11th, 2019
 1. Review codility's 'binary gap' problem (code && video)
 2. Practiced Pramp's behavioral mock interview (Behavioral Question Set 5) (Current: Professional Competency - 2, Interpersonal Skills - 2, Professional Competency - 2)
-3. Complete lessons 6/6 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+3. Complete lessons 6/6 of Section 6: Jenkins Pipelines for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 10th, 2019
-1. Completed lessons 3/3 of "Section 5: Introduction to Jenkins Job DSL" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-2. Completed lessons 3/6 of "Section 6: Jenkins Pipelines" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+1. Completed lessons 3/3 of Section 5: Introduction to Jenkins Job DSL" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+2. Completed lessons 3/6 of Section 6: Jenkins Pipelines for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 9th, 2019
 1. Reviewed codility's 'tie ropes' problem (code && video)
-2. Completed lessons 4/4 of "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-3. Completed lessons 1/1 of "Section 4: Infrastructure as code and automation" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-4. Worked on lessons 1/3 of "Section 5: Introduction to Jenkins Job DSL" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+2. Completed lessons 4/4 of Section 3: Building a NodeJS app for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+3. Completed lessons 1/1 of Section 4: Infrastructure as code and automation" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+4. Worked on lessons 1/3 of Section 5: Introduction to Jenkins Job DSL" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 8th, 2019
 1. Reviewed codility's 'count distinct slices' problem (code && video)
-2. Worked on lessons 4/4 of "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+2. Worked on lessons 4/4 of Section 3: Building a NodeJS app for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 7th, 2019
 1. Reviewed codility's 'dominator' problem (code && video)
 2. Reviewed codility's 'min max division' problem (code && video)
-3. Worked on lessons 4/4 of "Section 3: Building a NodeJS app" for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+3. Worked on lessons 4/4 of Section 3: Building a NodeJS app for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 6th, 2019
 1. Reviewed codility's 'brackets' problem
-2. Completed lessons 5/5 of "Section 2: Introduction to Jenkins' for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
-3. Worked lessons 3/4 of "Section 3: Building a NodeJS app" for Udemy's
-Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
+2. Completed lessons 5/5 of Section 2: Introduction to Jenkins for Udemy's Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
+3. Worked lessons 3/4 of Section 3: Building a NodeJS app for Udemy's
+Learn DevOps: CI/CD with Jenkins using Pipelines and Docker
 
 ### November 5th, 2019
 1. Solved codility's 'Binary Gap' problem
@@ -55,26 +55,26 @@ Learn DevOps: CI/CD with Jenkins using Pipelines and Docker"
 6. Reviewed codility's 'Max Product Of Three' problem
 
 ### November 4th, 2019
-1. Completed 'Section 5: Create a Continuous Integration Pipeline' for Udemy's 'Docker Crash Course for busy DevOps and Developers' Course
-2. Completed 'Section 6: Deploy Docker Containers in Production' for Udemy's 'Docker Crash Course for busy DevOps and Developers' Course
-3. Completed Udemy's 'Docker Crash Course for busy DevOps and Developers' Course
-4. Worked on lessons 3/5 of "Section 2: Pre-requisites' for Udemy's Kubernetes Made Easy: Learn Kubernetes From Scratch (2019)"
+1. Completed Section 5: Create a Continuous Integration Pipeline for Udemy's 'Docker Crash Course for busy DevOps and Developers Course
+2. Completed Section 6: Deploy Docker Containers in Production for Udemy's 'Docker Crash Course for busy DevOps and Developers Course
+3. Completed Udemy's 'Docker Crash Course for busy DevOps and Developers Course
+4. Worked on lessons 3/5 of Section 2: Pre-requisites for Udemy's Kubernetes Made Easy: Learn Kubernetes From Scratch (2019)"
 
 
 ### November 3rd, 2019
-1. Completed "Section 3: Create Containerized Web Applications' for Udemy's 'Docker Crash Course for busy DevOps and Developers"
-2. Completed "Section 4: Docker Networking' for Udemy's Docker Crash Course for busy DevOps and Developers"
-3. Completed lessons 3/6 of "Section 5: Create a Continuous Integration Pipeline' for Udemy's Docker Crash Course for busy DevOps and Developers"
-4. Worked on lessons 6/6 of "Section 5: Create a Continuous Integration Pipeline' for Udemy's Docker Crash Course for busy DevOps and Developers"
+1. Completed Section 3: Create Containerized Web Applications for Udemy's 'Docker Crash Course for busy DevOps and Developers
+2. Completed Section 4: Docker Networking for Udemy's Docker Crash Course for busy DevOps and Developers
+3. Completed lessons 3/6 of Section 5: Create a Continuous Integration Pipeline for Udemy's Docker Crash Course for busy DevOps and Developers
+4. Worked on lessons 6/6 of Section 5: Create a Continuous Integration Pipeline for Udemy's Docker Crash Course for busy DevOps and Developers
 
 ### November 2nd, 2019
 1. Completed 'Introduction to Docker' course for Team Treehouse
-2. Completed 'Section 1: Getting Started with Docker Technologies' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
-3. Completed lessons 3/5 of 'Section 2: Working with Docker
-Images' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
+2. Completed Section 1: Getting Started with Docker Technologies for Udemy's 'Docker Crash Course for busy DevOps and Developers
+3. Completed lessons 3/5 of Section 2: Working with Docker
+Images for Udemy's 'Docker Crash Course for busy DevOps and Developers
 
 ### November 1st, 2019
-1. Completed lessons 5/13 of 'Section 1: Getting Started with Docker Technologies' for Udemy's 'Docker Crash Course for busy DevOps and Developers'
+1. Completed lessons 5/13 of Section 1: Getting Started with Docker Technologies for Udemy's 'Docker Crash Course for busy DevOps and Developers
 2. Worked on topic 1/5 of 'Introduction to Docker' course for Team Treehouse
 
 ### October 31st, 2019
