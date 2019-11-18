@@ -2,6 +2,9 @@
 
 ## Work Summary
 
+### November 17th, 2019
+2. Completed lessons 14/14 of "Week 1: Linear Regression with One Variable" for Coursera's Machine Learning
+6. Completed' lessons 9/12 of "Week 1: Linear Algebra Review" for Coursera's Machine Learning
 ### November 16th, 2019
 1. Completed lessons 11/11 of "Week 1: Introduction" for Coursera's Machine Learning
 2. Completed lessons 10/14 of "Week 1: Linear Regression with One Variable" for Coursera's Machine Learning
