@@ -2,6 +2,9 @@
 
 ## Work Summary
 
+### November 21st, 2019
+1. Completed lessons 14/16 of "Week 2: Linear Regression with Multiple Variables" for Coursera's Machine Learning
+
 ### November 19th, 2019
 1. Completed lessons 6/16 of "Week 2: Linear Regression with Multiple Variables" for Coursera's Machine Learning
 
