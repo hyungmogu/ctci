@@ -2,8 +2,12 @@
 
 ## Work Summary
 
+### November 23rd, 2019
+1. Completed lessons 4/6 of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
+
 ### November 22nd, 2019
 1. Completed lessons 16/16 of "Week 2: Linear Regression with Multiple Variables" for Coursera's Machine Learning
+2. Completed lessons 2/6 of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
 
 ### November 21st, 2019
 1. Completed lessons 14/16 of "Week 2: Linear Regression with Multiple Variables" for Coursera's Machine Learning
