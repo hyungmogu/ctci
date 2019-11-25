@@ -2,6 +2,10 @@
 
 ## Work Summary
 
+### November 24th, 2019
+1. Completed lessons 6/6 of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
+2. Completed programming assignments of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
+
 ### November 23rd, 2019
 1. Completed lessons 4/6 of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
 
