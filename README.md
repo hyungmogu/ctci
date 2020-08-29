@@ -2,6 +2,21 @@
 
 ## Work Summary
 
+### August 29th, 2020
+1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
+    - Question 9
+    - Question 10
+    - Question 11
+    - Question 12
+    - Question 13
+    - Question 14
+    - Question 15
+    - Question 16
+    - Question 17
+    - Question 18
+    - Question 19
+    - Question 20
+
 ### November 24th, 2019
 1. Completed lessons 6/6 of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
 2. Completed programming assignments of "Week 2: Octave/Matlab Tutorial" for Coursera's Machine Learning
