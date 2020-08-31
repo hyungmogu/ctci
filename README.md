@@ -2,6 +2,18 @@
 
 ## Work Summary
 
+### August 31st, 2020
+1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
+    - Question 26
+
+2. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
+    - Question 1
+    - Question 2
+    - Question 3
+    - Question 4
+    - Question 5
+    - Question 6
+
 ### August 30th, 2020
 1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209)
     - Question 21
