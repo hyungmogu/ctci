@@ -2,6 +2,10 @@
 
 ## Work Summary
 
+### September 3rd, 2020
+1. Work on Midterm 1 2019, CSC 369
+    - Question 1
+
 ### September 2nd, 2020
 1. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209)
     - Question 14
