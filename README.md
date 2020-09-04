@@ -1,6 +1,11 @@
 # Personal Dev Log
 
 ## Work Summary
+### September 4th, 2020
+1. Work on Midterm 1 2019, CSC 369
+    - Question 2
+    - Question 3
+    - Question 4
 
 ### September 3rd, 2020
 1. Work on Midterm 1 2019, CSC 369
