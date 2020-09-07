@@ -1,27 +1,33 @@
 # Personal Dev Log
 
 ## Work Summary
+### September 7th, 2020
+1. Work on Midterm Practice 2, CSC 369
+    - Question 3
+    - Question 4
+    - Question 5
+
 ### September 6th, 2020
-1. Work on Midterm 2, CSC 369
+1. Work on Midterm Practice 2, CSC 369
     - Question 1
     - Question 2
     - Question 3
 
 ### September 5th, 2020
-1. Work on Midterm 1, CSC 369
+1. Work on Midterm Practice 1, CSC 369
     - Question 5
 
-2. Work on Midterm 2, CSC 369
+2. Work on Midterm Practice 2, CSC 369
     - Question 1
 
 ### September 4th, 2020
-1. Work on Midterm 1 2019, CSC 369
+1. Work on Midterm Practice 1, CSC 369
     - Question 2
     - Question 3
     - Question 4
 
 ### September 3rd, 2020
-1. Work on Midterm 1 2019, CSC 369
+1. Work on Midterm 1, CSC 369
     - Question 1
 
 ### September 2nd, 2020
