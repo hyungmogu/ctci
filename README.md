@@ -1,6 +1,24 @@
 # Personal Dev Log
 
 ## Work Summary
+### September 10th, 2020
+1. Work on Midterm 4, CSC 369
+    - Question 4
+
+2. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
+    - Question 1
+    - Question 2
+    - Question 3
+    - Question 4
+    - Question 5
+    - Question 6
+
+### September 9th, 2020
+1. Work on Midterm 4, CSC 369
+    - Question 1
+    - Question 2
+    - Question 3
+
 ### September 8th, 2020
 1. Work on Midterm Practice 3, CSC 369
     - Question 1
