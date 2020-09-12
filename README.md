@@ -2,6 +2,15 @@
 
 ## Work Summary
 
+### September 12th, 2020
+1. Work on Review 8 second time, CSC 209
+    - Question 24
+    - Question 25
+    - Question 26
+
+2. Work on Review 9 second time, CSC 209
+    - Question 1
+
 ### September 11th, 2020
 1. Work on Review 8 second time, CSC 209
     - Question 6
