@@ -2,8 +2,13 @@
 
 ## Work Summary
 
+### September 14th, 2020
+1. Work on Midterm 4, CSC 369
+    - Question 4
+    - Question 5
+
 ### September 13th, 2020
-1. Work on Review 9 second time, CSC 209
+1. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
     - Question 1
     - Question 2
     - Question 3
@@ -26,16 +31,16 @@
     - Question 4
 
 ### September 12th, 2020
-1. Work on Review 8 second time, CSC 209
+1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
     - Question 24
     - Question 25
     - Question 26
 
-2. Work on Review 9 second time, CSC 209
+2. Work on Chapter 20 of K.N King's C Programming A Modern Approach (Review 9, CSC 209) second time
     - Question 1
 
 ### September 11th, 2020
-1. Work on Review 8 second time, CSC 209
+1. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
     - Question 6
     - Question 7
     - Question 8
