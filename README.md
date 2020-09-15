@@ -2,6 +2,11 @@
 
 ## Work Summary
 
+### September 15th, 2020
+1. Work on Midterm 4, CSC 369
+    - Question 5
+    - Question 6
+
 ### September 14th, 2020
 1. Work on Midterm 4, CSC 369
     - Question 4
