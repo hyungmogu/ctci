@@ -2,13 +2,32 @@
 
 ## Work Summary
 
+### September 16th, 2020
+1. Work on Midterm Practice 4, CSC 369
+    - Question 6
+    - Question 7
+    - Question 8
+    - Question 9
+    - Question 10
+
+2. Work on Tutorial 1, CSC 369 (Due September 22nd)
+    - Setup MarkUs
+
+3. Work on assignment 1 setup, CSC 369
+    - Troubleshoot virtual machine crashing error
+    - Install FUSE on virtual machine
+        - Checked that Fuse 2.9.7 is installed
+
+4. Work on required readings, CSC 369
+    - Chapter 37, hard drives
+
 ### September 15th, 2020
-1. Work on Midterm 4, CSC 369
+1. Work on Midterm Practice 4, CSC 369
     - Question 5
     - Question 6
 
 ### September 14th, 2020
-1. Work on Midterm 4, CSC 369
+1. Work on Midterm Practice 4, CSC 369
     - Question 4
     - Question 5
 
@@ -32,7 +51,7 @@
     - Question 16
     - Question 17
 
-2. Work on Midterm 4, CSC 369
+2. Work on Midterm Practice 4, CSC 369
     - Question 4
 
 ### September 12th, 2020
@@ -66,7 +85,7 @@
     - Question 23
 
 ### September 10th, 2020
-1. Work on Midterm 4, CSC 369
+1. Work on Midterm Practice 4, CSC 369
     - Question 4
 
 2. Work on Chapter 17 of K.N King's C Programming A Modern Approach (Review 8, CSC 209) second time
@@ -78,7 +97,7 @@
     - Question 6
 
 ### September 9th, 2020
-1. Work on Midterm 4, CSC 369
+1. Work on Midterm Practice 4, CSC 369
     - Question 1
     - Question 2
     - Question 3
