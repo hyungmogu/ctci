@@ -2,6 +2,15 @@
 
 ## Work Summary
 
+### September 17th, 2020
+1. Work on Tutorial 1, CSC 369 (Due September 22nd)
+    - Task 1
+    - Task 2
+    - Task 3
+
+2. Work on required readings, CSC 369
+    - Chapter 37, hard drives
+
 ### September 16th, 2020
 1. Work on Midterm Practice 4, CSC 369
     - Question 6
