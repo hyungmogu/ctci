@@ -2,6 +2,17 @@
 
 ## Work Summary
 
+### September 18th, 2020
+1. Work on Midterm Practice 5, CSC 369
+    - Question 1
+    - Question 2
+    - Question 3
+    - Question 4
+    - Question 5
+    - Question 6
+    - Question 7
+    - Question 8
+
 ### September 17th, 2020
 1. Work on Tutorial 1, CSC 369 (Due September 22nd)
     - Task 1
