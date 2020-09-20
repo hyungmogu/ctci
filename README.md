@@ -2,6 +2,9 @@
 
 ## Work Summary
 
+### September 20th, 2020
+1. Work on assignment 1a, CSC 369
+
 ### September 19th, 2020
 1. Work on Midterm Practice 5, CSC 369
     - Question 8
