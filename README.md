@@ -2,6 +2,9 @@
 
 ## Work Summary
 
+### September 23rd, 2020
+1. Work on assignment 1a, CSC 369
+
 ### September 22nd, 2020
 1. Work on assignment 1a, CSC 369
 
