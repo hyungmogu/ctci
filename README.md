@@ -2,6 +2,18 @@
 
 ## Work Summary
 
+### September 24th, 2020
+1. Watch pre-lecture video
+    - L4a-Disks
+
+2. Work on exercise 3, CSC 369
+
+3. Work on lecture notes, CSC 369
+    - Lecture 5
+
+4. Work on Tutorial 2, CSC 369
+    - Fuse Passthrough
+
 ### September 23rd, 2020
 1. Work on assignment 1a, CSC 369
 
