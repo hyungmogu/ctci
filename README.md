@@ -2,13 +2,24 @@
 
 ## Work Summary
 
+### September 25th, 2020
+1. Work on Tutorial 2, CSC 369
+    - Tutorial quiz
+
+2. Work on required readings, CSC 369
+    - Chapter 4, Processes
+    - Chapter 5, Processes API
+    - Chapter 6, Direct Execution
+
+3. Record exercise 3 second time, CSC 369
+
 ### September 24th, 2020
-1. Watch pre-lecture video
+1. Watch Pre-Lecture Video
     - L4a-Disks
 
-2. Work on exercise 3, CSC 369
+2. Work on Exercise 3, CSC 369
 
-3. Work on lecture notes, CSC 369
+3. Work on Reviewing Lecture Notes, CSC 369
     - Lecture 5
 
 4. Work on Tutorial 2, CSC 369
