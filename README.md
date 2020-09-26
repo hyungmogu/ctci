@@ -2,6 +2,11 @@
 
 ## Work Summary
 
+### September 26th, 2020
+1. Work on required readings, CSC 369
+    - Chapter 6, Direct Execution
+    - Chapter 26, Concurrency
+
 ### September 25th, 2020
 1. Work on Tutorial 2, CSC 369
     - Tutorial quiz
