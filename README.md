@@ -2,6 +2,15 @@
 
 ## Work Summary
 
+### September 27th, 2020
+1. Work on required readings, CSC 369
+    - Chapter 26, Concurrency
+    - Chapter 13, Address Space
+    - Chapter 27, Threads API
+
+2. Review lectures, CSC 369
+    - Lecture 2
+
 ### September 26th, 2020
 1. Work on required readings, CSC 369
     - Chapter 6, Direct Execution
