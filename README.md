@@ -2,6 +2,13 @@
 
 ## Work Summary
 
+### September 28th, 2020
+1. Work on reviewing lectures, CSC 369
+    - Lecture 2
+    - Lecture 3
+    - Lecture 4
+    - Lecture 5
+
 ### September 27th, 2020
 1. Work on required readings, CSC 369
     - Chapter 26, Concurrency
