@@ -2,6 +2,15 @@
 
 ## Work Summary
 
+### September 29th, 2020
+1. Work on reviewing lectures, CSC 369
+    - Lecture 5
+    - Lecture 6
+
+2. Solve exercise 4 'File System Consistency', CSC 369
+
+3. Work on improving assignment 1a, CSC 369
+
 ### September 28th, 2020
 1. Work on reviewing lectures, CSC 369
     - Lecture 2
