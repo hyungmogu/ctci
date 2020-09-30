@@ -2,6 +2,13 @@
 
 ## Work Summary
 
+### September 30th, 2020
+1. Work on improving assignment 1a, CSC 369
+
+2. Work on required readings, CSC 369
+    - Chapter 42, FSCK and Journaling
+    - Chapter 43, Log-structured File Systems
+
 ### September 29th, 2020
 1. Work on reviewing lectures, CSC 369
     - Lecture 5
