@@ -2,6 +2,9 @@
 
 ## Work Summary
 
+### October 2nd, 2020
+1. Work on Tutorial 3, CSC 369
+
 ### October 1st, 2020
 1. Work on required readings, CSC 369
     - Chapter 43, Log-structured File Systems
