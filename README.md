@@ -2,6 +2,10 @@
 
 ## Work Summary
 
+### November 10th, 2020
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on fixing program being stuck in function `msg_queue_read`
+
 ### October 2nd, 2020
 1. Work on Tutorial 3, CSC 369
 
