@@ -30,6 +30,17 @@
     - Added missing instructions to function `msg_queue_write`
     - Added missing instructions to function `msg_queue_read`
 
+### November 7th, 2020
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_read`
+        - Improved helper function `moe_reader_buffer_is_small`
+        - Created helper function `moe_get_message_size`
+        - Created helper function `moe_read_would_block`
+        - Created helper function `moe_queue_handle_non_blocking`
+    - Worked on adding missing instructions to `msg_queue_close`
+        - Created helper function `moe_get_message_size`
+
+2. Completed Tutorial 8 - Scheduling, CSC 369
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
