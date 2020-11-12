@@ -2,6 +2,33 @@
 
 ## Work Summary
 
+### November 12th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Working on adding missing instruction for `msg_queue_poll`
+    - Cleaning existing code
+    - Fixed `pthread_mutex_destroy  - resource busy` error
+
+2. Added progress on hyungmogu.com
+    - Converting static template to dynamic template for `about page`
+    - Converting static template to dynamic template for `home page`
+        - Adding background color on clicking menu button
+        - Added component `SecondaryHeader.js`
+        - Fixed missing icon in `SecondaryHeader.js`
+        - Added component `PrimaryHeaderMobile.js`
+        - Fixed react app update not showing on github
+        - Fixed missing github and linkedin icon in `PrimaryHeader.js`
+        - Fixed wrong position of primary navigation menu
+        - Fixed `image not found` error in `PrimaryHeader.js`
+        - Completed working on routes
+        - Fixed `Primary header not found` compile error
+        - Fixed `Node Sass version 5.0.0 is incompatible with ^4.0.0` compile error
+        - Fixed `submodule cannot be added to existing repo` github commit error
+    - Installed dependencies
+        - gh-pages
+        - node-sass
+        - react-router-dom
+
 ### November 11th, 2020
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Completed fixing program being stuck in function `msg_queue_read`
