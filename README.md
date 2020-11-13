@@ -2,6 +2,23 @@
 
 ## Work Summary
 
+### November 13th, 2020
+
+1. Added progress on hyungmogu.com
+    - Fixed hyungmogu.com returning 404
+    - Worked on converting static template to dynamic template for `contact page`
+    - Converted static template to dynamic template for `works detail page`
+        - Fixed `Cannot read property 'title' of undefined` error
+        - Fixed `Cannot read property 'data' of undefined` error
+    - Converted static template to dynamic template for `works page`
+        - Fixed style error after click an item in `works page`
+        - Fixed `Cannot read property 'works' of undefined` error
+        - Added component `WorkListItem`
+
+2. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction to `msg_queue_poll`
+        - Searched resources to understand related function `poll` and `select`
+
 ### November 12th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
