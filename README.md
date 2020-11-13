@@ -69,6 +69,23 @@
 
 2. Completed Tutorial 8 - Scheduling, CSC 369
 
+### November 6th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_close`
+        - Added helper function `moe_is_the_last_reader`
+        - Added helper function `moe_is_the_last_writer`
+        - Fixed compile errors
+    - Worked on adding missing instruction to function `msg_queue_write`
+        - Added helper function `moe_has_enough_free_space`
+        - Added helper function `moe_all_reader_handles_closed`
+    - Worked on adding missing instruction `msg_queue_read`
+        - Added missing instructions to `mq_init`
+        - Added missing instructions to `mq_destroy`
+        - Added missing instructions to `mq_backend`
+        - Added helper function `moe_buffer_is_small`
+        - Added helper function `moe_has_writers`
+
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
 
