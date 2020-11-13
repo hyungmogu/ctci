@@ -102,6 +102,18 @@
         - Added missing instructions to `mq_backend`
         - Added helper function `moe_buffer_is_small`
         - Added helper function `moe_has_writers`
+        
+### November 5th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_read`
+        - Added helper function `moe_message_queue_is_empty`
+    - Worked on adding missing instructions to `msg_queue_open`
+        - Gathered notes and learned about `deadlock`
+        - Gathered notes and learned about `read and write`
+        - Gathered notes and learned about `semaphore`
+        - Gathered notes and learned about `conditional variable`
+2. Completed exercise 13 - `Multi-Level Feedback Queue`, CSC 369
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
