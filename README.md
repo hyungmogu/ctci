@@ -2,6 +2,24 @@
 
 ## Work Summary
 
+### November 14th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction for `msg_queue_poll`
+        - Added helper function `moe_requested_events_on_any_queue_already_triggered`
+
+2. Completed on hyungmogu.com
+    - Fixed github resetting `hyungmogu.com` to github pages after `npm run deploy`
+    - Fixed 404 error when refreshing on `work page` and `contact page`
+    - Added past works
+        - `Filtering and Searching the Mineral Catalog`
+        - `Improve a Django Project`
+        - `Clone Chart`
+        - `Portfolio Site`
+        - `Filtering and Searching the Mineral Catalog`
+        - `Calculator App`
+    - Converted static template to dynamic template for `contact page`
+
 ### November 13th, 2020
 
 1. Added progress on hyungmogu.com
