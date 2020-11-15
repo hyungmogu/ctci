@@ -168,6 +168,26 @@
     - Reviewed professor Reid's handout example on producer and consumer `pc_cv.c` to better understand how it works
         - Fixed code
         - Fixed compile errors
+        
+### October 31st, 2020
+1. Added progress on tutorial 7 - `Hungry Hippos`
+    - Setup starter file
+
+2. Added progress on Assignment 1 - `File System Implementation`
+    - Performed test on professor reid's testing codes
+    - Fixed `segmentation fault` error in `a1fs_truncate`
+    - Fixed `a1fs_unlink`
+    - Added missing instructions to function `a1fs_rmdir`
+        - Resolved merge conflicts before uploading solution to haminthecoder/csc369
+        - Fixed incorrect unset of value in `a1fs_rmdir`
+            - Added printing functions in `deallocate_free_blocks` to investigate the root cause
+            - Added printing functions to `get_free_blocks` to investigate the root cause
+    - Fixed `directory entry not found` error when performing `mkdir` after removing the directory
+        - Corrected incorrect storage of directory i-number in `/`
+        - Added printing functions `get_directory_entry` to check correct entry is accessed
+        - Added printing functions around `a1fs_rmdir` to check for the existence of incorrect values
+        - Added printing functions around `remove_directory_entry` to check correct directory entry has been removed
+        - Added printing functions around `mkdir`
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
