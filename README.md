@@ -143,6 +143,17 @@
         - Gathered notes and learned about `conditional variable`
 2. Completed exercise 13 - `Multi-Level Feedback Queue`, CSC 369
 
+### November 4th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction to `msg_queue_open`
+        - Gathered notes and learned about `read and write`
+        - Gathered notes and learned about `semaphore`
+        - Gathered notes and learned about `conditional variable`
+
+### November 3rd, 2020
+1. Completed exercise 12 - `Scheduling`, CSC369
+
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
 
