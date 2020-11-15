@@ -202,6 +202,18 @@
         - Fixed `invalid argument` error in `deallocate_inode`
         - Fixed `invalid argument` error in `remove_directory_entry`
 
+### October 29th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Uploaded `a1fs_getattr` to haminthecoder/csc369
+    - Uploaded `a1fs_readdir` to haminthecoder/csc369
+    - Fixed storage of irregular i_number in `a1fs_create` and `a1fs_mkdir`
+        - Added prints to find mysterious inode number 111 created in directory entry
+    - Fixed `free(): invalid pointer` in `a1fs_create`
+    - Fixed incorrect return value in `set_directory_entry`
+    - Fixed incorrect value of directory entry in `get_directory_entry`
+    - Fixed `No such file or directory` issue in `a1fs_create`
+    - Fixed file name containing corrupted values in `get_file_name`
+
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
 
