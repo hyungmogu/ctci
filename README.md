@@ -188,6 +188,19 @@
         - Added printing functions around `a1fs_rmdir` to check for the existence of incorrect values
         - Added printing functions around `remove_directory_entry` to check correct directory entry has been removed
         - Added printing functions around `mkdir`
+        
+### October 30th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Worked on adding missing instructions to `a1fs_rmdir`
+        - Fixed `directory entry not found` error during `a1fs_mkdir` after removal
+        - Fixed `invalid argument` error in `deallocate_extent_block`
+        - Improved `initialize_inode_directory` to include info about initial number of directory entries in directory inode
+        - Improved `set_directory_entry` to increment number of directory entries in inode when new are added
+    - Uploaded `a1fs_unlink` to haminthecoder/csc369
+        - Resolved conflicts with master
+    - Fixed function `a1fs_unlink`
+        - Fixed `invalid argument` error in `deallocate_inode`
+        - Fixed `invalid argument` error in `remove_directory_entry`
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
