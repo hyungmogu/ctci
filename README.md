@@ -2,6 +2,16 @@
 
 ## Work Summary
 
+### November 15th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instruction for `msg_queue_poll`
+        - Added helper function `moe_mqpoll_readable_requested_for_non_reader_queue_handle`
+        - Added helper function `moe_mqpoll_writable_requested_for_non_writer_queue_handle`
+        - Improved helper function `moe_an_event_is_subscribed`
+        - Improved helper function `moe_events_field_in_a_pollfd_entry_is_valid`
+        - Added helper function `moe_requested_events_on_any_queue_already_triggered`
+
 ### November 14th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
