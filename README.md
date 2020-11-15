@@ -154,6 +154,21 @@
 ### November 3rd, 2020
 1. Completed exercise 12 - `Scheduling`, CSC369
 
+### November 2nd, 2020
+1. Completed Tutorial 7 - `Hungry Hippos`
+    - Fixed hanging condition after referee exists in `referee`
+    - Added printing functions to better understand what's going on rwar
+        - Game is stuck when marbles are out in `restart_game`
+    - Fixed correct argument leading to compilation error
+    - Fixed `Thread #1's call to pthread_create failed` error
+
+### November 1st, 2020
+1. Added progress on tutorial 7 - `Hungry Hippos`
+    - Installed error detection tool `valgrind` on Ubuntu virtual machines
+    - Reviewed professor Reid's handout example on producer and consumer `pc_cv.c` to better understand how it works
+        - Fixed code
+        - Fixed compile errors
+
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
 
