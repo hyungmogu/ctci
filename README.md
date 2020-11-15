@@ -213,6 +213,21 @@
     - Fixed incorrect value of directory entry in `get_directory_entry`
     - Fixed `No such file or directory` issue in `a1fs_create`
     - Fixed file name containing corrupted values in `get_file_name`
+    
+### October 28th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Fixed `No such file or directory` issue in `a1fs_create`
+    - Fixed `Address in use` issue in `a1fs_create`
+    - Fixed `No such file or directory` issue in `a1fs_getattr`
+    - Fixed malfunctioning `get_free_blocks` function in `a1fs_mkdir`
+    - Fixed malfunctioning `set_data_bitmap` function in `a1fs_mkdir`
+    - Fixed malfunctioning `set_directory_entry` function in `a1fs_mkdir`
+    - Fixed incorrect file name in `get_file_name` for `a1fs_mkdir`
+    - Fixed issue `address in use` error in `set_data_bitmap` for `a1fs_mkdir`
+    - Fixed issue `segmentation fault` error in `set_directory_entry` for `a1fs_mkdir`
+    - Fixed issue of data not writing to disk in `a1fs_mkfs`
+    - Improved function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
+    - Added shell program for easier repeated running of programs
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
