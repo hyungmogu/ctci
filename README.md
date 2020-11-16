@@ -228,6 +228,40 @@
     - Fixed issue of data not writing to disk in `a1fs_mkfs`
     - Improved function `get_directory_entry` to include `ENOENT` and `ENOTDIR` errors
     - Added shell program for easier repeated running of programs
+    
+### October 27th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Filled missing instructions in `a1fs_unlink`
+        - Fixed `segmentation fault` error in `get_directory_entry`
+        - Fixed `segmentation fault` error in `remove_directory_entry`
+        - Fixed `empty value` error in `get_parent_path`
+        - Added test code to function `a1fs_unlink`
+        - Added helper function `deallocate_extent_block`
+        - Added testing code to function `deallocate_extent_block`
+    
+### October 26th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Added missing instructions to `a1fs_unlink`
+        - Added helper function `deallocate_data_block`
+        - Added helper function `remove_directory_entry`
+        - adding testing code to function `remove_directory_entry`
+        - Added helper function `deallocate_inode`
+        - Added test functions for `deallocate_inode`
+        - Added helper function `save`
+        - Added test functions for `save`
+    - Worked on adding missing instruction to `a1fs_create` in `a1fs.c`
+        - Uploaded code to haminthecoder/csc369
+        - Performed tests to make sure there is no compile errors
+        - Added test codes to function `a1fs_create`
+        - Added test functions for `initialize_inode_file`
+        - Added helper function `initialize_inode_file`
+    - Worked on adding missing instructions to `a1fs_mkdir` in `a1fs.c`
+        - Checked to make sure all is well on virtual machine before merge request
+        - Added helper function `get_file_name`
+        - Added test functions for `get_file_name`
+        - Fixed `segmentation fault` error in `get_free_inode`
+        - Added test to `a1fs_mkdir`
+
 
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
