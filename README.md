@@ -263,6 +263,217 @@
         - Added test to `a1fs_mkdir`
 
 
+### October 25th, 2020
+1. Added progress on Assignment 1 - `File System Implementation`
+    - Worked on adding missing instructions to `a1fs_mkdir`
+        - Added helper function `initialize_inode_directory`
+        - Added test functions for `initialize_inode_directory`
+        - Added helper function `get_directory_entry`
+        - Added test functions for  `get_directory_entry`
+        - Fixed `undefined reference to function` error
+        - Fixed `segmentation fault` error in `get_free_inode`
+        - Fixed `ceil function not found` error
+        - Fixed `msync: invalid argument` error in `set_directory_entry`
+        - Fixed erroneous fetching of extent in `set_directory_entry`
+        - Uploaded updated version of `mkfs` to haminthecoder/csc369
+
+### October 24th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Fixed incorrect value of `superblock->s_blocks_count` in function `setup_superblock`
+        - Fixed compilation error for `mkfs` tests
+        - Added additional test functions for `mkfs` to double check creation of root directory
+        - Improved function logic for creating root directory in `mkfs`
+        - Added helper function `initialize_extent_block`
+        - Added helper function `get_free_blocks`
+
+
+### October 23rd, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `create_new_extent`
+
+### October 22nd, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `get_parent_path`
+
+2. Finished solving problems in exercise 8 - `Locks and Condition Variables` for CSC 369
+
+### October 21st, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `set_directory_entry`
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+
+        - Added helper function `get_parent_path`
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+
+### October 20th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `set_data_bitmap`
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+        - Added helper function `set_inode_bitmap`
+            - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+
+### October 19th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Creating system call `a1fs_mkdir`
+        - Added helper function `initialize_directory_entries`
+           - Added codes and function description
+            - Added test functions to make sure function is working as it should
+            - Performed tests and corrected the function to make sure it is working as it should
+                - Fixed `expression must be a modifiable lvalue` error
+
+### October 18th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Completed uploading following codes to haminthecoder/csc369 for review
+        - `fs_ctx.c`
+        - `mkfs.c`
+    - Completed `fs_ctx_destroy` in `fs_ctx.c`
+    - Completed `fs_ctx_init` in `fs_ctx.c`
+        - Completed adding code for `fx_ctx_init`
+        - Completed setting up test functions
+
+### October 17th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Worked on `fs_ctx_init` in `fs_ctx.c`
+    - Worked on fixing `mkfs.c` under review suggestion from hamin
+        - Organizing and commenting declared varibles
+        - Completed typecasting size variable to match its field in struct `a1fs_superblock`
+        - Completed removing unused field from `a1fs_inode`
+        - Completed removing unused parameter in `create_root_dir`
+        - Completed adding missing `<math.h>` library
+        - Completed removing redundant `mkfs` function
+2. Reviewed lecture 10 notes first time, CSC 369
+3. Worked on csc-369 midterm 1 preparation
+    - Reviewed lecture notes
+        - Completed reviewing Lecture 2, Files and File System
+        - Completed reviewing Lecture 3, Files and File Systems first time
+        - Completed reviewing Lecture 5, FFS first time
+
+### October 16th, 2020
+1. Worked on csc-369 midterm 1 preparation
+    - Reviewed lecture notes
+        - Worked on reviewing Lecture 3, Files and File Systems
+            - Worked on slide 'The Fast File System'
+        - Completed reviewing Lecture 6, Supporting Multiple file Systems first time
+        - Completed reviewing Lecture 7, Journal File Systems and Solid State Drive first time
+        - Completed reviewing Lecture 8, Process and System Calls first time
+        - Completed reviewing Lecture 9, System Calls and Threads first time
+    - Completed solving past midterms
+        - Completed solving question 6 midterm 3
+        - Completed solving question 5 midterm 3
+        - Completed correcting question 4 midterm 3
+        - Completed solving question 4 midterm 3
+        - Completed correcting question 1 midterm 3
+        - Completed solving question 1 midterm 3
+        - Completed solving question 5 midterm 2
+        - Completed solving question 4 midterm 2
+        - Completed solving question 2 midterm 2
+        - Completed solving question 1 midterm 2
+        - Completed solving question 5 midterm 1
+
+### October 15th, 2020
+1. Worked on csc-369 midterm 1 preparation
+    - Worked on solving past midterms
+        - Completed solving question 4 midterm 1
+        - Completed solving question 3 midterm 1
+        - Completed correcting question 2 and question 1 midterm 1
+        - Completed solving question 2 midterm 1
+        - Completed solving question 1 midterm 1
+    - Completed solving mock test
+        - Completed correcting problems for markus component
+        - Completed solving question 4 for markus component
+        - Completed solving question 3 for markus component
+        - Completed solving question 2 for markus component
+        - Completed solving questions for quercus component
+    - Completed solving past exercises
+        - Completed solving questions in exercise 6
+        - Completed solving questions in exercise 5
+        - Completed solving questions in exercise 4
+
+
+### October 14th, 2020
+1. Worked on csc-369 midterm 1 preparation
+    - Worked on solving past exercises
+        - completed solving questions in exercise 3
+        - completed solving questions in exercise 2
+        - completed solving questions in exercise 1
+2. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - completed uploading `mkfs.c` to haminthecoder/csc369
+    - completed refactoring testing program
+    - completed `mkfs`
+    - completed `a1fs_is_present`
+
+### October 13th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Completed working on `create_root_directory`
+    - Completed working on `get_free_inode`
+    - Completed working on setting up test for `setup_superblock`
+
+### October 12th, 2020
+
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Worked on setting up tests for `setup_superblock`
+    - Worked on correcting `a1fs_mkdir`
+    - Worked on correcting `update_inode_block()` version 1 in `a1fs_mkdir`
+
+### October 11th, 2020
+
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Worked on correcting `a1fs_mkdir`
+    - Worked on correcting `update_inode_block()` version 1 in `a1fs_mkdir`
+    - Completed on getting the starting files to work for debugging
+
+### October 10th, 2020
+1. Worked on csc-369 assignment 1 - `Creating a file system using FUSE`
+    - Completed adding helper function `get_free_inode()`
+    - Completed installing USB extension in VirtualBox following this [link](https://www.tecmint.com/enable-usb-in-virtualbox/)
+
+2. Worked on reviewing lecture 9, CSC 369
+
+3. Worked on exercise 6, CSC 369
+
+### October 8th, 2020
+1. Worked on assignment 1b, CSC 369
+
+### October 7th, 2020
+1. Worked on reviewing lectures, CSC 369
+    - Lecture 8
+
+2. Worked on assignment 1b, CSC 369
+
+### October 6th, 2020
+1. Worked on required readings, CSC 369
+    - Chapter 44, Flash-Based SSDs
+
+2. Worked on reviewing lectures, CSC 369
+    - Lecture 7
+    - Lecture 8
+
+3. Called BC government regarding student aid
+
+### October 5th, 2020
+1. Work on required readings, CSC 369
+    - Chapter 44, Flash-Based SSDs
+
+### October 4th, 2020
+1. Worked on required readings, CSC 369
+    - Chapter 43, Log-structured File Systems
+
+### October 3rd, 2020
+1. Worked on Tutorial 3, CSC 369
+
 ### October 2nd, 2020
 1. Worked on Tutorial 3, CSC 369
 
