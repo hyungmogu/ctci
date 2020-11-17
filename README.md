@@ -2,6 +2,15 @@
 
 ## Work Summary
 
+### November 17th, 2020
+
+1. Added progress on csc-369 assignment 2 - `Creating message queues`
+    - Worked on adding missing instructions to `msg_queue_poll`
+        - Added missing entries in `mq_backend`
+        - Added helper function `moe_add_to_wait_queue`
+        - Added helper function `moe_initialize_wait_queue_node`
+        - Fixed compile error related to `container_of`
+
 ### November 16th, 2020
 
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
