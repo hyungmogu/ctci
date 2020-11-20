@@ -2,6 +2,22 @@
 
 ## Work Summary
 
+### November 20th, 2020
+1. Add progress on back-end engineer path from Codeacademy
+    - Finished chapter 2 - setting up environment
+        - Completed project `Daily Buzz` (14/14)
+        - Completed project `Bicycle World` (16/16)
+        - Completed File System quiz (8/8)
+        - Completed working on File System Notes (10/10)
+
+2. Improved hyungmogu.com
+    - Fixed malfunctioning navigation
+        - Added functionality that returns to homepage on clicking `Hyungmo Gu`
+        - Added functionality that closes mobile menu on click
+    - Added typewriter effect
+        - Added function `handleTyping`
+        - Added pseudocode
+
 ### November 19th, 2020
 1. Added progress on csc-369 assignment 2 - `Creating message queues`
     - Submitted assignment
