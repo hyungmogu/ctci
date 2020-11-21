@@ -2,9 +2,14 @@
 
 ## Work Summary
 
+### November 21st, 2020
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on Lesson 10 - `Build a Back-End with Node/Express.js`
+        - Completed 7/15 parts of `Learn Node.js`
+
 ### November 20th, 2020
 1. Add progress on back-end engineer path from Codeacademy
-    - Finished chapter 2 - setting up environment
+    - Finished chapter 2 - `setting up environment`
         - Completed project `Daily Buzz` (14/14)
         - Completed project `Bicycle World` (16/16)
         - Completed File System quiz (8/8)
