@@ -2,6 +2,18 @@
 
 ## Work Summary
 
+### November 22nd, 2020
+1. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
+        - Worked on part 1/9 of lesson `Async / Await`
+        - Completed lesson `Javascript Promises`
+
+2. Added improvements to hyungmogu.com
+    - Fixed issue where opacity of `screen-overlay` changes from 50% to 1%
+    on deploying to github page
+    - Cleaned works section
+    - Updated resume link
+
 ### November 21st, 2020
 1. Added progress on back-end engineer path from Codeacademy
     - Worked on Lesson 10 - `Build a Back-End with Node/Express.js`
