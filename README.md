@@ -2,6 +2,19 @@
 
 ## Work Summary
 
+### November 29th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
+    - Completed problem `[카카오 인턴] 키패드 누르기` in Programmers
+    - Completed problem `같은 숫자는 싫어` in Programmers
+    - Completed problem `2016년` in Programmers
+    - Completed problem `두 개 뽑아서 더하기` in Programmers
+
+2. Added progress on back-end engineer path from Codeacademy
+    - Worked on chapter 10 - Build a Back-End with Node/Express.js
+        - Completed lesson `Asynchronous Javascript`
+            - Completed working on quiz for `Async / Await`
+            - Completed working on derivative lesson `Async / Await`
 
 ### November 28th, 2020
 
