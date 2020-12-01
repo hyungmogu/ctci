@@ -2,6 +2,20 @@
 
 ## Work Summary
 
+### November 30th, 2020
+1. Worked on practicing coding interview
+    - completed problem `문자열 내 마음대로 정렬하기` in Programmers
+    - completed problem `내적` in Programmers
+    - completed problem `3진법 뒤집기` in Programmers
+    - completed problem `[카카오 blink recruitment] 실패율` in Programmers
+    - completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
+    - completed problem `가운데 글자 가져오기` in Programmers
+    - completed problem `나누어 떨어지는 숫자 배열` in Programmers
+
+2. Added progress on back-end engineer path from Codeacademy
+    - Worked on Lesson 10 - Build a Back-End with Node/Express.js
+        - Completed lesson `Learn Node.js`
+
 ### November 29th, 2020
 1. Worked on practicing coding interview
     - Completed problem `[카카오 인턴] 크레인 인형뽑기 게임` in Programmers
