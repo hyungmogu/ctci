@@ -7,8 +7,8 @@
     - completed problem `문자열 내 마음대로 정렬하기` in Programmers
     - completed problem `내적` in Programmers
     - completed problem `3진법 뒤집기` in Programmers
-    - completed problem `[카카오 blink recruitment] 실패율` in Programmers
-    - completed problem `[카카오 blink recruitment] 비밀지도` in Programmers
+    - completed problem `[카카오 blind recruitment] 실패율` in Programmers
+    - completed problem `[카카오 blind recruitment] 비밀지도` in Programmers
     - completed problem `가운데 글자 가져오기` in Programmers
     - completed problem `나누어 떨어지는 숫자 배열` in Programmers
 
