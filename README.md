@@ -2,6 +2,19 @@
 
 ## Work Summary
 
+### December 2nd, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `124 나라의 숫자` in Programmers
+    - Completed problem `문자열 압축` in Programmers
+
+### December 1st, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `프린터` in Programmers
+    - Completed problem `스킬트리` in Programmers
+    - Completed problem `괄호 변환` in Programmers
+
 ### November 30th, 2020
 1. Worked on practicing coding interview
     - completed problem `문자열 내 마음대로 정렬하기` in Programmers
