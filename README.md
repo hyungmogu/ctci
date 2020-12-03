@@ -2,6 +2,13 @@
 
 ## Work Summary
 
+### December 3rd, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `소수 찾기` in Programmers
+    - Completed problem `H-Index` in Programmers
+    - Completed problem `멀쩡한 사각형` in Programmers
+
 ### December 2nd, 2020
 
 1. Worked on practicing coding interview
