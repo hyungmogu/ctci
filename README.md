@@ -2,6 +2,13 @@
 
 ## Work Summary
 
+### December 4th, 2020
+
+1. Worked on practicing coding interview
+    - Completed problem `피보나치의 수` in Programmers
+    - Completed problem `위장` in Programmers
+    - Completed problem `다리를 지나는 트럭` in Programmers
+
 ### December 3rd, 2020
 
 1. Worked on practicing coding interview
