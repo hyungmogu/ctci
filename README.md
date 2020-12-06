@@ -2,6 +2,12 @@
 
 ## Work Summary
 
+### December 6th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `최대값과 최소값` in Programmers
+    - Completed problem `조이스틱` in Programmers
+    - Completed problem `큰 수 만들기` in Programmers
+
 ### December 5th, 2020
 1. Worked on practicing coding interview
     - Completed problem `소수 만들기` in Programmers
