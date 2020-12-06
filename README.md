@@ -2,28 +2,29 @@
 
 ## Work Summary
 
-### December 4th, 2020
+### December 5th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `소수 만들기` in Programmers
+    - Completed problem `구명보트` in Programmers
 
+### December 4th, 2020
 1. Worked on practicing coding interview
     - Completed problem `피보나치의 수` in Programmers
     - Completed problem `위장` in Programmers
     - Completed problem `다리를 지나는 트럭` in Programmers
 
 ### December 3rd, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `소수 찾기` in Programmers
     - Completed problem `H-Index` in Programmers
     - Completed problem `멀쩡한 사각형` in Programmers
 
 ### December 2nd, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `124 나라의 숫자` in Programmers
     - Completed problem `문자열 압축` in Programmers
 
 ### December 1st, 2020
-
 1. Worked on practicing coding interview
     - Completed problem `프린터` in Programmers
     - Completed problem `스킬트리` in Programmers
