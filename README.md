@@ -2,6 +2,12 @@
 
 ## Work Summary
 
+### December 10th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `오픈채팅방` in Programmers
+    - Completed problem `방금그곡` in Programmers
+    - Completed problem `폰켓몬` in Programmers
+
 ### December 9th, 2020
 1. Worked on practicing coding interview
     - Completed problem `최솟값 만들기` in Programmers
