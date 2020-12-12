@@ -2,6 +2,18 @@
 
 ## Work Summary
 
+### December 12th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `땅따먹기` in Programmers
+    - Completed problem `점프와 순간 이동` in Programmers
+
+### December 11th, 2020
+1. Worked on practicing coding interview
+    - Completed problem `예상 대진표` in Programmers
+    - Completed problem `파일명 정렬` in Programmers
+    - Completed problem `프렌즈4블록` in Programmers
+    - Completed problem `카펫` in Programmers
+
 ### December 10th, 2020
 1. Worked on practicing coding interview
     - Completed problem `오픈채팅방` in Programmers
